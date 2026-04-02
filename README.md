@@ -18,7 +18,7 @@ Static JSON API for a board games and oracle decks collection, hosted on GitHub 
 
 ## Endpoints
 
-Base URL: `https://<user>.github.io/board-games-db`
+Base URL: `https://2y2son4.github.io/board-games-db`
 
 | Endpoint                          | Description                                        |
 | --------------------------------- | -------------------------------------------------- |
@@ -133,7 +133,7 @@ npm run serve             # Serve dist/ locally on http://localhost:3000
    npm run build       # Rebuild dist/
    ```
 
-4. **Commit and push** to `main` — GitHub Actions deploys automatically.
+4. **Commit and push** to `master` — GitHub Actions deploys automatically.
 
 ### Adding a new oracle
 
@@ -166,7 +166,7 @@ curl http://localhost:3000/v1/status.json
 2. Create a feature branch: `git checkout -b add-new-game`.
 3. Add/edit entries in `data/` and images in `images/`.
 4. Run `npm run build && npm test` — both must pass.
-5. Open a PR to `main`.
+5. Open a PR to `master`.
 
 Validation runs on every build. The CI workflow will also run the build on push, so broken data won't deploy.
 
@@ -179,14 +179,14 @@ This API is designed for the **board-games-showcase** Angular app. The FE fetche
 ### Base URL
 
 ```
-https://<user>.github.io/board-games-db
+https://2y2son4.github.io/board-games-db
 ```
 
 ### Fetching data
 
 ```typescript
 // In your Angular HttpService:
-private readonly apiBase = 'https://<user>.github.io/board-games-db';
+private readonly apiBase = 'https://2y2son4.github.io/board-games-db';
 
 getGames(): Observable<{ games: GameCard[] }> {
   return this.http.get<{ games: GameCard[] }>(`${this.apiBase}/v1/games.json`);
@@ -257,7 +257,7 @@ export const environment = {
 
 // environment.prod.ts
 export const environment = {
-  apiBase: "https://<user>.github.io/board-games-db",
+  apiBase: "https://2y2son4.github.io/board-games-db",
 };
 ```
 
@@ -292,7 +292,7 @@ Tests run against the actual `data/` and `images/` directories, so they catch re
 
 ## Deployment
 
-Pushes to `main` automatically build and deploy to GitHub Pages via GitHub Actions.
+Pushes to `master` automatically build and deploy to GitHub Pages via GitHub Actions.
 
 **Setup (one-time):**
 
@@ -306,7 +306,7 @@ Pushes to `main` automatically build and deploy to GitHub Pages via GitHub Actio
 2. Installs dependencies (`npm ci`)
 3. Runs `npm run build` (validate → generate → copy images)
 4. Uploads `dist/` as a GitHub Pages artifact
-5. Deploys to `https://<user>.github.io/board-games-db`
+5. Deploys to `https://2y2son4.github.io/board-games-db`
 
 ---
 
