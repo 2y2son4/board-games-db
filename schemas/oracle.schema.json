@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OracleCard",
+  "type": "object",
+  "required": ["name", "artist", "language", "description", "web"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "artist": {
+      "type": "string",
+      "minLength": 1
+    },
+    "language": {
+      "type": "string",
+      "enum": ["en", "es", "de", "x"]
+    },
+    "image": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "web": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GameCard",
+  "type": "object",
+  "required": [
+    "name", "editor", "year", "types", "language",
+    "players", "time", "complexity", "rate", "image",
+    "isPlayed", "age", "bggReference", "size"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "editor": {
+      "type": "string",
+      "minLength": 1
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1900,
+      "maximum": 2100
+    },
+    "types": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    },
+    "language": {
+      "type": "string",
+      "enum": ["en", "es", "de", "x"]
+    },
+    "players": {
+      "type": "array",
+      "items": { "type": "integer", "minimum": 1 },
+      "minItems": 1,
+      "maxItems": 2
+    },
+    "time": {
+      "type": "number",
+      "minimum": 0
+    },
+    "complexity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "rate": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 10
+    },
+    "image": {
+      "type": "string",
+      "minLength": 1
+    },
+    "isPlayed": {
+      "type": "boolean"
+    },
+    "age": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "bggReference": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "size": {
+      "type": "string",
+      "enum": ["xs", "s", "m", "l"]
+    }
+  },
+  "additionalProperties": false
+}

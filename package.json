@@ -1,0 +1,20 @@
+{
+  "name": "board-games-db",
+  "version": "1.0.0",
+  "description": "Static JSON API for board games and oracle decks collection, hosted on GitHub Pages",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "generate": "node scripts/generate.js",
+    "build": "node scripts/build.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "serve": "npx serve dist -l 3000 --cors"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "vitest": "^4.1.2"
+  }
+}
