@@ -8570,7 +8570,7 @@
       "size": "s"
     },
     {
-      "name": "Sleedy Lost Tapes",
+      "name": "Sleddy Lost Tapes",
       "editor": "Key Enigma",
       "year": 2026,
       "types": [
@@ -8588,14 +8588,14 @@
       "time": 240,
       "complexity": 0,
       "rate": 0,
-      "image": "sleedy-lost-tapes",
+      "image": "sleddy-lost-tapes",
       "isPlayed": false,
       "age": 14,
       "bggReference": 9483464,
       "size": "m"
     },
     {
-      "name": "Sleedy The Last Episode",
+      "name": "Sleddy The Last Episode",
       "editor": "Key Enigma",
       "year": 2021,
       "types": [
@@ -8613,11 +8613,11 @@
       "time": 120,
       "complexity": 0,
       "rate": 0,
-      "image": "sleedy-the-last-episode",
+      "image": "sleddy-the-last-episode",
       "isPlayed": false,
       "age": 14,
       "bggReference": 467312,
-      "size": "m"
+      "size": "xs"
     },
     {
       "name": "Crime unfolds",
