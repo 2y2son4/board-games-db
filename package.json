@@ -10,11 +10,14 @@
     "build": "node scripts/build.js",
     "test": "vitest run",
     "test:watch": "vitest",
-    "serve": "npx serve dist -l 3000 --cors"
+    "serve": "npx serve dist -l 3000 --cors",
+    "import": "node scripts/import-bgg.js"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
+    "fast-xml-parser": "^5.5.10",
+    "sharp": "^0.34.5",
     "vitest": "^4.1.2"
   }
 }

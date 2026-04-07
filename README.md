@@ -95,13 +95,63 @@ npm run generate          # Generate API files only (no validation/image copy)
 npm test                  # Run all tests
 npm run test:watch        # Run tests in watch mode
 npm run serve             # Serve dist/ locally on http://localhost:3000
+npm run import -- <ids>    # Batch import games from BoardGameGeek
 ```
 
 ---
 
 ## Updating the database
 
-### Adding a new game
+### Batch import from BoardGameGeek
+
+The fastest way to add multiple games at once. The import script fetches game data and cover images directly from the BGG API.
+
+**One-time setup:**
+
+1. Create a BGG account (if you don't have one).
+2. Go to [boardgamegeek.com/applications](https://boardgamegeek.com/applications) and register a **non-commercial** application.
+3. Once approved, generate a **token** under your app.
+4. Set the token as an environment variable:
+
+   ```bash
+   export BGG_API_TOKEN=your-token-here
+   ```
+
+**Usage:**
+
+```bash
+# Import one or more games by BGG ID
+npm run import -- 174430 224517 342942
+
+# With options
+npm run import -- 174430 224517 --language=es --size=l
+
+# Or pass the token inline
+npm run import -- 174430 --token=your-token-here
+```
+
+| Option       | Values                | Default                  |
+| ------------ | --------------------- | ------------------------ |
+| `--token`    | BGG API Bearer token  | `$BGG_API_TOKEN` env var |
+| `--language` | `en`, `es`, `de`, `x` | `en`                     |
+| `--size`     | `xs`, `s`, `m`, `l`   | `m`                      |
+
+The script will:
+
+- Fetch name, editor, year, players, time, complexity, rate, types, and age from BGG.
+- Download the cover image and convert it to `.webp`.
+- Generate the image slug automatically (e.g. "Gloomhaven" → `gloomhaven`).
+- Set `isPlayed` to `false` by default.
+- Skip games already in the database (matched by `bggReference`).
+- Append new entries to `data/games.json`.
+
+After importing, validate and build:
+
+```bash
+npm run validate && npm run build
+```
+
+### Adding a new game manually
 
 1. **Add the entry** to `data/games.json` inside the `"games"` array:
 
@@ -135,7 +185,7 @@ npm run serve             # Serve dist/ locally on http://localhost:3000
 
 4. **Commit and push** to `master` — GitHub Actions deploys automatically.
 
-### Adding a new oracle
+### Adding a new oracle deck
 
 Same workflow, but edit `data/oracles.json` and place the image in `images/oracles/`.
 
