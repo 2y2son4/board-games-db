@@ -58,7 +58,7 @@
         6
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.7,
       "image": "master-dater-big-love",
       "isPlayed": true,
@@ -194,7 +194,7 @@
         10
       ],
       "time": 15,
-      "complexity": 1.60,
+      "complexity": 1.6,
       "rate": 7.3,
       "image": "coup-reformation",
       "isPlayed": true,
@@ -330,7 +330,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6,
       "image": "karma",
       "isPlayed": true,
@@ -471,7 +471,7 @@
         8
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 7.2,
       "image": "unanimo-party",
       "isPlayed": true,
@@ -704,7 +704,7 @@
         5
       ],
       "time": 15,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 7.2,
       "image": "exploding-kittens-streaking",
       "isPlayed": true,
@@ -728,7 +728,7 @@
         5
       ],
       "time": 15,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.6,
       "image": "zombie-kittens",
       "isPlayed": true,
@@ -1046,7 +1046,7 @@
         8
       ],
       "time": 15,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.8,
       "image": "en-una-escala-de-1-a-trex",
       "isPlayed": false,
@@ -1211,7 +1211,7 @@
         7
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 7,
       "image": "stay-cool",
       "isPlayed": false,
@@ -1380,7 +1380,7 @@
         6
       ],
       "time": 5,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.9,
       "image": "caballeros-arcoiris",
       "isPlayed": false,
@@ -1452,7 +1452,7 @@
         4
       ],
       "time": 30,
-      "complexity": 1.50,
+      "complexity": 1.5,
       "rate": 6.5,
       "image": "social-train",
       "isPlayed": false,
@@ -1524,7 +1524,7 @@
         4
       ],
       "time": 20,
-      "complexity": 1.50,
+      "complexity": 1.5,
       "rate": 6.4,
       "image": "leyenda-del-cerezo",
       "isPlayed": false,
@@ -1598,7 +1598,7 @@
         5
       ],
       "time": 30,
-      "complexity": 1.80,
+      "complexity": 1.8,
       "rate": 6.6,
       "image": "gloom-expediciones",
       "isPlayed": false,
@@ -1623,7 +1623,7 @@
         5
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.7,
       "image": "gloom-invitados",
       "isPlayed": false,
@@ -1695,7 +1695,7 @@
         6
       ],
       "time": 15,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.4,
       "image": "speed-cups-6",
       "isPlayed": false,
@@ -1766,7 +1766,7 @@
         4
       ],
       "time": 60,
-      "complexity": 1.70,
+      "complexity": 1.7,
       "rate": 7.5,
       "image": "the-island",
       "isPlayed": true,
@@ -1839,7 +1839,7 @@
         4
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.2,
       "image": "wordsmith",
       "isPlayed": true,
@@ -1911,7 +1911,7 @@
         8
       ],
       "time": 40,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.8,
       "image": "drunken-sailor",
       "isPlayed": true,
@@ -1966,7 +1966,7 @@
         6
       ],
       "time": 30,
-      "complexity": 2.00,
+      "complexity": 2,
       "rate": 7.5,
       "image": "fit-to-print-expansion",
       "isPlayed": true,
@@ -2012,7 +2012,7 @@
         10
       ],
       "time": 30,
-      "complexity": 1.30,
+      "complexity": 1.3,
       "rate": 6.3,
       "image": "uno-flip",
       "isPlayed": true,
@@ -2036,7 +2036,7 @@
         4
       ],
       "time": 15,
-      "complexity": 1.30,
+      "complexity": 1.3,
       "rate": 5.8,
       "image": "cluedo-suspect",
       "isPlayed": true,
@@ -2086,7 +2086,7 @@
         6
       ],
       "time": 30,
-      "complexity": 1.80,
+      "complexity": 1.8,
       "rate": 4.1,
       "image": "black-mirror",
       "isPlayed": false,
@@ -2206,7 +2206,7 @@
         7
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.4,
       "image": "kontour",
       "isPlayed": true,
@@ -2283,7 +2283,7 @@
         6
       ],
       "time": 90,
-      "complexity": 2.20,
+      "complexity": 2.2,
       "rate": 6.3,
       "image": "expediente-dark",
       "isPlayed": true,
@@ -2331,7 +2331,7 @@
         6
       ],
       "time": 25,
-      "complexity": 1.50,
+      "complexity": 1.5,
       "rate": 6.9,
       "image": "listillo",
       "isPlayed": true,
@@ -2530,7 +2530,7 @@
         5
       ],
       "time": 15,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 4.5,
       "image": "kingz",
       "isPlayed": false,
@@ -2645,7 +2645,7 @@
         99
       ],
       "time": 60,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.7,
       "image": "more-or-less",
       "isPlayed": true,
@@ -2666,7 +2666,7 @@
         99
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.1,
       "image": "shot-in-yhe-dark",
       "isPlayed": true,
@@ -2783,7 +2783,7 @@
         4
       ],
       "time": 15,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.3,
       "image": "sriracha-the-game",
       "isPlayed": false,
@@ -2828,7 +2828,7 @@
         99
       ],
       "time": 20,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.8,
       "image": "a-prueba-de-retos",
       "isPlayed": true,
@@ -2876,7 +2876,7 @@
         5
       ],
       "time": 25,
-      "complexity": 2.60,
+      "complexity": 2.6,
       "rate": 7.7,
       "image": "hanabi",
       "isPlayed": true,
@@ -2923,7 +2923,7 @@
         10
       ],
       "time": 25,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 7.1,
       "image": "spoilers",
       "isPlayed": true,
@@ -3020,7 +3020,7 @@
         2
       ],
       "time": 30,
-      "complexity": 2.20,
+      "complexity": 2.2,
       "rate": 7.6,
       "image": "paris-eiffel",
       "isPlayed": false,
@@ -3067,7 +3067,7 @@
         12
       ],
       "time": 60,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.5,
       "image": "el-jurado-1",
       "isPlayed": false,
@@ -3190,7 +3190,7 @@
         7
       ],
       "time": 5,
-      "complexity": 1.20,
+      "complexity": 1.2,
       "rate": 6.4,
       "image": "loading",
       "isPlayed": false,
@@ -3315,7 +3315,7 @@
         5
       ],
       "time": 120,
-      "complexity": 2.60,
+      "complexity": 2.6,
       "rate": 7.4,
       "image": "detective-sigue-la-pista",
       "isPlayed": true,
@@ -3457,7 +3457,7 @@
         6
       ],
       "time": 2,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 6.3,
       "image": "funky-pollo",
       "isPlayed": false,
@@ -3672,7 +3672,7 @@
         8
       ],
       "time": 30,
-      "complexity": 1.50,
+      "complexity": 1.5,
       "rate": 5.8,
       "image": "pixelate",
       "isPlayed": true,
@@ -3695,7 +3695,7 @@
         8
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 7.1,
       "image": "thats-not-a-hat",
       "isPlayed": true,
@@ -3796,7 +3796,7 @@
       ],
       "time": 90,
       "complexity": 1.84,
-      "rate": 7.0,
+      "rate": 7,
       "image": "clic-foto-perfecta",
       "isPlayed": true,
       "age": 10,
@@ -3818,7 +3818,7 @@
         4
       ],
       "time": 30,
-      "complexity": 1.60,
+      "complexity": 1.6,
       "rate": 6.4,
       "image": "cat-cafe",
       "isPlayed": true,
@@ -3862,7 +3862,7 @@
       ],
       "time": 15,
       "complexity": 1.05,
-      "rate": 7.0,
+      "rate": 7,
       "image": "illusion",
       "isPlayed": true,
       "age": 8,
@@ -3987,7 +3987,7 @@
         4
       ],
       "time": 40,
-      "complexity": 1.70,
+      "complexity": 1.7,
       "rate": 6.3,
       "image": "convalence",
       "isPlayed": false,
@@ -4014,7 +4014,7 @@
         4
       ],
       "time": 60,
-      "complexity": 1.50,
+      "complexity": 1.5,
       "rate": 5.7,
       "image": "secreto-de-amelia",
       "isPlayed": true,
@@ -4972,7 +4972,7 @@
       ],
       "time": 20,
       "complexity": 1.15,
-      "rate": 6.0,
+      "rate": 6,
       "image": "the-number",
       "isPlayed": true,
       "age": 8,
@@ -5018,7 +5018,7 @@
         10
       ],
       "time": 15,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.6,
       "image": "quiz-chef",
       "isPlayed": true,
@@ -5140,7 +5140,7 @@
         4
       ],
       "time": 30,
-      "complexity": 2.00,
+      "complexity": 2,
       "rate": 6.5,
       "image": "herbalism",
       "isPlayed": false,
@@ -5188,7 +5188,7 @@
         4
       ],
       "time": 20,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 5.6,
       "image": "city-blox",
       "isPlayed": true,
@@ -5239,8 +5239,8 @@
         2
       ],
       "time": 10,
-      "complexity": 1.50,
-      "rate": 7.0,
+      "complexity": 1.5,
+      "rate": 7,
       "image": "winter",
       "isPlayed": false,
       "age": 8,
@@ -5266,7 +5266,7 @@
         4
       ],
       "time": 90,
-      "complexity": 2.60,
+      "complexity": 2.6,
       "rate": 5.9,
       "image": "ragami",
       "isPlayed": false,
@@ -5608,7 +5608,7 @@
         1
       ],
       "time": 60,
-      "complexity": 2.80,
+      "complexity": 2.8,
       "rate": 7.9,
       "image": "final-girl-terror-from-above",
       "isPlayed": false,
@@ -5652,7 +5652,7 @@
         1
       ],
       "time": 60,
-      "complexity": 2.50,
+      "complexity": 2.5,
       "rate": 8.2,
       "image": "final-girl-once-upon-a-full-moon",
       "isPlayed": false,
@@ -6078,7 +6078,7 @@
       ],
       "time": 30,
       "complexity": 1.67,
-      "rate": 7.0,
+      "rate": 7,
       "image": "moving-wild",
       "isPlayed": true,
       "age": 8,
@@ -6232,7 +6232,7 @@
         6
       ],
       "time": 45,
-      "complexity": 2.10,
+      "complexity": 2.1,
       "rate": 6.5,
       "image": "android-infiltration",
       "isPlayed": false,
@@ -6412,7 +6412,7 @@
         4
       ],
       "time": 60,
-      "complexity": 1.80,
+      "complexity": 1.8,
       "rate": 7.6,
       "image": "art-society",
       "isPlayed": false,
@@ -6881,7 +6881,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.10,
+      "complexity": 1.1,
       "rate": 6.8,
       "image": "cockroach-poker",
       "isPlayed": false,
@@ -7150,7 +7150,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.10,
+      "complexity": 1.1,
       "rate": 6.5,
       "image": "do-de-li-do",
       "isPlayed": false,
@@ -7223,7 +7223,7 @@
         4
       ],
       "time": 15,
-      "complexity": 1.40,
+      "complexity": 1.4,
       "rate": 6.5,
       "image": "bandida",
       "isPlayed": false,
@@ -7350,7 +7350,7 @@
         10
       ],
       "time": 25,
-      "complexity": 1.50,
+      "complexity": 1.5,
       "rate": 6.3,
       "image": "poetry-slam",
       "isPlayed": false,
@@ -7398,7 +7398,7 @@
         99
       ],
       "time": 30,
-      "complexity": 1.20,
+      "complexity": 1.2,
       "rate": 6,
       "image": "venn",
       "isPlayed": false,
@@ -7854,7 +7854,7 @@
       "name": "Pocket Invaders: nuevos desafíos",
       "editor": "SD Games",
       "year": 2019,
-       "types": [
+      "types": [
         "Abstract strategy",
         "Dice",
         "Grid movement",
@@ -7911,7 +7911,7 @@
         8
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 7.8,
       "image": "smart-10-entretenimiento",
       "isPlayed": true,
@@ -7933,7 +7933,7 @@
         8
       ],
       "time": 30,
-      "complexity": 1.00,
+      "complexity": 1,
       "rate": 7.6,
       "image": "smart-10-musica",
       "isPlayed": true,
@@ -8081,7 +8081,7 @@
         6
       ],
       "time": 90,
-      "complexity": 1.60,
+      "complexity": 1.6,
       "rate": 7.6,
       "image": "perspectives-azul",
       "isPlayed": false,
@@ -8641,6 +8641,255 @@
       "isPlayed": false,
       "age": 14,
       "bggReference": 386186,
+      "size": "m"
+    },
+    {
+      "name": "Días de Radio",
+      "editor": "Bisonte",
+      "year": 2014,
+      "types": [
+        "Card Game",
+        "Movies / TV / Radio theme",
+        "Party Game",
+        "Real-time"
+      ],
+      "language": "es",
+      "players": [
+        2,
+        4
+      ],
+      "time": 20,
+      "complexity": 1.38,
+      "rate": 7,
+      "image": "dias-de-radio",
+      "isPlayed": false,
+      "age": 14,
+      "bggReference": 139042,
+      "size": "m"
+    },
+    {
+      "name": "Metal Mania",
+      "editor": "GDM Games",
+      "year": 2017,
+      "types": [
+        "Card Game",
+        "Music"
+      ],
+      "language": "es",
+      "players": [
+        2,
+        5
+      ],
+      "time": 60,
+      "complexity": 1.88,
+      "rate": 5.6,
+      "image": "metal-mania",
+      "isPlayed": false,
+      "age": 10,
+      "bggReference": 218236,
+      "size": "m"
+    },
+    {
+      "name": "Unsurmountable",
+      "editor": "Button Shy",
+      "year": 2021,
+      "types": [
+        "Card Game",
+        "Print & Play",
+        "Sports"
+      ],
+      "language": "es",
+      "players": [
+        1
+      ],
+      "time": 15,
+      "complexity": 1.46,
+      "rate": 6.7,
+      "image": "unsurmountable",
+      "isPlayed": false,
+      "age": 8,
+      "bggReference": 331328,
+      "size": "m"
+    },
+    {
+      "name": "Films",
+      "editor": "Salt & Pepper Games",
+      "year": 2022,
+      "types": [
+        "Card Game",
+        "Movies / TV / Radio theme"
+      ],
+      "language": "es",
+      "players": [
+        1,
+        2
+      ],
+      "time": 15,
+      "complexity": 1,
+      "rate": 6.2,
+      "image": "films",
+      "isPlayed": false,
+      "age": 8,
+      "bggReference": 353548,
+      "size": "m"
+    },
+    {
+      "name": "Distant Suns",
+      "editor": "IELLO",
+      "year": 2022,
+      "types": [
+        "Space Exploration"
+      ],
+      "language": "es",
+      "players": [
+        2,
+        4
+      ],
+      "time": 30,
+      "complexity": 1.79,
+      "rate": 6.5,
+      "image": "distant-suns",
+      "isPlayed": false,
+      "age": 10,
+      "bggReference": 354425,
+      "size": "m"
+    },
+    {
+      "name": "The Hunt",
+      "editor": "Salt & Pepper Games",
+      "year": 2023,
+      "types": [
+        "Bluffing",
+        "Deduction",
+        "Nautical",
+        "Wargame",
+        "World War II"
+      ],
+      "language": "es",
+      "players": [
+        2
+      ],
+      "time": 45,
+      "complexity": 2.27,
+      "rate": 7,
+      "image": "the-hunt",
+      "isPlayed": false,
+      "age": 14,
+      "bggReference": 376223,
+      "size": "m"
+    },
+    {
+      "name": "Fairy Ring",
+      "editor": "Repos Production",
+      "year": 2024,
+      "types": [
+        "City Building",
+        "Fantasy"
+      ],
+      "language": "es",
+      "players": [
+        2,
+        4
+      ],
+      "time": 40,
+      "complexity": 1.81,
+      "rate": 7.3,
+      "image": "fairy-ring",
+      "isPlayed": false,
+      "age": 8,
+      "bggReference": 419074,
+      "size": "m"
+    },
+    {
+      "name": "Witness: The Sigma Club",
+      "editor": "Deep Print Games",
+      "year": 2024,
+      "types": [
+        "Deduction",
+        "Memory",
+        "Murder / Mystery",
+        "Puzzle"
+      ],
+      "language": "es",
+      "players": [
+        4
+      ],
+      "time": 25,
+      "complexity": 2,
+      "rate": 6.7,
+      "image": "witness-the-sigma-club",
+      "isPlayed": false,
+      "age": 10,
+      "bggReference": 422123,
+      "size": "m"
+    },
+    {
+      "name": "Vienna Connection",
+      "editor": "Portal Games",
+      "year": 2021,
+      "types": [
+        "Deduction",
+        "Murder / Mystery",
+        "Spies / Secret Agents",
+        "Travel"
+      ],
+      "language": "es",
+      "players": [
+        1,
+        5
+      ],
+      "time": 180,
+      "complexity": 2.18,
+      "rate": 7.1,
+      "image": "vienna-connection",
+      "isPlayed": false,
+      "age": 16,
+      "bggReference": 299255,
+      "size": "m"
+    },
+    {
+      "name": "Death Valley",
+      "editor": "Button Shy",
+      "year": 2021,
+      "types": [
+        "Card Game",
+        "Print & Play",
+        "Travel"
+      ],
+      "language": "es",
+      "players": [
+        1,
+        2
+      ],
+      "time": 15,
+      "complexity": 1.81,
+      "rate": 6.7,
+      "image": "death-valley",
+      "isPlayed": false,
+      "age": 8,
+      "bggReference": 322703,
+      "size": "m"
+    },
+    {
+      "name": "Linkto Travel",
+      "editor": "Randolph",
+      "year": 2018,
+      "types": [
+        "Educational",
+        "Trivia"
+      ],
+      "language": "es",
+      "players": [
+        1,
+        10
+      ],
+      "time": 45,
+      "complexity": 1,
+      "rate": 6.2,
+      "image": "linkto-travel",
+      "isPlayed": false,
+      "age": 10,
+      "bggReference": 274557,
       "size": "m"
     }
   ]
