@@ -110,12 +110,22 @@ The fastest way to add multiple games at once. The import script fetches game da
 
 1. Create a BGG account (if you don't have one).
 2. Go to [boardgamegeek.com/applications](https://boardgamegeek.com/applications) and register a **non-commercial** application.
-3. Once approved, generate a **token** under your app.
-4. Set the token as an environment variable:
+3. Wait for approval (typically 1–2 weeks). You'll receive an email when approved.
+4. Once approved, go to [boardgamegeek.com/applications](https://boardgamegeek.com/applications), click **"Tokens"** under your app, and generate a token.
+5. Add the token to your local `.env` file (already gitignored):
+
+   ```bash
+   # .env (root of the project — never committed)
+   BGG_API_TOKEN=your-token-here
+   ```
+
+   or run in console:
 
    ```bash
    export BGG_API_TOKEN=your-token-here
    ```
+
+   Alternatively, export it in your shell or pass it inline with `--token=`.
 
 **Usage:**
 
@@ -366,15 +376,15 @@ This is a **read-only, public, static file API** serving a personal board game c
 
 ### What's protected
 
-| Concern                    | Mitigation                                                                                                                                      |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Data integrity**         | JSON Schema validation runs on every build. Invalid data fails the build and won't deploy. Tests verify structure, types, and image references. |
-| **No secrets in the repo** | The data is intentionally public (game names, ratings, images). No API keys, tokens, passwords, or PII are stored.                              |
-| **No server-side code**    | GitHub Pages serves static files only. No server to exploit, no database to inject into, no authentication to bypass.                           |
-| **Supply chain**           | Minimal dependencies: `ajv` (JSON validation) and `vitest` (tests only, dev). No runtime server dependencies.                                   |
-| **Deployment**             | GitHub Actions uses `id-token: write` permission scoped only to Pages deployment. The `GITHUB_TOKEN` is not exposed to the build.               |
-| **Input validation**       | The `additionalProperties: false` setting on schemas prevents unexpected fields from entering the dataset.                                      |
-| **Branch protection**      | Recommended: enable branch protection on `main` so only reviewed PRs can modify the data.                                                       |
+| Concern                    | Mitigation                                                                                                                                                |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Data integrity**         | JSON Schema validation runs on every build. Invalid data fails the build and won't deploy. Tests verify structure, types, and image references.           |
+| **No secrets in the repo** | The data is intentionally public (game names, ratings, images). The BGG API token is stored in `.env` (gitignored) and never committed. No PII is stored. |
+| **No server-side code**    | GitHub Pages serves static files only. No server to exploit, no database to inject into, no authentication to bypass.                                     |
+| **Supply chain**           | Minimal dependencies: `ajv` (JSON validation) and `vitest` (tests only, dev). No runtime server dependencies.                                             |
+| **Deployment**             | GitHub Actions uses `id-token: write` permission scoped only to Pages deployment. The `GITHUB_TOKEN` is not exposed to the build.                         |
+| **Input validation**       | The `additionalProperties: false` setting on schemas prevents unexpected fields from entering the dataset.                                                |
+| **Branch protection**      | Recommended: enable branch protection on `main` so only reviewed PRs can modify the data.                                                                 |
 
 ### What this API does NOT protect
 

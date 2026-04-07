@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { XMLParser } from "fast-xml-parser";
@@ -10,6 +10,17 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, "..");
 const gamesJsonPath = join(root, "data", "games.json");
 const imagesDir = join(root, "images", "games");
+
+// Load .env file if present
+const envPath = join(root, ".env");
+if (existsSync(envPath)) {
+  for (const line of readFileSync(envPath, "utf-8").split("\n")) {
+    const match = line.match(/^\s*([^#=]+?)\s*=\s*(.*?)\s*$/);
+    if (match && !process.env[match[1]]) {
+      process.env[match[1]] = match[2];
+    }
+  }
+}
 
 const VALID_LANGUAGES = ["en", "es", "de", "x"];
 const VALID_SIZES = ["xs", "s", "m", "l"];
