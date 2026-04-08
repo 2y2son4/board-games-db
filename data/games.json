@@ -8520,31 +8520,6 @@
       "size": "s"
     },
     {
-      "name": "Murder of a Millionaire",
-      "editor": "Cryptic Killers",
-      "year": 2021,
-      "types": [
-        "Party",
-        "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Digital hybrid"
-      ],
-      "language": "en",
-      "players": [
-        1,
-        99
-      ],
-      "time": 120,
-      "complexity": 3,
-      "rate": 6.7,
-      "image": "murder-of-a-millionaire",
-      "isPlayed": false,
-      "age": 14,
-      "bggReference": 356962,
-      "size": "s"
-    },
-    {
       "name": "Murder at The Movie Theater",
       "editor": "Cryptic Killers",
       "year": 2021,
