@@ -553,7 +553,7 @@
       "year": 2019,
       "types": [
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Party",
         "Adult"
       ],
@@ -577,7 +577,7 @@
       "year": 2018,
       "types": [
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Party",
         "Expansion"
       ],
@@ -601,7 +601,7 @@
       "year": 2021,
       "types": [
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Party",
         "Expansion"
       ],
@@ -626,7 +626,7 @@
       "types": [
         "Family",
         "Cards",
-        "Hand management"
+        "Hand Management"
       ],
       "language": "es",
       "players": [
@@ -966,7 +966,7 @@
         "Cards",
         "Humor",
         "Animals",
-        "Hand management"
+        "Hand Management"
       ],
       "language": "en",
       "players": [
@@ -990,7 +990,7 @@
         "Cards",
         "Humor",
         "Animals",
-        "Hand management",
+        "Hand Management",
         "Expansion"
       ],
       "language": "en",
@@ -1085,7 +1085,7 @@
         "Drawing",
         "Set collection",
         "Pattern recognition",
-        "Hand management"
+        "Hand Management"
       ],
       "language": "es",
       "players": [
@@ -1158,7 +1158,7 @@
         "Cards",
         "Fantasy",
         "Humor",
-        "Hand management"
+        "Hand Management"
       ],
       "language": "es",
       "players": [
@@ -1638,7 +1638,7 @@
       "types": [
         "Bluffing",
         "Party",
-        "Hand management",
+        "Hand Management",
         "Open drafting",
         "Set collection"
       ],
@@ -1664,7 +1664,7 @@
         "Cards",
         "Humor",
         "TV series",
-        "Hand management",
+        "Hand Management",
         "Open drafting"
       ],
       "language": "es",
@@ -2003,7 +2003,7 @@
       "types": [
         "Cards",
         "Numbers",
-        "Hand management",
+        "Hand Management",
         "Take that"
       ],
       "language": "en",
@@ -2076,7 +2076,7 @@
       "types": [
         "Cards",
         "TV series",
-        "Hand management",
+        "Hand Management",
         "Voting",
         "Set collection"
       ],
@@ -2175,7 +2175,7 @@
       "types": [
         "Cards",
         "Numbers",
-        "Hand management",
+        "Hand Management",
         "Two players"
       ],
       "language": "x",
@@ -2221,7 +2221,7 @@
       "types": [
         "Family",
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Layering",
         "Pattern building",
         "Solitaire"
@@ -2369,7 +2369,7 @@
       "types": [
         "Cards",
         "Family",
-        "Hand management",
+        "Hand Management",
         "Set collection",
         "Take that"
       ],
@@ -2421,7 +2421,7 @@
         "Fantasy",
         "Fighting",
         "Dice rolling",
-        "Hand management"
+        "Hand Management"
       ],
       "language": "en",
       "players": [
@@ -2446,7 +2446,7 @@
         "Fantasy",
         "Fighting",
         "Dice rolling",
-        "Hand management",
+        "Hand Management",
         "Expansion"
       ],
       "language": "en",
@@ -2472,7 +2472,7 @@
         "Fantasy",
         "Fighting",
         "Dice rolling",
-        "Hand management",
+        "Hand Management",
         "Expansion"
       ],
       "language": "en",
@@ -2615,7 +2615,7 @@
       "year": 2016,
       "types": [
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Set collection"
       ],
       "language": "en",
@@ -2705,7 +2705,7 @@
       "types": [
         "Party",
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Set collection"
       ],
       "language": "en",
@@ -3186,10 +3186,13 @@
       "editor": "TCG Factory",
       "year": 2021,
       "types": [
+        "Card Game",
         "Real-time",
-        "Cards",
-        "Closed drafting",
-        "Speed matching"
+        "Closed Drafting",
+        "Race",
+        "Simultaneous Action Selection",
+        "Speed Matching",
+        "Sudden Death Ending"
       ],
       "language": "x",
       "players": [
@@ -3198,11 +3201,11 @@
       ],
       "time": 5,
       "complexity": 1.2,
-      "rate": 6.4,
+      "rate": 6.3,
       "image": "loading",
       "isPlayed": false,
       "age": 7,
-      "bggReference": 0,
+      "bggReference": 329293,
       "size": "s"
     },
     {
@@ -3212,10 +3215,14 @@
       "types": [
         "Medieval",
         "Puzzle",
-        "Territory building",
-        "Map addition",
-        "Team-based",
-        "Tile placement"
+        "Territory Building",
+        "Chaining",
+        "Enclosure",
+        "Hexagon Grid",
+        "Map Addition",
+        "Network and Route Building",
+        "Team-Based Game",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
@@ -3223,12 +3230,12 @@
         4
       ],
       "time": 40,
-      "complexity": 1.73,
-      "rate": 7.1,
+      "complexity": 1.75,
+      "rate": 7,
       "image": "terra-mare",
       "isPlayed": false,
       "age": 14,
-      "bggReference": 0,
+      "bggReference": 336929,
       "size": "m"
     },
     {
@@ -4770,7 +4777,7 @@
       "types": [
         "Cards",
         "Deck, bag and pool building",
-        "Hand management",
+        "Hand Management",
         "Open drafting",
         "Set collection",
         "Solitaire"
@@ -4995,23 +5002,26 @@
       "editor": "Melmac Games",
       "year": 2021,
       "types": [
-        "Abstract strategy",
+        "Abstract Strategy",
+        "Card Game",
         "Farming",
-        "Solitaire",
-        "Pattern building",
-        "Tile placement"
+        "Print & Play",
+        "Melding and Splaying",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 10,
-      "complexity": 1.35,
-      "rate": 7.7,
+      "complexity": 1.33,
+      "rate": 7.5,
       "image": "grove",
       "isPlayed": true,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 329873,
       "size": "xs"
     },
     {
@@ -5019,10 +5029,11 @@
       "editor": "Jumping turtle Games",
       "year": 2018,
       "types": [
+        "Card Game",
         "Humor",
-        "Cards",
-        "Hand management",
-        "Player elimination"
+        "Party Game",
+        "Hand Management",
+        "Player Elimination"
       ],
       "language": "en",
       "players": [
@@ -5035,7 +5046,7 @@
       "image": "wurst-case-scenario",
       "isPlayed": false,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 248909,
       "size": "s"
     },
     {
@@ -5043,8 +5054,8 @@
       "editor": "Repos production",
       "year": 2020,
       "types": [
-        "Paper-and-Pencil",
-        "Numbers"
+        "Number",
+        "Paper-and-Pencil"
       ],
       "language": "es",
       "players": [
@@ -5052,12 +5063,12 @@
         5
       ],
       "time": 20,
-      "complexity": 1.15,
+      "complexity": 1.13,
       "rate": 6,
       "image": "the-number",
       "isPlayed": true,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 307450,
       "size": "s"
     },
     {
@@ -5066,8 +5077,9 @@
       "year": 2019,
       "types": [
         "Animals",
-        "Dice rolling",
-        "Territory building",
+        "Dice",
+        "Territory Building",
+        "Dice Rolling",
         "Paper-and-Pencil"
       ],
       "language": "x",
@@ -5076,12 +5088,12 @@
         20
       ],
       "time": 20,
-      "complexity": 1.26,
+      "complexity": 1.19,
       "rate": 6.7,
       "image": "rolling-ranch",
       "isPlayed": true,
       "age": 14,
-      "bggReference": 0,
+      "bggReference": 249673,
       "size": "s"
     },
     {
@@ -5089,9 +5101,8 @@
       "editor": "EDGE",
       "year": 2013,
       "types": [
-        "Party",
-        "Trivia",
-        "Food/Cooking"
+        "Party Game",
+        "Trivia"
       ],
       "language": "es",
       "players": [
@@ -5099,12 +5110,12 @@
         10
       ],
       "time": 15,
-      "complexity": 1,
-      "rate": 5.6,
+      "complexity": 2,
+      "rate": 5.7,
       "image": "quiz-chef",
       "isPlayed": true,
       "age": 14,
-      "bggReference": 0,
+      "bggReference": 150965,
       "size": "xs"
     },
     {
@@ -5112,8 +5123,7 @@
       "editor": "EDGE",
       "year": 2008,
       "types": [
-        "Family",
-        "Cards"
+        "Card Game"
       ],
       "language": "x",
       "players": [
@@ -5121,12 +5131,12 @@
         6
       ],
       "time": 30,
-      "complexity": 1.65,
-      "rate": 7.8,
+      "complexity": 1.67,
+      "rate": 5.5,
       "image": "illusio",
       "isPlayed": false,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 38897,
       "size": "s"
     },
     {
@@ -5134,12 +5144,13 @@
       "editor": "EDGE",
       "year": 2012,
       "types": [
-        "Novel based",
-        "Open drafting",
-        "Point to point movement",
-        "Role playing",
+        "Card Game",
+        "Novel-based",
+        "Open Drafting",
+        "Point to Point Movement",
+        "Role Playing",
         "Storytelling",
-        "Team-based"
+        "Team-Based Game"
       ],
       "language": "es",
       "players": [
@@ -5152,7 +5163,7 @@
       "image": "winter-tales",
       "isPlayed": false,
       "age": 14,
-      "bggReference": 0,
+      "bggReference": 122599,
       "size": "l"
     },
     {
@@ -5160,12 +5171,11 @@
       "editor": "Devir",
       "year": 1988,
       "types": [
-        "Solitaire",
-        "Abstract strategy",
-        "Pattern recognition",
-        "Speed matching",
-        "Real-time",
-        "Puzzle"
+        "Card Game",
+        "Puzzle",
+        "Pattern Recognition",
+        "Real-Time",
+        "Speed Matching"
       ],
       "language": "es",
       "players": [
@@ -5173,12 +5183,12 @@
         20
       ],
       "time": 30,
-      "complexity": 1.66,
+      "complexity": 1.65,
       "rate": 6.5,
       "image": "set",
       "isPlayed": true,
       "age": 6,
-      "bggReference": 0,
+      "bggReference": 1198,
       "size": "s"
     },
     {
@@ -5186,9 +5196,10 @@
       "editor": "APA Board Games",
       "year": 2019,
       "types": [
-        "Solitaire",
+        "Card Game",
         "Memory",
-        "Party"
+        "Party Game",
+        "Memory"
       ],
       "language": "x",
       "players": [
@@ -5197,11 +5208,11 @@
       ],
       "time": 30,
       "complexity": 1.43,
-      "rate": 7.2,
+      "rate": 7.1,
       "image": "paradox-university",
       "isPlayed": true,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 263168,
       "size": "xs"
     },
     {
@@ -5209,11 +5220,16 @@
       "editor": "TCG Factory",
       "year": 2017,
       "types": [
-        "Memory",
-        "Medical",
+        "Card Game",
         "Deduction",
+        "Medical",
+        "Memory",
         "Mythology",
-        "Puzzle"
+        "Puzzle",
+        "Betting and Bluffing",
+        "Hand Management",
+        "Memory",
+        "Trading"
       ],
       "language": "es",
       "players": [
@@ -5221,12 +5237,12 @@
         4
       ],
       "time": 30,
-      "complexity": 2,
+      "complexity": 1.94,
       "rate": 6.5,
       "image": "herbalism",
       "isPlayed": false,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 231554,
       "size": "s"
     },
     {
@@ -5234,9 +5250,11 @@
       "editor": "Devir",
       "year": 2019,
       "types": [
-        "Open drafting",
-        "Set collection",
-        "Family"
+        "Card Game",
+        "Contracts",
+        "End Game Bonuses",
+        "Open Drafting",
+        "Set Collection"
       ],
       "language": "x",
       "players": [
@@ -5244,12 +5262,12 @@
         6
       ],
       "time": 30,
-      "complexity": 1.14,
+      "complexity": 1.15,
       "rate": 7.1,
       "image": "ensalada-de-puntos",
       "isPlayed": true,
       "age": 10,
-      "bggReference": 0,
+      "bggReference": 274960,
       "size": "m"
     },
     {
@@ -5274,19 +5292,19 @@
       "image": "city-blox",
       "isPlayed": true,
       "age": 6,
-      "bggReference": 0,
+      "bggReference": 286141,
       "size": "l"
     },
     {
       "name": "Sumatra",
       "editor": "Ludonova",
-      "year": 2019,
+      "year": 2020,
       "types": [
-        "Open drafting",
-        "Set collection",
         "Adventure",
         "Exploration",
-        "Travel"
+        "Travel",
+        "Open Drafting",
+        "Set Collection"
       ],
       "language": "x",
       "players": [
@@ -5294,12 +5312,12 @@
         5
       ],
       "time": 45,
-      "complexity": 1.91,
-      "rate": 6.7,
+      "complexity": 2,
+      "rate": 6.6,
       "image": "sumatra",
       "isPlayed": false,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 313000,
       "size": "l"
     },
     {
@@ -5307,25 +5325,24 @@
       "editor": "Devir",
       "year": 2022,
       "types": [
-        "Abstract strategy",
-        "Family",
-        "Area majority",
-        "Modular board",
-        "Pattern building",
-        "Tile placement",
-        "Two players"
+        "Abstract Strategy",
+        "Card Game",
+        "Area Majority / Influence",
+        "Modular Board",
+        "Pattern Building",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
         2
       ],
       "time": 10,
-      "complexity": 1.5,
-      "rate": 7,
+      "complexity": 1.4,
+      "rate": 6.9,
       "image": "winter",
       "isPlayed": false,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 359857,
       "size": "s"
     },
     {
@@ -5333,13 +5350,12 @@
       "editor": "Mebo",
       "year": 2012,
       "types": [
-        "Strategy",
         "Fantasy",
         "Mythology",
-        "Deck, bag and pool building",
-        "Open drafting",
-        "Point to point movement",
-        "Worker placement"
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Point to Point Movement",
+        "Worker Placement"
       ],
       "language": "es",
       "players": [
@@ -5347,12 +5363,12 @@
         4
       ],
       "time": 90,
-      "complexity": 2.6,
+      "complexity": 2.63,
       "rate": 5.9,
       "image": "ragami",
       "isPlayed": false,
       "age": 8,
-      "bggReference": 0,
+      "bggReference": 114863,
       "size": "l"
     },
     {
@@ -5360,17 +5376,22 @@
       "editor": "AEG",
       "year": 2024,
       "types": [
-        "Abstract strategy",
         "Animals",
         "Fantasy",
         "Puzzle",
-        "Territory building",
-        "Area majority",
-        "Auction",
-        "Bidding",
+        "Territory Building",
+        "Area Majority / Influence",
+        "Auction / Bidding",
         "Contracts",
-        "End game bonuses",
-        "Grid coverage"
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Market",
+        "Modular Board",
+        "Pattern Building",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Variable Set-up"
       ],
       "language": "en",
       "players": [
@@ -5378,12 +5399,12 @@
         4
       ],
       "time": 45,
-      "complexity": 2.22,
-      "rate": 7.2,
+      "complexity": 2.25,
+      "rate": 6.9,
       "image": "nocturne",
       "isPlayed": false,
       "age": 10,
-      "bggReference": 0,
+      "bggReference": 393175,
       "size": "l"
     },
     {
@@ -5636,7 +5657,7 @@
         "Solitaire",
         "Horror",
         "Dice rolling",
-        "Hand management",
+        "Hand Management",
         "Pick-up and Deliver",
         "Variable player powers"
       ],
@@ -5800,7 +5821,7 @@
       "types": [
         "Cards",
         "Humor",
-        "Hand management",
+        "Hand Management",
         "Take that"
       ],
       "language": "es",
@@ -5969,7 +5990,7 @@
       "year": 2023,
       "types": [
         "Puzzle",
-        "Hand management",
+        "Hand Management",
         "Pattern building",
         "Solitaire",
         "Square grid",
@@ -6147,7 +6168,7 @@
         "Cards",
         "Animals",
         "Closed drafting",
-        "Hand management",
+        "Hand Management",
         "Melding and Splaying",
         "Set collection",
         "Solitaire"
@@ -6221,7 +6242,7 @@
       "types": [
         "Cards",
         "Humor",
-        "Hand management",
+        "Hand Management",
         "Player elimination",
         "Push your luck",
         "Take that"
@@ -6302,7 +6323,7 @@
         "Science fiction",
         "Spies",
         "Dice rolling",
-        "Hand management",
+        "Hand Management",
         "Modular board",
         "Push your luck",
         "Simultaneous Action Selection"
@@ -6356,7 +6377,7 @@
         "Fantasy",
         "Action points",
         "Deck construction",
-        "Hand management",
+        "Hand Management",
         "Secret Unit Deployment",
         "Simultaneous Action Selection",
         "Variable player powers",
@@ -6453,7 +6474,7 @@
       "types": [
         "Trains",
         "Network and route building",
-        "Hand management",
+        "Hand Management",
         "Open drafting",
         "Set collection"
       ],
@@ -6558,7 +6579,7 @@
         "Bluffing",
         "Cards",
         "Deduction",
-        "Hand management",
+        "Hand Management",
         "Push your luck"
       ],
       "language": "en",
@@ -6609,7 +6630,7 @@
       "year": 2019,
       "types": [
         "Family",
-        "Hand management",
+        "Hand Management",
         "Set collection",
         "Take that"
       ],
@@ -6638,7 +6659,7 @@
         "Action points",
         "Area majority",
         "Dice rolling",
-        "Hand management",
+        "Hand Management",
         "Trading",
         "Variable player powers",
         "Exploration"
@@ -6791,7 +6812,7 @@
       "year": 2017,
       "types": [
         "Bluffing",
-        "Hand management",
+        "Hand Management",
         "Simultaneous Action Selection"
       ],
       "language": "es",
@@ -6933,7 +6954,7 @@
         "Party",
         "Action/Dexterity",
         "Cards",
-        "Hand management"
+        "Hand Management"
       ],
       "language": "x",
       "players": [
@@ -7027,7 +7048,7 @@
         "Cards",
         "Area majority",
         "Influence",
-        "Hand management"
+        "Hand Management"
       ],
       "language": "x",
       "players": [
@@ -7120,7 +7141,7 @@
       "types": [
         "Family",
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Set collection",
         "Push your luck",
         "Open drafting",
@@ -7148,7 +7169,7 @@
       "types": [
         "Family",
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Take that"
       ],
       "language": "x",
@@ -7318,7 +7339,7 @@
       "year": 2025,
       "types": [
         "Cards",
-        "Hand management",
+        "Hand Management",
         "Player elimination",
         "Score-and-reset-game",
         "Take that"
@@ -7446,7 +7467,7 @@
       "types": [
         "Cards",
         "Family",
-        "Hand management",
+        "Hand Management",
         "Open drafting",
         "Push your luck",
         "Set collection",
@@ -7783,7 +7804,7 @@
         "Puzzle",
         "Real-time",
         "Cooperative",
-        "Hand management",
+        "Hand Management",
         "Memory",
         "Storytelling"
       ],
@@ -7812,7 +7833,7 @@
         "Puzzle",
         "Real-time",
         "Cooperative",
-        "Hand management",
+        "Hand Management",
         "Memory",
         "Storytelling"
       ],
@@ -7838,7 +7859,7 @@
         "Family",
         "Cards",
         "Numbers",
-        "Hand management",
+        "Hand Management",
         "Open drafting",
         "Set collection"
       ],
@@ -8224,7 +8245,7 @@
       "editor": "Cucafera Games",
       "year": 2019,
       "types": [
-        "Hand management",
+        "Hand Management",
         "Open drafting",
         "Pattern building",
         "Point to point movement",
@@ -8278,7 +8299,7 @@
         "Economic",
         "Negotiation",
         "Political",
-        "Hand management",
+        "Hand Management",
         "Open drafting",
         "Player elimination"
       ],
@@ -8332,7 +8353,7 @@
         "Deduction",
         "Horror",
         "Auction/Biding",
-        "Hand management",
+        "Hand Management",
         "Set collection",
         "Simultaneous Action Selection"
       ],
