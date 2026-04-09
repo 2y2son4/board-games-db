@@ -405,6 +405,7 @@ If this API is ever used beyond a personal collection:
 
 ## Project tree
 
+```
 ┣ 📂.github
 ┃ ┗ 📂workflows
 ┃ ┗ 📜deploy.yml
@@ -436,3 +437,4 @@ If this API is ever used beyond a personal collection:
 ┣ 📜.gitignore
 ┣ 📜package.json
 ┗ 📜README.md
+```
