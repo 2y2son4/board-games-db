@@ -5,10 +5,10 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
-        "Push your luck",
-        "Set collection",
         "Animals",
-        "Solitaire"
+        "Memory",
+        "Push Your Luck",
+        "Set Collection"
       ],
       "language": "x",
       "players": [
@@ -16,8 +16,8 @@
         6
       ],
       "time": 20,
-      "complexity": 1.06,
-      "rate": 6.7,
+      "complexity": 1.12,
+      "rate": 6.6,
       "image": "deep-dive",
       "isPlayed": true,
       "age": 10,
@@ -29,16 +29,20 @@
       "editor": "Skybound tabletop",
       "year": 2020,
       "types": [
-        "Party"
+        "Hand Management",
+        "Mature / Adult",
+        "Party Game",
+        "Player Judge",
+        "Simultaneous Action Selection"
       ],
       "language": "es",
       "players": [
         3,
         13
       ],
-      "time": 60,
-      "complexity": 1.04,
-      "rate": 6.1,
+      "time": 90,
+      "complexity": 1.02,
+      "rate": 6,
       "image": "tranvia-mortal",
       "isPlayed": true,
       "age": 14,
@@ -50,19 +54,23 @@
       "editor": "Explosm Games",
       "year": 2022,
       "types": [
-        "Party"
+        "Card Game",
+        "Humor",
+        "Party Game",
+        "Player Judge",
+        "Role Playing"
       ],
       "language": "en",
       "players": [
         3,
         6
       ],
-      "time": 30,
+      "time": 0,
       "complexity": 1,
-      "rate": 6.7,
+      "rate": 6.6,
       "image": "master-dater-big-love",
       "isPlayed": true,
-      "age": 18,
+      "age": 0,
       "bggReference": 361088,
       "size": "l"
     },
@@ -71,16 +79,23 @@
       "editor": "Explosm Games",
       "year": 2016,
       "types": [
-        "Party"
+        "Card Game",
+        "Comic Book / Strip",
+        "Hand Management",
+        "Humor",
+        "Mature / Adult",
+        "Party Game",
+        "Player Judge",
+        "Simultaneous Action Selection"
       ],
       "language": "en",
       "players": [
         3,
         10
       ],
-      "time": 30,
-      "complexity": 1.02,
-      "rate": 6.3,
+      "time": 90,
+      "complexity": 1.03,
+      "rate": 6.2,
       "image": "joking-hazard",
       "isPlayed": true,
       "age": 18,
@@ -90,19 +105,19 @@
     {
       "name": "Joking hazard: Deck enhancement #1",
       "editor": "Explosm Games",
-      "year": 2016,
+      "year": 2017,
       "types": [
-        "Party",
-        "Expansion"
+        "Expansion for Base-game",
+        "Party Game"
       ],
       "language": "en",
       "players": [
         3,
         10
       ],
-      "time": 30,
-      "complexity": 1.02,
-      "rate": 7.3,
+      "time": 90,
+      "complexity": 1,
+      "rate": 7.2,
       "image": "joking-hazard-enhancement-1",
       "isPlayed": true,
       "age": 18,
@@ -114,15 +129,20 @@
       "editor": "Explosm Games",
       "year": 2016,
       "types": [
-        "Party",
-        "Expansion"
+        "Card Game",
+        "Comic Book / Strip",
+        "Hand Management",
+        "Humor",
+        "Mature / Adult",
+        "Party Game",
+        "Simultaneous Action Selection"
       ],
       "language": "en",
       "players": [
         3,
         10
       ],
-      "time": 30,
+      "time": 90,
       "complexity": 1.25,
       "rate": 7.2,
       "image": "joking-hazard-blast",
@@ -136,10 +156,10 @@
       "editor": "Looney Labs",
       "year": 2010,
       "types": [
-        "Modular board",
-        "Movies",
-        "Alternate history",
-        "Science fiction"
+        "Card Game",
+        "Modular Board",
+        "Movies / TV / Radio theme",
+        "Science Fiction"
       ],
       "language": "en",
       "players": [
@@ -161,8 +181,15 @@
       "year": 2012,
       "types": [
         "Bluffing",
-        "Party",
-        "Deduction"
+        "Card Game",
+        "Deduction",
+        "Hidden Roles",
+        "Memory",
+        "Party Game",
+        "Player Elimination",
+        "Political",
+        "Take That",
+        "Variable Player Powers"
       ],
       "language": "en",
       "players": [
@@ -170,7 +197,7 @@
         6
       ],
       "time": 15,
-      "complexity": 1.41,
+      "complexity": 1.42,
       "rate": 7,
       "image": "coup",
       "isPlayed": true,
@@ -184,9 +211,15 @@
       "year": 2013,
       "types": [
         "Bluffing",
-        "Party",
+        "Card Game",
         "Deduction",
-        "Expansion"
+        "Expansion for Base-game",
+        "Hand Management",
+        "Player Elimination",
+        "Political",
+        "Take That",
+        "Team-Based Game",
+        "Variable Player Powers"
       ],
       "language": "en",
       "players": [
@@ -207,8 +240,10 @@
       "editor": "Black monk",
       "year": 2016,
       "types": [
-        "Cards",
-        "Dice rolling"
+        "Card Game",
+        "Dice",
+        "Dice Rolling",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -216,7 +251,7 @@
         6
       ],
       "time": 30,
-      "complexity": 1.24,
+      "complexity": 1.25,
       "rate": 6.6,
       "image": "saqueadores",
       "isPlayed": false,
@@ -229,8 +264,11 @@
       "editor": "Arrakis Games",
       "year": 2019,
       "types": [
-        "Family",
-        "Cards"
+        "Card Game",
+        "Fantasy",
+        "Hand Management",
+        "Memory",
+        "Set Collection"
       ],
       "language": "en",
       "players": [
@@ -238,7 +276,7 @@
         4
       ],
       "time": 45,
-      "complexity": 1.19,
+      "complexity": 1.22,
       "rate": 7.3,
       "image": "cabo-2nd-edition",
       "isPlayed": true,
@@ -251,9 +289,9 @@
       "editor": "EDGE",
       "year": 2017,
       "types": [
+        "Cooperative Game",
         "Deduction",
-        "Cooperative",
-        "Mystery"
+        "Murder / Mystery"
       ],
       "language": "es",
       "players": [
@@ -261,7 +299,7 @@
         8
       ],
       "time": 15,
-      "complexity": 1.27,
+      "complexity": 1.25,
       "rate": 6,
       "image": "3-secretos",
       "isPlayed": true,
@@ -274,9 +312,11 @@
       "editor": "Lifestyle Boardgames",
       "year": 2018,
       "types": [
-        "Cards",
+        "Card Game",
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Cooperative"
+        "Pattern Building"
       ],
       "language": "x",
       "players": [
@@ -297,10 +337,14 @@
       "editor": "Wizards of the Coast",
       "year": 2018,
       "types": [
-        "Family",
-        "Cards",
+        "Card Game",
         "Fantasy",
-        "Fighting"
+        "Fighting",
+        "Hand Management",
+        "Income",
+        "Player Elimination",
+        "Take That",
+        "Variable Player Powers"
       ],
       "language": "en",
       "players": [
@@ -308,7 +352,7 @@
         4
       ],
       "time": 10,
-      "complexity": 1.1,
+      "complexity": 1.15,
       "rate": 6.9,
       "image": "dungeon-mayhem",
       "isPlayed": true,
@@ -321,8 +365,8 @@
       "editor": "AMIGO",
       "year": 2014,
       "types": [
-        "Family",
-        "Cards"
+        "Card Game",
+        "Hand Management"
       ],
       "language": "en",
       "players": [
@@ -330,8 +374,8 @@
         6
       ],
       "time": 20,
-      "complexity": 1,
-      "rate": 6,
+      "complexity": 1.08,
+      "rate": 6.1,
       "image": "karma",
       "isPlayed": true,
       "age": 8,
@@ -343,10 +387,11 @@
       "editor": "Brain Games",
       "year": 2018,
       "types": [
-        "Party",
-        "Family",
-        "Numbers",
-        "Cooperative"
+        "Card Game",
+        "Communication Limits",
+        "Cooperative Game",
+        "Hand Management",
+        "Number"
       ],
       "language": "x",
       "players": [
@@ -354,8 +399,8 @@
         4
       ],
       "time": 20,
-      "complexity": 1.08,
-      "rate": 6.8,
+      "complexity": 1.07,
+      "rate": 6.7,
       "image": "the-mind",
       "isPlayed": true,
       "age": 8,
@@ -367,11 +412,18 @@
       "editor": "Looney Labs",
       "year": 2000,
       "types": [
-        "Family",
-        "Bluffing",
-        "Deduction",
-        "Alternate history",
-        "Solitaire"
+        "Card Game",
+        "Contracts",
+        "Educational",
+        "Hand Management",
+        "Modular Board",
+        "Political",
+        "Race",
+        "Science Fiction",
+        "Solo / Solitaire Game",
+        "Sudden Death Ending",
+        "Tags",
+        "Variable Set-up"
       ],
       "language": "en",
       "players": [
@@ -392,9 +444,9 @@
       "editor": "Txarli Factory",
       "year": 2020,
       "types": [
-        "Cards",
-        "Area majority",
-        "Deck, bag and pool building",
+        "Area Majority / Influence",
+        "Card Game",
+        "Deck, Bag, and Pool Building",
         "Pick-up and Deliver"
       ],
       "language": "es",
@@ -403,8 +455,8 @@
         5
       ],
       "time": 50,
-      "complexity": 1.24,
-      "rate": 6.8,
+      "complexity": 1.25,
+      "rate": 6.7,
       "image": "jumble-jam",
       "isPlayed": false,
       "age": 8,
@@ -416,9 +468,8 @@
       "editor": "Jumbo",
       "year": 2020,
       "types": [
-        "Cards",
-        "Paper-and-Pencil",
-        "Flip-and-write"
+        "Card Game",
+        "Paper-and-Pencil"
       ],
       "language": "es",
       "players": [
@@ -426,8 +477,8 @@
         5
       ],
       "time": 20,
-      "complexity": 1.5,
-      "rate": 6.4,
+      "complexity": 1.67,
+      "rate": 6.3,
       "image": "ramen-ink",
       "isPlayed": true,
       "age": 8,
@@ -439,9 +490,11 @@
       "editor": "Last level",
       "year": 2019,
       "types": [
-        "Territory building",
-        "Area majority",
-        "Economic"
+        "Area Majority / Influence",
+        "Economic",
+        "Farming",
+        "Territory Building",
+        "Worker Placement"
       ],
       "language": "es",
       "players": [
@@ -462,17 +515,17 @@
       "editor": "Zacatrús",
       "year": 2018,
       "types": [
-        "Party",
-        "Paper-and-Pencil"
+        "Paper-and-Pencil",
+        "Party Game"
       ],
       "language": "es",
       "players": [
         3,
-        8
+        12
       ],
       "time": 30,
       "complexity": 1,
-      "rate": 7.2,
+      "rate": 7.1,
       "image": "unanimo-party",
       "isPlayed": true,
       "age": 10,
@@ -484,10 +537,10 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
-        "Family",
-        "Cards",
-        "City building",
-        "Solitaire"
+        "Card Game",
+        "City Building",
+        "Open Drafting",
+        "Set Collection"
       ],
       "language": "en",
       "players": [
@@ -495,8 +548,8 @@
         4
       ],
       "time": 30,
-      "complexity": 1.6,
-      "rate": 7.3,
+      "complexity": 1.68,
+      "rate": 7.1,
       "image": "point-city",
       "isPlayed": true,
       "age": 10,
@@ -529,9 +582,9 @@
       "editor": "AEG",
       "year": 2020,
       "types": [
-        "Family",
-        "Cards",
-        "Open drafting"
+        "Card Game",
+        "Open Drafting",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
@@ -539,8 +592,8 @@
         4
       ],
       "time": 30,
-      "complexity": 1.3,
-      "rate": 6.9,
+      "complexity": 1.38,
+      "rate": 6.8,
       "image": "truffle-shuffle",
       "isPlayed": false,
       "age": 14,
@@ -552,22 +605,25 @@
       "editor": "Unstable Games",
       "year": 2019,
       "types": [
-        "Cards",
+        "Card Game",
         "Hand Management",
-        "Party",
-        "Adult"
+        "Humor",
+        "Mature / Adult",
+        "Party Game",
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
         2,
         8
       ],
-      "time": 60,
-      "complexity": 1.8,
-      "rate": 6.6,
+      "time": 45,
+      "complexity": 1.55,
+      "rate": 6.5,
       "image": "unstable-unicorns-nsfw",
       "isPlayed": true,
-      "age": 18,
+      "age": 21,
       "bggReference": 287952,
       "size": "s"
     },
@@ -576,18 +632,20 @@
       "editor": "Unstable Games",
       "year": 2018,
       "types": [
-        "Cards",
+        "Card Game",
+        "Expansion for Base-game",
         "Hand Management",
-        "Party",
-        "Expansion"
+        "Party Game",
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
         2,
         8
       ],
-      "time": 60,
-      "complexity": 2,
+      "time": 45,
+      "complexity": 1.75,
       "rate": 6.9,
       "image": "unstable-unicorns-rainbow",
       "isPlayed": true,
@@ -600,10 +658,7 @@
       "editor": "Unstable Games",
       "year": 2021,
       "types": [
-        "Cards",
-        "Hand Management",
-        "Party",
-        "Expansion"
+        "Uncategorized"
       ],
       "language": "en",
       "players": [
@@ -611,8 +666,8 @@
         8
       ],
       "time": 60,
-      "complexity": 2,
-      "rate": 7.3,
+      "complexity": 1.67,
+      "rate": 7.4,
       "image": "unstable-unicorns-adventures",
       "isPlayed": true,
       "age": 14,
@@ -624,9 +679,10 @@
       "editor": "White goblin Games",
       "year": 2016,
       "types": [
-        "Family",
-        "Cards",
-        "Hand Management"
+        "Card Game",
+        "Hand Management",
+        "Set Collection",
+        "Trading"
       ],
       "language": "es",
       "players": [
@@ -634,8 +690,8 @@
         5
       ],
       "time": 20,
-      "complexity": 1.73,
-      "rate": 6.6,
+      "complexity": 1.71,
+      "rate": 6.5,
       "image": "matrioska",
       "isPlayed": false,
       "age": 8,
@@ -647,9 +703,14 @@
       "editor": "Adventureland Games",
       "year": 2013,
       "types": [
-        "Cards",
-        "Closed drafting",
-        "End game bonuses"
+        "Card Game",
+        "Closed Drafting",
+        "End Game Bonuses",
+        "Hand Management",
+        "Party Game",
+        "Score-and-Reset Game",
+        "Set Collection",
+        "Simultaneous Action Selection"
       ],
       "language": "x",
       "players": [
@@ -670,9 +731,16 @@
       "editor": "Exploding kittens",
       "year": 2015,
       "types": [
-        "Party",
-        "Cards",
-        "Humor"
+        "Animals",
+        "Card Game",
+        "Comic Book / Strip",
+        "Hand Management",
+        "Hot Potato",
+        "Humor",
+        "Player Elimination",
+        "Push Your Luck",
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
@@ -693,10 +761,16 @@
       "editor": "Exploding kittens",
       "year": 2018,
       "types": [
-        "Party",
-        "Cards",
+        "Animals",
+        "Card Game",
+        "Comic Book / Strip",
+        "Expansion for Base-game",
+        "Hand Management",
         "Humor",
-        "Expansion"
+        "Player Elimination",
+        "Push Your Luck",
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
@@ -704,7 +778,7 @@
         5
       ],
       "time": 15,
-      "complexity": 1,
+      "complexity": 1.15,
       "rate": 7.2,
       "image": "exploding-kittens-streaking",
       "isPlayed": true,
@@ -717,10 +791,14 @@
       "editor": "Exploding kittens",
       "year": 2022,
       "types": [
-        "Party",
-        "Cards",
+        "Animals",
+        "Card Game",
+        "Hand Management",
+        "Horror",
+        "Hot Potato",
         "Humor",
-        "Horror"
+        "Push Your Luck",
+        "Zombies"
       ],
       "language": "en",
       "players": [
@@ -728,7 +806,7 @@
         5
       ],
       "time": 15,
-      "complexity": 1,
+      "complexity": 1.22,
       "rate": 6.6,
       "image": "zombie-kittens",
       "isPlayed": true,
@@ -741,9 +819,11 @@
       "editor": "Tranjis",
       "year": 2015,
       "types": [
-        "Cards",
-        "Horror",
-        "Medical"
+        "Card Game",
+        "Hand Management",
+        "Medical",
+        "Set Collection",
+        "Take That"
       ],
       "language": "x",
       "players": [
@@ -764,9 +844,13 @@
       "editor": "Tranjis",
       "year": 2018,
       "types": [
-        "Cards",
-        "Horror",
-        "Medical"
+        "Card Game",
+        "Expansion for Base-game",
+        "Hand Management",
+        "Medical",
+        "Party Game",
+        "Set Collection",
+        "Take That"
       ],
       "language": "x",
       "players": [
@@ -774,7 +858,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.44,
+      "complexity": 1.36,
       "rate": 7,
       "image": "virus-2",
       "isPlayed": true,
@@ -787,9 +871,13 @@
       "editor": "Tranjis",
       "year": 2020,
       "types": [
-        "Cards",
+        "Card Game",
+        "Expansion for Base-game",
+        "Hand Management",
         "Horror",
-        "Medical"
+        "Medical",
+        "Set Collection",
+        "Take That"
       ],
       "language": "x",
       "players": [
@@ -797,7 +885,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.38,
+      "complexity": 1.36,
       "rate": 7.3,
       "image": "virus-halloween",
       "isPlayed": true,
@@ -832,12 +920,20 @@
       "editor": "AMIGO",
       "year": 2004,
       "types": [
-        "Family",
-        "Party",
         "Bluffing",
+        "Card Game",
+        "Deduction",
         "Exploration",
-        "Hidden roles",
-        "Route building"
+        "Fantasy",
+        "Hand Management",
+        "Hidden Roles",
+        "Hidden Victory Points",
+        "Map Addition",
+        "Network and Route Building",
+        "Party Game",
+        "Score-and-Reset Game",
+        "Take That",
+        "Traitor Game"
       ],
       "language": "x",
       "players": [
@@ -846,7 +942,7 @@
       ],
       "time": 30,
       "complexity": 1.32,
-      "rate": 6.6,
+      "rate": 6.5,
       "image": "saboteur",
       "isPlayed": true,
       "age": 8,
@@ -858,13 +954,19 @@
       "editor": "AMIGO",
       "year": 2011,
       "types": [
-        "Family",
-        "Party",
         "Bluffing",
+        "Card Game",
+        "Expansion for Base-game",
         "Exploration",
-        "Hidden roles",
-        "Route building",
-        "Expansion"
+        "Fantasy",
+        "Hand Management",
+        "Hidden Roles",
+        "Map Addition",
+        "Network and Route Building",
+        "Party Game",
+        "Take That",
+        "Team-Based Game",
+        "Traitor Game"
       ],
       "language": "x",
       "players": [
@@ -872,8 +974,8 @@
         12
       ],
       "time": 45,
-      "complexity": 1.52,
-      "rate": 7,
+      "complexity": 1.54,
+      "rate": 6.9,
       "image": "saboteur-2",
       "isPlayed": true,
       "age": 8,
@@ -886,11 +988,16 @@
       "year": 2014,
       "types": [
         "Bluffing",
-        "Cards",
+        "Card Game",
         "Deduction",
-        "Voting",
-        "Hidden roles",
-        "Narrator"
+        "Hidden Roles",
+        "Horror",
+        "Party Game",
+        "Role Playing",
+        "Roles with Asymmetric Information",
+        "Traitor Game",
+        "Variable Player Powers",
+        "Voting"
       ],
       "language": "en",
       "players": [
@@ -898,8 +1005,8 @@
         10
       ],
       "time": 10,
-      "complexity": 1.37,
-      "rate": 7.1,
+      "complexity": 1.38,
+      "rate": 7,
       "image": "one-night-ultimate-werewolf",
       "isPlayed": true,
       "age": 8,
@@ -912,11 +1019,16 @@
       "year": 2016,
       "types": [
         "Bluffing",
-        "Cards",
+        "Card Game",
         "Deduction",
-        "Voting",
-        "Hidden roles",
-        "Narrator"
+        "Hidden Roles",
+        "Horror",
+        "Party Game",
+        "Role Playing",
+        "Roles with Asymmetric Information",
+        "Traitor Game",
+        "Variable Player Powers",
+        "Voting"
       ],
       "language": "en",
       "players": [
@@ -924,8 +1036,8 @@
         10
       ],
       "time": 10,
-      "complexity": 1.61,
-      "rate": 6.7,
+      "complexity": 1.59,
+      "rate": 6.6,
       "image": "one-night-ultimate-vampire",
       "isPlayed": true,
       "age": 8,
@@ -938,11 +1050,16 @@
       "year": 2017,
       "types": [
         "Bluffing",
-        "Cards",
+        "Card Game",
         "Deduction",
-        "Voting",
-        "Hidden roles",
-        "Narrator"
+        "Hidden Roles",
+        "Horror",
+        "Party Game",
+        "Role Playing",
+        "Roles with Asymmetric Information",
+        "Traitor Game",
+        "Variable Player Powers",
+        "Voting"
       ],
       "language": "en",
       "players": [
@@ -950,7 +1067,7 @@
         10
       ],
       "time": 10,
-      "complexity": 1.89,
+      "complexity": 1.9,
       "rate": 6.9,
       "image": "one-night-ultimate-alien",
       "isPlayed": true,
@@ -963,17 +1080,22 @@
       "editor": "Self published",
       "year": 2017,
       "types": [
-        "Cards",
-        "Humor",
+        "Action Points",
         "Animals",
-        "Hand Management"
+        "Card Game",
+        "Comic Book / Strip",
+        "Hand Management",
+        "Humor",
+        "Player Elimination",
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
         2,
-        4
+        5
       ],
-      "time": 30,
+      "time": 20,
       "complexity": 1.24,
       "rate": 5.4,
       "image": "bears-vs-babies",
@@ -987,19 +1109,15 @@
       "editor": "Self published",
       "year": 2017,
       "types": [
-        "Cards",
-        "Humor",
-        "Animals",
-        "Hand Management",
-        "Expansion"
+        "Expansion for Base-game"
       ],
       "language": "en",
       "players": [
         2,
         5
       ],
-      "time": 30,
-      "complexity": 1.24,
+      "time": 20,
+      "complexity": 1,
       "rate": 5.8,
       "image": "bears-vs-babies-nsfw",
       "isPlayed": true,
@@ -1012,10 +1130,11 @@
       "editor": "Exploding kittens",
       "year": 2016,
       "types": [
-        "Party",
-        "Simulation",
         "Animals",
-        "Real-time"
+        "Children&#039;s Game",
+        "Party Game",
+        "Real-time",
+        "Real-Time"
       ],
       "language": "en",
       "players": [
@@ -1023,8 +1142,8 @@
         8
       ],
       "time": 2,
-      "complexity": 1.08,
-      "rate": 6.7,
+      "complexity": 1.06,
+      "rate": 6.6,
       "image": "happy-salmon",
       "isPlayed": false,
       "age": 6,
@@ -1036,9 +1155,9 @@
       "editor": "Exploding kittens",
       "year": 2019,
       "types": [
+        "Acting",
         "Humor",
-        "Party",
-        "Acting"
+        "Party Game"
       ],
       "language": "es",
       "players": [
@@ -1047,7 +1166,7 @@
       ],
       "time": 15,
       "complexity": 1,
-      "rate": 5.8,
+      "rate": 5.7,
       "image": "en-una-escala-de-1-a-trex",
       "isPlayed": false,
       "age": 7,
@@ -1059,8 +1178,8 @@
       "editor": "Magilano",
       "year": 2019,
       "types": [
-        "Cards",
-        "Set collection"
+        "Card Game",
+        "Set Collection"
       ],
       "language": "x",
       "players": [
@@ -1068,8 +1187,8 @@
         8
       ],
       "time": 30,
-      "complexity": 1.14,
-      "rate": 6.3,
+      "complexity": 1.17,
+      "rate": 6.2,
       "image": "skyjo-action",
       "isPlayed": true,
       "age": 8,
@@ -1083,9 +1202,9 @@
       "types": [
         "Cards",
         "Drawing",
-        "Set collection",
+        "Hand Management",
         "Pattern recognition",
-        "Hand Management"
+        "Set collection"
       ],
       "language": "es",
       "players": [
@@ -1106,11 +1225,13 @@
       "editor": "Repos production",
       "year": 2013,
       "types": [
-        "Party",
         "Bluffing",
+        "Card Game",
+        "Hidden Roles",
         "Medieval",
         "Memory",
-        "Hidden roles"
+        "Party Game",
+        "Variable Player Powers"
       ],
       "language": "es",
       "players": [
@@ -1119,7 +1240,7 @@
       ],
       "time": 30,
       "complexity": 1.53,
-      "rate": 6.6,
+      "rate": 6.5,
       "image": "mascarade",
       "isPlayed": true,
       "age": 10,
@@ -1131,18 +1252,25 @@
       "editor": "Repos production",
       "year": 2017,
       "types": [
-        "Party",
+        "Advantage Token",
         "Bluffing",
+        "Card Game",
         "Deduction",
-        "Spies"
+        "Open Drafting",
+        "Party Game",
+        "Push Your Luck",
+        "Spies / Secret Agents",
+        "Tags",
+        "Take That",
+        "Team-Based Game"
       ],
       "language": "es",
       "players": [
         4,
         8
       ],
-      "time": 30,
-      "complexity": 1.49,
+      "time": 35,
+      "complexity": 1.5,
       "rate": 6.4,
       "image": "secrets",
       "isPlayed": true,
@@ -1155,10 +1283,14 @@
       "editor": "Devir",
       "year": 2001,
       "types": [
-        "Cards",
+        "Card Game",
         "Fantasy",
+        "Fighting",
+        "Hand Management",
         "Humor",
-        "Hand Management"
+        "Race",
+        "Take That",
+        "Variable Player Powers"
       ],
       "language": "es",
       "players": [
@@ -1166,7 +1298,7 @@
         6
       ],
       "time": 120,
-      "complexity": 1.81,
+      "complexity": 1.82,
       "rate": 5.9,
       "image": "munchkin",
       "isPlayed": true,
@@ -1179,9 +1311,11 @@
       "editor": "EDGE",
       "year": 2014,
       "types": [
-        "Cards",
+        "Action Points",
+        "Card Game",
+        "Hand Management",
         "Humor",
-        "Two players"
+        "Movies / TV / Radio theme"
       ],
       "language": "es",
       "players": [
@@ -1201,8 +1335,9 @@
       "editor": "Scorpion Masqué",
       "year": 2019,
       "types": [
-        "Party",
+        "Party Game",
         "Real-time",
+        "Real-Time",
         "Trivia"
       ],
       "language": "es",
@@ -1210,8 +1345,8 @@
         3,
         7
       ],
-      "time": 30,
-      "complexity": 1,
+      "time": 25,
+      "complexity": 1.04,
       "rate": 7,
       "image": "stay-cool",
       "isPlayed": false,
@@ -1224,9 +1359,12 @@
       "editor": "Anomia Press",
       "year": 2010,
       "types": [
-        "Party",
+        "Party Game",
+        "Pattern Recognition",
         "Real-time",
-        "Trivia"
+        "Speed Matching",
+        "Trivia",
+        "Word Game"
       ],
       "language": "en",
       "players": [
@@ -1247,10 +1385,10 @@
       "editor": "Repos production",
       "year": 2021,
       "types": [
-        "Party",
-        "Words",
-        "Communication limits",
-        "Cooperative"
+        "Communication Limits",
+        "Cooperative Game",
+        "Party Game",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -1258,7 +1396,7 @@
         6
       ],
       "time": 30,
-      "complexity": 1.1,
+      "complexity": 1.12,
       "rate": 7.6,
       "image": "so-clover",
       "isPlayed": true,
@@ -1271,10 +1409,13 @@
       "editor": "Czech Games Edition",
       "year": 2017,
       "types": [
-        "Cards",
+        "Card Game",
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Cooperative",
-        "Two players"
+        "Memory",
+        "Spies / Secret Agents",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -1294,12 +1435,13 @@
       "editor": "Czech Games Edition",
       "year": 2019,
       "types": [
-        "Party",
-        "Cards",
+        "Card Game",
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Words",
-        "Communication limits",
-        "Cooperative"
+        "Party Game",
+        "Spelling",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -1308,7 +1450,7 @@
       ],
       "time": 45,
       "complexity": 1.96,
-      "rate": 7.2,
+      "rate": 7.1,
       "image": "macedonia-de-letras",
       "isPlayed": true,
       "age": 10,
@@ -1320,9 +1462,10 @@
       "editor": "EDGE",
       "year": 2014,
       "types": [
-        "Dice rolling",
-        "Family",
-        "Party"
+        "Dice",
+        "Dice Rolling",
+        "Re-rolling and Locking",
+        "Science Fiction"
       ],
       "language": "es",
       "players": [
@@ -1343,11 +1486,12 @@
       "editor": "Kids table BG",
       "year": 2022,
       "types": [
+        "Area Majority / Influence",
+        "Fantasy",
         "Puzzle",
-        "Territory building",
-        "Area majority",
-        "Tile placement",
-        "Solitaire"
+        "Solo / Solitaire Game",
+        "Territory Building",
+        "Tile Placement"
       ],
       "language": "en",
       "players": [
@@ -1355,8 +1499,8 @@
         5
       ],
       "time": 30,
-      "complexity": 2.44,
-      "rate": 7.2,
+      "complexity": 2.52,
+      "rate": 7.1,
       "image": "power-plants",
       "isPlayed": true,
       "age": 8,
@@ -1368,11 +1512,11 @@
       "editor": "Ninja Division",
       "year": 2018,
       "types": [
-        "Action",
-        "Dexterity",
-        "Cards",
-        "Real-time",
-        "Route building"
+        "Action / Dexterity",
+        "Card Game",
+        "Network and Route Building",
+        "Pattern Recognition",
+        "Real-time"
       ],
       "language": "es",
       "players": [
@@ -1393,12 +1537,13 @@
       "editor": "Asmodee",
       "year": 2019,
       "types": [
+        "Communication Limits",
         "Deduction",
-        "Party",
-        "Words",
-        "Communication limits",
-        "Team-based",
-        "Expansion"
+        "Expansion for Base-game",
+        "Party Game",
+        "Targeted Clues",
+        "Team-Based Game",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -1406,7 +1551,7 @@
         8
       ],
       "time": 45,
-      "complexity": 1.8,
+      "complexity": 1.86,
       "rate": 7.5,
       "image": "decrypto-laserdrive",
       "isPlayed": true,
@@ -1419,9 +1564,10 @@
       "editor": "EDGE",
       "year": 2013,
       "types": [
-        "Dice rolling",
-        "Party",
-        "Push your luck"
+        "Dice",
+        "Dice Rolling",
+        "Party Game",
+        "Push Your Luck"
       ],
       "language": "x",
       "players": [
@@ -1442,9 +1588,9 @@
       "editor": "GDM Games",
       "year": 2019,
       "types": [
-        "Trains",
-        "Area majority",
-        "Take that"
+        "Area Majority / Influence",
+        "Take That",
+        "Trains"
       ],
       "language": "es",
       "players": [
@@ -1452,7 +1598,7 @@
         4
       ],
       "time": 30,
-      "complexity": 1.5,
+      "complexity": 2.17,
       "rate": 6.5,
       "image": "social-train",
       "isPlayed": false,
@@ -1465,10 +1611,11 @@
       "editor": "EDGE",
       "year": 2016,
       "types": [
-        "Strategy",
-        "Cards",
+        "Auction / Bidding",
+        "Card Game",
         "Economic",
-        "Auction"
+        "Industry / Manufacturing",
+        "Market"
       ],
       "language": "es",
       "players": [
@@ -1476,7 +1623,7 @@
         6
       ],
       "time": 60,
-      "complexity": 2.44,
+      "complexity": 2.41,
       "rate": 6.7,
       "image": "alta-tension-cartas",
       "isPlayed": true,
@@ -1487,17 +1634,22 @@
     {
       "name": "¡Viva el Rey!",
       "editor": "Aurum",
-      "year": 2004,
+      "year": 2003,
       "types": [
+        "Betting and Bluffing",
         "Bluffing",
+        "Children&#039;s Game",
         "Deduction",
+        "Humor",
+        "Negotiation",
         "Renaissance",
+        "Secret Unit Deployment",
         "Voting"
       ],
       "language": "es",
       "players": [
-        3,
-        6
+        2,
+        8
       ],
       "time": 30,
       "complexity": 1.21,
@@ -1515,8 +1667,8 @@
       "types": [
         "Deduction",
         "Fantasy",
-        "Push your luck",
-        "Set collection"
+        "Push Your Luck",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
@@ -1524,8 +1676,8 @@
         4
       ],
       "time": 20,
-      "complexity": 1.5,
-      "rate": 6.4,
+      "complexity": 1.45,
+      "rate": 6.3,
       "image": "leyenda-del-cerezo",
       "isPlayed": false,
       "age": 8,
@@ -1537,11 +1689,13 @@
       "editor": "EDGE",
       "year": 2015,
       "types": [
-        "Cards",
+        "Card Game",
         "Fantasy",
+        "Hand Management",
         "Horror",
+        "Humor",
         "Storytelling",
-        "Take that"
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -1549,8 +1703,8 @@
         5
       ],
       "time": 60,
-      "complexity": 1.86,
-      "rate": 6.3,
+      "complexity": 1.75,
+      "rate": 6.2,
       "image": "munchkin-gloom",
       "isPlayed": false,
       "age": 13,
@@ -1562,10 +1716,14 @@
       "editor": "EDGE",
       "year": 2005,
       "types": [
-        "Cards",
+        "Card Game",
+        "Hand Management",
         "Horror",
         "Humor",
-        "Layering"
+        "Layering",
+        "Lose a Turn",
+        "Storytelling",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -1586,11 +1744,14 @@
       "editor": "EDGE",
       "year": 2009,
       "types": [
-        "Cards",
+        "Card Game",
+        "Expansion for Base-game",
+        "Hand Management",
         "Horror",
         "Humor",
-        "Layering",
-        "Expansion"
+        "Role Playing",
+        "Storytelling",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -1599,7 +1760,7 @@
       ],
       "time": 30,
       "complexity": 1.8,
-      "rate": 6.6,
+      "rate": 6.7,
       "image": "gloom-expediciones",
       "isPlayed": false,
       "age": 13,
@@ -1611,11 +1772,15 @@
       "editor": "EDGE",
       "year": 2007,
       "types": [
-        "Cards",
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Hand Management",
         "Horror",
         "Humor",
-        "Layering",
-        "Expansion"
+        "Role Playing",
+        "Storytelling",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -1623,7 +1788,7 @@
         5
       ],
       "time": 30,
-      "complexity": 1,
+      "complexity": 1.82,
       "rate": 6.7,
       "image": "gloom-invitados",
       "isPlayed": false,
@@ -1637,10 +1802,11 @@
       "year": 2017,
       "types": [
         "Bluffing",
-        "Party",
+        "Card Game",
         "Hand Management",
-        "Open drafting",
-        "Set collection"
+        "Open Drafting",
+        "Party Game",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
@@ -1648,8 +1814,8 @@
         7
       ],
       "time": 30,
-      "complexity": 2,
-      "rate": 6,
+      "complexity": 1.8,
+      "rate": 5.9,
       "image": "la-fiesta",
       "isPlayed": false,
       "age": 8,
@@ -1661,11 +1827,11 @@
       "editor": "EDGE",
       "year": 2010,
       "types": [
-        "Cards",
-        "Humor",
-        "TV series",
+        "Card Game",
         "Hand Management",
-        "Open drafting"
+        "Humor",
+        "Movies / TV / Radio theme",
+        "Open Drafting"
       ],
       "language": "es",
       "players": [
@@ -1686,15 +1852,14 @@
       "editor": "AMIGO",
       "year": 2018,
       "types": [
-        "Action",
-        "Dexterity"
+        "Action / Dexterity"
       ],
       "language": "de",
       "players": [
         2,
         6
       ],
-      "time": 15,
+      "time": 0,
       "complexity": 1,
       "rate": 6.4,
       "image": "speed-cups-6",
@@ -1708,9 +1873,10 @@
       "editor": "AMIGO",
       "year": 2014,
       "types": [
-        "Action",
-        "Dexterity",
-        "Two players"
+        "Action / Dexterity",
+        "Children&#039;s Game",
+        "Pattern Building",
+        "Real-time"
       ],
       "language": "de",
       "players": [
@@ -1718,7 +1884,7 @@
       ],
       "time": 10,
       "complexity": 1.11,
-      "rate": 6.6,
+      "rate": 6.5,
       "image": "speed-cups-2",
       "isPlayed": false,
       "age": 6,
@@ -1730,9 +1896,9 @@
       "editor": "CASA Consultors i Arquitectes SL",
       "year": 2002,
       "types": [
-        "Abstract strategy",
-        "Tile placement",
-        "Pattern building"
+        "Abstract Strategy",
+        "Pattern Building",
+        "Tile Placement"
       ],
       "language": "x",
       "players": [
@@ -1741,7 +1907,7 @@
       ],
       "time": 30,
       "complexity": 1.86,
-      "rate": 6,
+      "rate": 6.1,
       "image": "baldosas-antoni-gaudi",
       "isPlayed": false,
       "age": 8,
@@ -1751,14 +1917,22 @@
     {
       "name": "The Island",
       "editor": "Stronghold Games",
-      "year": 2010,
+      "year": 1982,
       "types": [
         "Adventure",
         "Animals",
+        "Area Majority / Influence",
         "Bluffing",
-        "Dice rolling",
-        "Action points",
-        "Map reduction"
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Map Reduction",
+        "Memory",
+        "Modular Board",
+        "Movement Points",
+        "Nautical",
+        "Secret Unit Deployment",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -1766,8 +1940,8 @@
         4
       ],
       "time": 60,
-      "complexity": 1.7,
-      "rate": 7.5,
+      "complexity": 1.69,
+      "rate": 7.3,
       "image": "the-island",
       "isPlayed": true,
       "age": 8,
@@ -1779,10 +1953,10 @@
       "editor": "Asmodee",
       "year": 2018,
       "types": [
-        "Words",
-        "Party",
+        "Party Game",
+        "Real-time",
         "Trivia",
-        "Real-time"
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -1790,8 +1964,8 @@
         4
       ],
       "time": 40,
-      "complexity": 1.18,
-      "rate": 6.5,
+      "complexity": 1.21,
+      "rate": 6.4,
       "image": "tags",
       "isPlayed": false,
       "age": 10,
@@ -1803,10 +1977,18 @@
       "editor": "Devir",
       "year": 2011,
       "types": [
-        "Family",
-        "Dice rolling",
+        "Dice",
+        "Dice Rolling",
+        "Die Icon Resolution",
         "Fighting",
-        "King of the hill"
+        "King of the Hill",
+        "Movies / TV / Radio theme",
+        "Open Drafting",
+        "Player Elimination",
+        "Push Your Luck",
+        "Re-rolling and Locking",
+        "Science Fiction",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -1814,7 +1996,7 @@
         6
       ],
       "time": 30,
-      "complexity": 1.49,
+      "complexity": 1.48,
       "rate": 7.1,
       "image": "king-of-tokyo",
       "isPlayed": true,
@@ -1827,11 +2009,10 @@
       "editor": "HeidelBÄR Games",
       "year": 2019,
       "types": [
-        "Words",
-        "Real-time",
-        "Dice rolling",
+        "Dice Rolling",
         "Paper-and-Pencil",
-        "Solitaire"
+        "Real-time",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -1852,11 +2033,12 @@
       "editor": "Board&Dice rolling",
       "year": 2021,
       "types": [
-        "Abstract strategy",
-        "End game bonuses",
-        "Pattern building",
-        "Set collection",
-        "Layering"
+        "Abstract Strategy",
+        "End Game Bonuses",
+        "Layering",
+        "Pattern Building",
+        "Set Collection",
+        "Variable Set-up"
       ],
       "language": "x",
       "players": [
@@ -1864,8 +2046,8 @@
         4
       ],
       "time": 30,
-      "complexity": 1.81,
-      "rate": 6.9,
+      "complexity": 1.83,
+      "rate": 6.8,
       "image": "mandala-stones",
       "isPlayed": false,
       "age": 10,
@@ -1877,9 +2059,12 @@
       "editor": "Brain Games",
       "year": 2017,
       "types": [
-        "Party",
+        "Drawing",
+        "Elapsed Real Time Ending",
+        "Line Drawing",
+        "Party Game",
         "Real-time",
-        "Line drawing"
+        "Real-Time"
       ],
       "language": "es",
       "players": [
@@ -1902,8 +2087,8 @@
       "types": [
         "Bluffing",
         "Deduction",
-        "Party",
-        "Line drawing"
+        "Line Drawing",
+        "Party Game"
       ],
       "language": "es",
       "players": [
@@ -1912,7 +2097,7 @@
       ],
       "time": 40,
       "complexity": 1,
-      "rate": 5.8,
+      "rate": 5.9,
       "image": "drunken-sailor",
       "isPlayed": true,
       "age": 17,
@@ -1924,13 +2109,19 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
-        "Abstract strategy",
+        "Animals",
+        "Closed Drafting",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Pattern Building",
         "Puzzle",
-        "End game bonuses",
-        "Grid coverage",
-        "Pattern building",
         "Real-time",
-        "Solitaire"
+        "Real-Time",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Tile Placement",
+        "Variable Set-up"
       ],
       "language": "en",
       "players": [
@@ -1938,8 +2129,8 @@
         6
       ],
       "time": 30,
-      "complexity": 2.07,
-      "rate": 7.5,
+      "complexity": 2.12,
+      "rate": 7.3,
       "image": "fit-to-print",
       "isPlayed": true,
       "age": 10,
@@ -1951,14 +2142,20 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
-        "Abstract strategy",
+        "Abstract Strategy",
+        "Animals",
+        "Closed Drafting",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Pattern Building",
         "Puzzle",
-        "End game bonuses",
-        "Grid coverage",
-        "Pattern building",
         "Real-time",
-        "Solitaire",
-        "Expansion"
+        "Real-Time",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Tile Placement",
+        "Variable Set-up"
       ],
       "language": "en",
       "players": [
@@ -1979,8 +2176,9 @@
       "editor": "Island Workshop",
       "year": 2021,
       "types": [
-        "Cards",
-        "Party"
+        "Acting",
+        "Card Game",
+        "Party Game"
       ],
       "language": "en",
       "players": [
@@ -1992,7 +2190,7 @@
       "rate": 0,
       "image": "who-am-i-and-what",
       "isPlayed": true,
-      "age": 8,
+      "age": 14,
       "bggReference": 395638,
       "size": "xs"
     },
@@ -2001,10 +2199,10 @@
       "editor": "Mattel",
       "year": 2019,
       "types": [
-        "Cards",
-        "Numbers",
+        "Card Game",
         "Hand Management",
-        "Take that"
+        "Number",
+        "Take That"
       ],
       "language": "en",
       "players": [
@@ -2012,7 +2210,7 @@
         10
       ],
       "time": 30,
-      "complexity": 1.3,
+      "complexity": 1.25,
       "rate": 6.3,
       "image": "uno-flip",
       "isPlayed": true,
@@ -2025,10 +2223,11 @@
       "editor": "Hasbro",
       "year": 2010,
       "types": [
-        "Cards",
+        "Card Game",
         "Deduction",
-        "Murder/Mystery",
-        "Open drafting"
+        "Memory",
+        "Murder / Mystery",
+        "Open Drafting"
       ],
       "language": "en",
       "players": [
@@ -2036,8 +2235,8 @@
         4
       ],
       "time": 15,
-      "complexity": 1.3,
-      "rate": 5.8,
+      "complexity": 1.27,
+      "rate": 5.9,
       "image": "cluedo-suspect",
       "isPlayed": true,
       "age": 8,
@@ -2049,11 +2248,12 @@
       "editor": "Cocktail Games",
       "year": 2011,
       "types": [
-        "Cards",
+        "Acting",
+        "Card Game",
         "Humor",
-        "Party",
         "Memory",
-        "Acting"
+        "Party Game",
+        "Prehistoric"
       ],
       "language": "x",
       "players": [
@@ -2074,20 +2274,22 @@
       "editor": "Asmodee",
       "year": 2018,
       "types": [
-        "Cards",
-        "TV series",
+        "Card Game",
         "Hand Management",
+        "Movies / TV / Radio theme",
+        "Open Drafting",
+        "Set Collection",
         "Voting",
-        "Set collection"
+        "Worker Placement"
       ],
       "language": "es",
       "players": [
         3,
         6
       ],
-      "time": 30,
+      "time": 60,
       "complexity": 1.8,
-      "rate": 4.1,
+      "rate": 4,
       "image": "black-mirror",
       "isPlayed": false,
       "age": 13,
@@ -2099,11 +2301,14 @@
       "editor": "Self published",
       "year": 2016,
       "types": [
-        "Party",
-        "Cards",
+        "Card Game",
+        "Comic Book / Strip",
         "Educational",
+        "Hand Management",
         "Humor",
-        "Take that"
+        "Medical",
+        "Player Elimination",
+        "Take That"
       ],
       "language": "en",
       "players": [
@@ -2111,7 +2316,7 @@
         6
       ],
       "time": 15,
-      "complexity": 1.37,
+      "complexity": 1.55,
       "rate": 6.3,
       "image": "organ-attack",
       "isPlayed": true,
@@ -2124,8 +2329,8 @@
       "editor": "Mont Tàber",
       "year": 1997,
       "types": [
-        "Strategy",
         "Bluffing",
+        "Card Game",
         "Trick-taking"
       ],
       "language": "es",
@@ -2134,8 +2339,8 @@
         4
       ],
       "time": 60,
-      "complexity": 2.34,
-      "rate": 6.7,
+      "complexity": 2.33,
+      "rate": 6.8,
       "image": "dr-jekyll-and-mr-hyde",
       "isPlayed": false,
       "age": 10,
@@ -2147,12 +2352,12 @@
       "editor": "Pandasaurus",
       "year": 2015,
       "types": [
-        "Family",
-        "Cards",
-        "Numbers",
-        "Communication limits",
-        "Cooperative",
-        "Solitaire"
+        "Card Game",
+        "Communication Limits",
+        "Cooperative Game",
+        "Hand Management",
+        "Number",
+        "Solo / Solitaire Game"
       ],
       "language": "x",
       "players": [
@@ -2160,7 +2365,7 @@
         5
       ],
       "time": 20,
-      "complexity": 1.24,
+      "complexity": 1.23,
       "rate": 6.7,
       "image": "the-game",
       "isPlayed": true,
@@ -2173,17 +2378,16 @@
       "editor": "Pandasaurus",
       "year": 2017,
       "types": [
-        "Cards",
-        "Numbers",
+        "Card Game",
         "Hand Management",
-        "Two players"
+        "Number"
       ],
       "language": "x",
       "players": [
         2
       ],
       "time": 20,
-      "complexity": 1.24,
+      "complexity": 1.21,
       "rate": 7.1,
       "image": "the-game-face-to-face",
       "isPlayed": true,
@@ -2197,15 +2401,15 @@
       "year": 2018,
       "types": [
         "Deduction",
-        "Party",
-        "Line drawing"
+        "Line Drawing",
+        "Party Game"
       ],
       "language": "es",
       "players": [
         3,
         7
       ],
-      "time": 30,
+      "time": 0,
       "complexity": 1,
       "rate": 6.4,
       "image": "kontour",
@@ -2219,12 +2423,12 @@
       "editor": "Bombyx",
       "year": 2021,
       "types": [
-        "Family",
-        "Cards",
+        "Card Game",
+        "Environmental",
         "Hand Management",
         "Layering",
-        "Pattern building",
-        "Solitaire"
+        "Open Drafting",
+        "Pattern Building"
       ],
       "language": "x",
       "players": [
@@ -2232,7 +2436,7 @@
         4
       ],
       "time": 30,
-      "complexity": 1.76,
+      "complexity": 1.77,
       "rate": 7.2,
       "image": "codex-naturalis",
       "isPlayed": true,
@@ -2245,11 +2449,15 @@
       "editor": "Lui-même",
       "year": 2011,
       "types": [
+        "Auction / Bidding",
+        "Auction: Turn Order Until Pass",
+        "Bids As Wagers",
         "Bluffing",
-        "Cards",
-        "Auction",
-        "Bidding",
-        "Player elimination"
+        "Card Game",
+        "Hand Management",
+        "Party Game",
+        "Player Elimination",
+        "Predictive Bid"
       ],
       "language": "x",
       "players": [
@@ -2270,12 +2478,10 @@
       "editor": "Lifestyle Boardgames",
       "year": 2020,
       "types": [
+        "Cooperative Game",
         "Deduction",
         "Horror",
-        "Puzzle",
-        "Cooperative",
-        "Solitaire",
-        "Escape room"
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -2283,8 +2489,8 @@
         6
       ],
       "time": 90,
-      "complexity": 2.2,
-      "rate": 6.3,
+      "complexity": 2.33,
+      "rate": 6.1,
       "image": "expediente-dark",
       "isPlayed": true,
       "age": 12,
@@ -2296,10 +2502,11 @@
       "editor": "20th Century Fox",
       "year": 1997,
       "types": [
-        "TV series",
-        "Murder/Mystery",
-        "Trivia",
-        "VHS"
+        "Movies / TV / Radio theme",
+        "Murder / Mystery",
+        "Science Fiction",
+        "Spies / Secret Agents",
+        "Trivia"
       ],
       "language": "es",
       "players": [
@@ -2320,9 +2527,9 @@
       "editor": "Zacatrús",
       "year": 2023,
       "types": [
-        "Cards",
+        "Card Game",
         "Humor",
-        "Party",
+        "Party Game",
         "Voting"
       ],
       "language": "es",
@@ -2331,8 +2538,8 @@
         6
       ],
       "time": 25,
-      "complexity": 1.5,
-      "rate": 6.9,
+      "complexity": 1.33,
+      "rate": 6.8,
       "image": "listillo",
       "isPlayed": true,
       "age": 10,
@@ -2345,8 +2552,8 @@
       "year": 2023,
       "types": [
         "Cards",
-        "Dice rolling",
-        "Cooperative"
+        "Cooperative",
+        "Dice rolling"
       ],
       "language": "x",
       "players": [
@@ -2367,20 +2574,20 @@
       "editor": "Exploding kittens",
       "year": 2022,
       "types": [
-        "Cards",
-        "Family",
+        "Card Game",
         "Hand Management",
-        "Set collection",
-        "Take that"
+        "Push Your Luck",
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
         2,
         6
       ],
-      "time": 30,
-      "complexity": 1.03,
-      "rate": 6.8,
+      "time": 10,
+      "complexity": 1.05,
+      "rate": 6.6,
       "image": "mantis",
       "isPlayed": false,
       "age": 7,
@@ -2393,10 +2600,13 @@
       "year": 2017,
       "types": [
         "Bluffing",
+        "Card Game",
         "Deduction",
         "Humor",
-        "Party",
-        "Words"
+        "Party Game",
+        "Team-Based Game",
+        "Voting",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -2404,8 +2614,8 @@
         8
       ],
       "time": 20,
-      "complexity": 1.25,
-      "rate": 6.8,
+      "complexity": 1.17,
+      "rate": 6.7,
       "image": "el-portero-baldomero",
       "isPlayed": false,
       "age": 10,
@@ -2417,11 +2627,20 @@
       "editor": "Unstable Games",
       "year": 2020,
       "types": [
-        "Cards",
+        "Action Points",
+        "Animals",
+        "Card Game",
+        "Dice",
+        "Dice Rolling",
         "Fantasy",
         "Fighting",
-        "Dice rolling",
-        "Hand Management"
+        "Hand Management",
+        "Interrupts",
+        "Role Playing",
+        "Set Collection",
+        "Take That",
+        "Turn Order: Progressive",
+        "Variable Player Powers"
       ],
       "language": "en",
       "players": [
@@ -2429,7 +2648,7 @@
         6
       ],
       "time": 60,
-      "complexity": 1.69,
+      "complexity": 1.68,
       "rate": 6.9,
       "image": "here-to-slay",
       "isPlayed": true,
@@ -2440,14 +2659,22 @@
     {
       "name": "Here to slay: Berserkers & Necromancers",
       "editor": "Unstable Games",
-      "year": 2020,
+      "year": 2022,
       "types": [
-        "Cards",
+        "Action Points",
+        "Animals",
+        "Card Game",
+        "Critical Hits and Failures",
+        "Dice Rolling",
+        "Expansion for Base-game",
         "Fantasy",
-        "Fighting",
-        "Dice rolling",
         "Hand Management",
-        "Expansion"
+        "Interrupts",
+        "Role Playing",
+        "Set Collection",
+        "Take That",
+        "Turn Order: Progressive",
+        "Variable Player Powers"
       ],
       "language": "en",
       "players": [
@@ -2456,7 +2683,7 @@
       ],
       "time": 60,
       "complexity": 2,
-      "rate": 7.6,
+      "rate": 7.5,
       "image": "here-to-slay-berserkers-necromancers",
       "isPlayed": true,
       "age": 10,
@@ -2468,12 +2695,20 @@
       "editor": "Unstable Games",
       "year": 2020,
       "types": [
-        "Cards",
+        "Action Points",
+        "Animals",
+        "Card Game",
+        "Dice",
+        "Dice Rolling",
+        "Expansion for Base-game",
         "Fantasy",
         "Fighting",
-        "Dice rolling",
         "Hand Management",
-        "Expansion"
+        "Interrupts",
+        "Set Collection",
+        "Take That",
+        "Turn Order: Progressive",
+        "Variable Player Powers"
       ],
       "language": "en",
       "players": [
@@ -2481,8 +2716,8 @@
         6
       ],
       "time": 60,
-      "complexity": 1.83,
-      "rate": 7.5,
+      "complexity": 1.89,
+      "rate": 7.4,
       "image": "here-to-slay-warriors-druids",
       "isPlayed": true,
       "age": 10,
@@ -2494,12 +2729,16 @@
       "editor": "Red Book Games",
       "year": 2017,
       "types": [
-        "Family",
-        "Cards",
-        "Dice rolling",
-        "Push your luck",
-        "Take that",
-        "Set collection"
+        "Action Retrieval",
+        "Animals",
+        "Card Game",
+        "Dice",
+        "Dice Rolling",
+        "Hand Management",
+        "Humor",
+        "Push Your Luck",
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
@@ -2507,7 +2746,7 @@
         4
       ],
       "time": 20,
-      "complexity": 1.38,
+      "complexity": 1.43,
       "rate": 6.5,
       "image": "trash-pandas",
       "isPlayed": false,
@@ -2520,9 +2759,9 @@
       "editor": "Ankama",
       "year": 2016,
       "types": [
-        "Simultaneous Action Selection",
-        "Cards",
-        "Animals"
+        "Animals",
+        "Card Game",
+        "Simultaneous Action Selection"
       ],
       "language": "es",
       "players": [
@@ -2531,7 +2770,7 @@
       ],
       "time": 15,
       "complexity": 1,
-      "rate": 4.5,
+      "rate": 4.6,
       "image": "kingz",
       "isPlayed": false,
       "age": 14,
@@ -2543,18 +2782,26 @@
       "editor": "Goat Wolf and Cabbage",
       "year": 2016,
       "types": [
-        "Party",
         "Bluffing",
-        "Hidden roles",
+        "Card Game",
         "Deduction",
-        "Spies"
+        "Hidden Roles",
+        "Humor",
+        "Party Game",
+        "Player Elimination",
+        "Political",
+        "Print & Play",
+        "Spies / Secret Agents",
+        "Team-Based Game",
+        "Traitor Game",
+        "Voting"
       ],
       "language": "en",
       "players": [
         5,
         10
       ],
-      "time": 30,
+      "time": 45,
       "complexity": 1.74,
       "rate": 7.5,
       "image": "secret-hitler",
@@ -2568,10 +2815,10 @@
       "editor": "ThinkFun",
       "year": 2021,
       "types": [
-        "Adult",
-        "Murder/Mystery",
-        "Cooperative",
-        "Solitaire"
+        "Cooperative Game",
+        "Mature / Adult",
+        "Murder / Mystery",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
@@ -2579,8 +2826,8 @@
         4
       ],
       "time": 120,
-      "complexity": 2,
-      "rate": 6.4,
+      "complexity": 1.75,
+      "rate": 6.5,
       "image": "cold-case",
       "isPlayed": true,
       "age": 14,
@@ -2592,8 +2839,16 @@
       "editor": "Dolphin halt Games",
       "year": 2018,
       "types": [
-        "Party",
-        "Children's game"
+        "Action / Dexterity",
+        "Card Game",
+        "Children&#039;s Game",
+        "Interrupts",
+        "Party Game",
+        "Pattern Recognition",
+        "Race",
+        "Real-time",
+        "Real-Time",
+        "Speed Matching"
       ],
       "language": "en",
       "players": [
@@ -2601,8 +2856,8 @@
         8
       ],
       "time": 30,
-      "complexity": 1.02,
-      "rate": 6.6,
+      "complexity": 1.03,
+      "rate": 6.5,
       "image": "taco-cat-goat-cheese",
       "isPlayed": true,
       "age": 8,
@@ -2614,9 +2869,10 @@
       "editor": "Adventure On Games",
       "year": 2016,
       "types": [
-        "Cards",
+        "Card Game",
         "Hand Management",
-        "Set collection"
+        "Set Collection",
+        "Take That"
       ],
       "language": "en",
       "players": [
@@ -2624,7 +2880,7 @@
         6
       ],
       "time": 60,
-      "complexity": 1.33,
+      "complexity": 1.4,
       "rate": 6.1,
       "image": "the-grimwood",
       "isPlayed": true,
@@ -2637,7 +2893,8 @@
       "editor": "Propifi Limited",
       "year": 2020,
       "types": [
-        "Quiz"
+        "Educational",
+        "Questions and Answers"
       ],
       "language": "x",
       "players": [
@@ -2645,8 +2902,8 @@
         99
       ],
       "time": 60,
-      "complexity": 1,
-      "rate": 5.7,
+      "complexity": 0,
+      "rate": 5.3,
       "image": "more-or-less",
       "isPlayed": true,
       "age": 14,
@@ -2658,16 +2915,19 @@
       "editor": "Shot in the dark",
       "year": 2019,
       "types": [
-        "Quiz"
+        "Card Game",
+        "Humor",
+        "Party Game",
+        "Trivia"
       ],
       "language": "en",
       "players": [
         2,
         99
       ],
-      "time": 30,
+      "time": 0,
       "complexity": 1,
-      "rate": 6.1,
+      "rate": 6,
       "image": "shot-in-yhe-dark",
       "isPlayed": true,
       "age": 12,
@@ -2679,18 +2939,21 @@
       "editor": "Cacahuete Games",
       "year": 2023,
       "types": [
-        "Cards",
-        "City building",
+        "Ancient",
+        "Card Game",
+        "City Building",
         "Layering",
-        "Tile placement",
-        "Solitaire"
+        "Print & Play",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Tile Placement"
       ],
       "language": "x",
       "players": [
         1
       ],
       "time": 30,
-      "complexity": 1.33,
+      "complexity": 1.25,
       "rate": 7,
       "image": "micro-roma",
       "isPlayed": true,
@@ -2703,10 +2966,9 @@
       "editor": "Looney Labs",
       "year": 1997,
       "types": [
-        "Party",
-        "Cards",
+        "Card Game",
         "Hand Management",
-        "Set collection"
+        "Set Collection"
       ],
       "language": "en",
       "players": [
@@ -2727,8 +2989,8 @@
       "editor": "Eskalera",
       "year": 2022,
       "types": [
-        "Trivia",
-        "Cards"
+        "Card Play Conflict Resolution",
+        "Trivia"
       ],
       "language": "es",
       "players": [
@@ -2740,7 +3002,7 @@
       "rate": 7,
       "image": "espiral-del-tiempo-feminista",
       "isPlayed": true,
-      "age": 12,
+      "age": 0,
       "bggReference": 411899,
       "size": "s"
     },
@@ -2749,10 +3011,13 @@
       "editor": "Oink Games",
       "year": 2014,
       "types": [
-        "Dice rolling",
+        "Dice",
         "Exploration",
-        "Push your luck",
-        "Party"
+        "Nautical",
+        "Party Game",
+        "Pick-up and Deliver",
+        "Push Your Luck",
+        "Roll / Spin and Move"
       ],
       "language": "en",
       "players": [
@@ -2760,7 +3025,7 @@
         6
       ],
       "time": 30,
-      "complexity": 1.18,
+      "complexity": 1.19,
       "rate": 6.9,
       "image": "deep-sea-adventure",
       "isPlayed": true,
@@ -2773,9 +3038,10 @@
       "editor": "DSS Games",
       "year": 2021,
       "types": [
-        "Cards",
-        "Dexterity",
-        "Real-time"
+        "Action / Dexterity",
+        "Card Game",
+        "Pattern Recognition",
+        "Real-Time"
       ],
       "language": "x",
       "players": [
@@ -2796,10 +3062,17 @@
       "editor": "Lui-même",
       "year": 2001,
       "types": [
-        "Party",
         "Bluffing",
         "Deduction",
-        "Role playing"
+        "Hidden Roles",
+        "Horror",
+        "Murder / Mystery",
+        "Party Game",
+        "Player Elimination",
+        "Role Playing",
+        "Team-Based Game",
+        "Variable Player Powers",
+        "Voting"
       ],
       "language": "en",
       "players": [
@@ -2820,7 +3093,7 @@
       "editor": "Exploding kittens",
       "year": 2023,
       "types": [
-        "Party"
+        "Party Game"
       ],
       "language": "es",
       "players": [
@@ -2829,7 +3102,7 @@
       ],
       "time": 20,
       "complexity": 1,
-      "rate": 6.8,
+      "rate": 6.3,
       "image": "a-prueba-de-retos",
       "isPlayed": true,
       "age": 10,
@@ -2841,19 +3114,20 @@
       "editor": "APE Games",
       "year": 2018,
       "types": [
-        "Strategy",
+        "Area Majority / Influence",
+        "Environmental",
         "Farming",
-        "Area majority",
-        "Modular board",
-        "Solitaire"
+        "Hand Management",
+        "Modular Board",
+        "Voting"
       ],
       "language": "es",
       "players": [
         1,
         4
       ],
-      "time": 90,
-      "complexity": 3.02,
+      "time": 80,
+      "complexity": 3.04,
       "rate": 6.9,
       "image": "petrichor",
       "isPlayed": false,
@@ -2867,10 +3141,9 @@
       "year": 2010,
       "types": [
         "Card Game",
-        "Deduction",
-        "Memory",
         "Communication Limits",
         "Cooperative Game",
+        "Deduction",
         "Hand Management",
         "Memory",
         "Ordering",
@@ -2895,18 +3168,23 @@
       "editor": "Ludonova",
       "year": 2017,
       "types": [
-        "Solitaire",
+        "Adventure",
+        "Card Game",
         "Fantasy",
+        "Hand Management",
         "Horror",
-        "Cards"
+        "Novel-based",
+        "Open Drafting",
+        "Set Collection",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 30,
-      "complexity": 2.22,
-      "rate": 6.8,
+      "complexity": 2.25,
+      "rate": 6.7,
       "image": "arkham-caso-1",
       "isPlayed": true,
       "age": 14,
@@ -2918,19 +3196,21 @@
       "editor": "Zacatrús",
       "year": 2021,
       "types": [
-        "Party",
+        "Betting and Bluffing",
         "Bluffing",
-        "Trivia",
-        "Movies"
+        "Movies / TV / Radio theme",
+        "Party Game",
+        "Team-Based Game",
+        "Trivia"
       ],
       "language": "es",
       "players": [
         2,
         10
       ],
-      "time": 25,
+      "time": 30,
       "complexity": 1,
-      "rate": 7.1,
+      "rate": 5.7,
       "image": "spoilers",
       "isPlayed": true,
       "age": 14,
@@ -2942,17 +3222,17 @@
       "editor": "Cocktail Games",
       "year": 2015,
       "types": [
-        "Party",
-        "Deduction",
         "Acting",
-        "Layering"
+        "Deduction",
+        "Party Game",
+        "Team-Based Game"
       ],
       "language": "es",
       "players": [
         3,
         8
       ],
-      "time": 30,
+      "time": 20,
       "complexity": 1.06,
       "rate": 6.8,
       "image": "imagine",
@@ -2966,18 +3246,19 @@
       "editor": "Self published",
       "year": 2015,
       "types": [
-        "Cards",
-        "Party",
-        "Adult"
+        "Betting and Bluffing",
+        "Card Game",
+        "Mature / Adult",
+        "Party Game"
       ],
       "language": "en",
       "players": [
         3,
         8
       ],
-      "time": 15,
-      "complexity": 1.29,
-      "rate": 5.7,
+      "time": 30,
+      "complexity": 1.18,
+      "rate": 5.6,
       "image": "fuck-the-game",
       "isPlayed": true,
       "age": 18,
@@ -2989,21 +3270,23 @@
       "editor": "Devir",
       "year": 2019,
       "types": [
-        "Abstract strategy",
+        "Abstract Strategy",
+        "Action Drafting",
+        "Grid Coverage",
+        "Modular Board",
+        "Open Drafting",
         "Puzzle",
-        "Territory building",
-        "Layering",
-        "Grid coverage",
-        "Open drafting",
-        "Two players"
+        "Square Grid",
+        "Territory Building",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
         2
       ],
       "time": 30,
-      "complexity": 2.04,
-      "rate": 7.3,
+      "complexity": 2.03,
+      "rate": 7.2,
       "image": "paris-la-cite-de-la-lumiere",
       "isPlayed": false,
       "age": 8,
@@ -3015,19 +3298,19 @@
       "editor": "Devir",
       "year": 2021,
       "types": [
-        "Action drafting",
-        "Area majority",
-        "Tile placement",
-        "Expansion",
-        "Two players"
+        "Action Drafting",
+        "Area Majority / Influence",
+        "Expansion for Base-game",
+        "Open Drafting",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
         2
       ],
       "time": 30,
-      "complexity": 2.2,
-      "rate": 7.6,
+      "complexity": 2,
+      "rate": 7.5,
       "image": "paris-eiffel",
       "isPlayed": false,
       "age": 8,
@@ -3039,8 +3322,8 @@
       "editor": "Brain picnic",
       "year": 2015,
       "types": [
-        "Family",
-        "Cards",
+        "Card Game",
+        "Children&#039;s Game",
         "Puzzle"
       ],
       "language": "es",
@@ -3062,8 +3345,10 @@
       "editor": "GenX Games",
       "year": 2019,
       "types": [
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
+        "Murder / Mystery",
+        "Scenario / Mission / Campaign Game",
         "Storytelling",
         "Voting"
       ],
@@ -3074,7 +3359,7 @@
       ],
       "time": 60,
       "complexity": 1,
-      "rate": 5.5,
+      "rate": 5.4,
       "image": "el-jurado-1",
       "isPlayed": false,
       "age": 15,
@@ -3087,20 +3372,20 @@
       "year": 2021,
       "types": [
         "Adventure",
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
         "Deduction",
         "Puzzle",
-        "Cooperative",
-        "Solitaire"
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
         1,
         24
       ],
-      "time": 300,
+      "time": 600,
       "complexity": 2,
-      "rate": 6.5,
+      "rate": 6.3,
       "image": "antarctica",
       "isPlayed": true,
       "age": 14,
@@ -3112,11 +3397,14 @@
       "editor": "Diset",
       "year": 2021,
       "types": [
-        "Party",
-        "Murder/Mystery",
-        "Horror",
+        "Cooperative Game",
         "Deduction",
-        "Real-time"
+        "Horror",
+        "Murder / Mystery",
+        "Party Game",
+        "Puzzle",
+        "Real-Time",
+        "Storytelling"
       ],
       "language": "es",
       "players": [
@@ -3124,8 +3412,8 @@
         5
       ],
       "time": 120,
-      "complexity": 2,
-      "rate": 7.8,
+      "complexity": 2.11,
+      "rate": 7.7,
       "image": "nightmare",
       "isPlayed": true,
       "age": 16,
@@ -3137,10 +3425,10 @@
       "editor": "TCG Factory",
       "year": 2021,
       "types": [
-        "Spies / Secret Agents",
         "Network and Route Building",
         "Open Drafting",
-        "Point to Point Movement"
+        "Point to Point Movement",
+        "Spies / Secret Agents"
       ],
       "language": "es",
       "players": [
@@ -3162,8 +3450,8 @@
       "year": 2020,
       "types": [
         "Fantasy",
-        "Humor",
         "Hand Management",
+        "Humor",
         "Line Drawing",
         "Open Drafting"
       ],
@@ -3187,9 +3475,9 @@
       "year": 2021,
       "types": [
         "Card Game",
-        "Real-time",
         "Closed Drafting",
         "Race",
+        "Real-time",
         "Simultaneous Action Selection",
         "Speed Matching",
         "Sudden Death Ending"
@@ -3213,15 +3501,15 @@
       "editor": "Devir",
       "year": 2021,
       "types": [
-        "Medieval",
-        "Puzzle",
-        "Territory Building",
         "Chaining",
         "Enclosure",
         "Hexagon Grid",
         "Map Addition",
+        "Medieval",
         "Network and Route Building",
+        "Puzzle",
         "Team-Based Game",
+        "Territory Building",
         "Tile Placement"
       ],
       "language": "es",
@@ -3243,16 +3531,16 @@
       "editor": "Devir",
       "year": 2018,
       "types": [
-        "Dice",
-        "Trains",
         "Bingo",
         "Connections",
+        "Dice",
         "Dice Rolling",
         "Line Drawing",
         "Network and Route Building",
         "Paper-and-Pencil",
         "Simultaneous Action Selection",
-        "Solo / Solitaire Game"
+        "Solo / Solitaire Game",
+        "Trains"
       ],
       "language": "es",
       "players": [
@@ -3273,17 +3561,21 @@
       "editor": "Ludonova",
       "year": 2018,
       "types": [
-        "Solitaire",
+        "Adventure",
+        "Card Game",
         "Fantasy",
+        "Hand Management",
         "Horror",
-        "Cards"
+        "Novel-based",
+        "Open Drafting",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 30,
-      "complexity": 2.47,
+      "complexity": 2.38,
       "rate": 7.1,
       "image": "arkham-caso-2",
       "isPlayed": true,
@@ -3296,18 +3588,22 @@
       "editor": "Ludonova",
       "year": 2021,
       "types": [
-        "Solitaire",
+        "Adventure",
+        "Card Game",
         "Fantasy",
+        "Hand Management",
         "Horror",
-        "Cards"
+        "Novel-based",
+        "Open Drafting",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 30,
-      "complexity": 2.86,
-      "rate": 7.2,
+      "complexity": 3.09,
+      "rate": 7.1,
       "image": "arkham-caso-3",
       "isPlayed": true,
       "age": 14,
@@ -3319,12 +3615,12 @@
       "editor": "Pegasus Spiele",
       "year": 2020,
       "types": [
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Storytelling",
-        "Expansion",
-        "Solitaire"
+        "Expansion for Base-game",
+        "Murder / Mystery",
+        "Solo / Solitaire Game",
+        "Storytelling"
       ],
       "language": "es",
       "players": [
@@ -3333,7 +3629,7 @@
       ],
       "time": 120,
       "complexity": 2.6,
-      "rate": 7.4,
+      "rate": 7.3,
       "image": "detective-sigue-la-pista",
       "isPlayed": true,
       "age": 16,
@@ -3345,19 +3641,18 @@
       "editor": "Devir",
       "year": 2006,
       "types": [
-        "Strategy",
         "Deduction",
-        "Grid movement",
+        "Grid Movement",
         "Hexagon Grid",
-        "Open drafting",
-        "Variable player powers"
+        "Murder / Mystery",
+        "Open Drafting",
+        "Variable Player Powers"
       ],
       "language": "es",
       "players": [
-        2,
-        4
+        2
       ],
-      "time": 40,
+      "time": 30,
       "complexity": 2.17,
       "rate": 7,
       "image": "mr-jack",
@@ -3420,11 +3715,11 @@
       "year": 2018,
       "types": [
         "Action / Dexterity",
-        "Humor",
-        "Party Game",
-        "Real-time",
         "Drawing",
-        "Paper-and-Pencil"
+        "Humor",
+        "Paper-and-Pencil",
+        "Party Game",
+        "Real-time"
       ],
       "language": "en",
       "players": [
@@ -3445,8 +3740,8 @@
       "editor": "Ankama",
       "year": 2022,
       "types": [
-        "Strategy",
-        "Solitaire"
+        "Solitaire",
+        "Strategy"
       ],
       "language": "x",
       "players": [
@@ -3468,7 +3763,7 @@
       "year": 2018,
       "types": [
         "Animals",
-        "Children's Game",
+        "Children&#039;s Game",
         "Party Game",
         "Real-time",
         "Simultaneous Action Selection"
@@ -3494,10 +3789,9 @@
       "types": [
         "Card Game",
         "Deduction",
-        "Renaissance",
-        "Deduction",
         "Hand Management",
         "Player Elimination",
+        "Renaissance",
         "Score-and-Reset Game",
         "Take That"
       ],
@@ -3524,14 +3818,14 @@
         "Card Game",
         "Deduction",
         "Fantasy",
+        "Finale Ending",
+        "Hidden Roles",
         "Medieval",
         "Negotiation",
         "Party Game",
-        "Spies / Secret Agents",
-        "Finale Ending",
-        "Hidden Roles",
         "Roles with Asymmetric Information",
         "Simultaneous Action Selection",
+        "Spies / Secret Agents",
         "Team-Based Game",
         "Traitor Game",
         "Variable Player Powers",
@@ -3556,8 +3850,8 @@
       "editor": "A & B Games",
       "year": 2019,
       "types": [
-        "Strategy",
-        "Political"
+        "Political",
+        "Strategy"
       ],
       "language": "en",
       "players": [
@@ -3600,8 +3894,8 @@
       "editor": "Innericons",
       "year": 2019,
       "types": [
-        "Mind fullness",
-        "Cards"
+        "Cards",
+        "Mind fullness"
       ],
       "language": "en",
       "players": [
@@ -3622,14 +3916,14 @@
       "editor": "Road To Infamy",
       "year": 2021,
       "types": [
-        "Card Game",
-        "Puzzle",
         "Auction: Dutch",
+        "Card Game",
         "Contracts",
         "Hand Management",
         "Increase Value of Unchosen Resources",
         "Layering",
         "Open Drafting",
+        "Puzzle",
         "Set Collection",
         "Solo / Solitaire Game"
       ],
@@ -3652,14 +3946,12 @@
       "editor": "Road To Infamy",
       "year": 2022,
       "types": [
-        "Expansion for Base-game",
         "Card Game",
-        "Puzzle",
+        "Expansion for Base-game",
         "Increase Value of Unchosen Resources",
         "Layering",
-        "Set Collection",
-        "Solitaire",
-        "Expansion"
+        "Puzzle",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
@@ -3680,16 +3972,16 @@
       "editor": "Devir",
       "year": 2021,
       "types": [
-        "Dice",
-        "Trains",
         "Bingo",
         "Connections",
+        "Dice",
         "Dice Rolling",
         "Line Drawing",
         "Network and Route Building",
         "Paper-and-Pencil",
         "Simultaneous Action Selection",
-        "Solo / Solitaire Game"
+        "Solo / Solitaire Game",
+        "Trains"
       ],
       "language": "es",
       "players": [
@@ -3734,18 +4026,19 @@
       "editor": "Ravensburger",
       "year": 2023,
       "types": [
-        "Party",
+        "Bluffing",
+        "Card Game",
         "Memory",
-        "Bluffing"
+        "Party Game"
       ],
       "language": "x",
       "players": [
         3,
         8
       ],
-      "time": 30,
-      "complexity": 1,
-      "rate": 7.1,
+      "time": 15,
+      "complexity": 1.05,
+      "rate": 7,
       "image": "thats-not-a-hat",
       "isPlayed": true,
       "age": 8,
@@ -3757,10 +4050,11 @@
       "editor": "Mercurio",
       "year": 2008,
       "types": [
-        "Dice rolling",
+        "Dice",
+        "Dice Rolling",
         "Memory",
-        "Push your luck",
-        "Set collection"
+        "Push Your Luck",
+        "Set Collection"
       ],
       "language": "x",
       "players": [
@@ -3768,7 +4062,7 @@
         5
       ],
       "time": 20,
-      "complexity": 1.24,
+      "complexity": 1.22,
       "rate": 6.5,
       "image": "sushi-bar",
       "isPlayed": true,
@@ -3782,8 +4076,8 @@
       "year": 2020,
       "types": [
         "Action / Dexterity",
-        "Animals",
         "Action Points",
+        "Animals",
         "Area Majority / Influence",
         "Chaining",
         "Enclosure",
@@ -3809,13 +4103,17 @@
     {
       "name": "Obscurio",
       "editor": "Libellud",
-      "year": 2023,
+      "year": 2019,
       "types": [
-        "Exploration",
-        "Deduction",
         "Bluffing",
-        "Traitor",
-        "Cooperative",
+        "Communication Limits",
+        "Cooperative Game",
+        "Deduction",
+        "Exploration",
+        "Hidden Roles",
+        "Party Game",
+        "Traitor Game",
+        "Variable Player Powers",
         "Voting"
       ],
       "language": "es",
@@ -3824,7 +4122,7 @@
         8
       ],
       "time": 40,
-      "complexity": 1.86,
+      "complexity": 1.91,
       "rate": 7.1,
       "image": "obscurio",
       "isPlayed": true,
@@ -3837,12 +4135,12 @@
       "editor": "Mebo",
       "year": 2020,
       "types": [
-        "Negotiation",
-        "Puzzle",
         "Auction / Bidding",
         "Deduction",
         "Hidden Victory Points",
         "Memory",
+        "Negotiation",
+        "Puzzle",
         "Tile Placement",
         "Variable Set-up"
       ],
@@ -3893,7 +4191,7 @@
       "types": [
         "Animals",
         "Card Game",
-        "Children's Game",
+        "Children&#039;s Game",
         "Set Collection"
       ],
       "language": "x",
@@ -3937,8 +4235,8 @@
       "editor": "Zacatrús",
       "year": 2018,
       "types": [
-        "Dice",
         "Bingo",
+        "Dice",
         "Dice Rolling",
         "Paper-and-Pencil",
         "Race"
@@ -3963,20 +4261,18 @@
       "year": 2023,
       "types": [
         "Card Game",
+        "Cooperative Game",
         "Deduction",
         "Puzzle",
         "Science Fiction",
-        "Cooperative Game",
-        "Deduction",
-        "Solo / Solitaire Game",
-        "Solitaire"
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
         1,
         24
       ],
-      "time": 300,
+      "time": 0,
       "complexity": 1,
       "rate": 7,
       "image": "diaspora-zero",
@@ -3991,9 +4287,9 @@
       "year": 2023,
       "types": [
         "Fantasy",
-        "Wargame",
-        "Grid movement",
-        "Two players"
+        "Grid Movement",
+        "Novel-based",
+        "Wargame"
       ],
       "language": "es",
       "players": [
@@ -4001,7 +4297,7 @@
       ],
       "time": 30,
       "complexity": 2,
-      "rate": 7.1,
+      "rate": 6.9,
       "image": "gohut",
       "isPlayed": false,
       "age": 10,
@@ -4013,9 +4309,9 @@
       "editor": "Maldito Games",
       "year": 2021,
       "types": [
-        "Card Game",
         "Auction / Bidding",
         "Betting and Bluffing",
+        "Card Game",
         "Set Collection"
       ],
       "language": "es",
@@ -4037,12 +4333,12 @@
       "editor": "MásQueOca",
       "year": 2016,
       "types": [
-        "Deduction",
-        "Educational",
-        "Puzzle",
         "Communication Limits",
         "Cooperative Game",
-        "Pattern Building"
+        "Deduction",
+        "Educational",
+        "Pattern Building",
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -4063,13 +4359,14 @@
       "editor": "GenX Games",
       "year": 2021,
       "types": [
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
         "Horror",
-        "Murder/Mystery",
+        "Murder / Mystery",
         "Puzzle",
         "Real-time",
-        "Solitaire",
-        "Escape room"
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
@@ -4077,8 +4374,8 @@
         4
       ],
       "time": 60,
-      "complexity": 1.5,
-      "rate": 5.7,
+      "complexity": 1.67,
+      "rate": 5.8,
       "image": "secreto-de-amelia",
       "isPlayed": true,
       "age": 12,
@@ -4090,11 +4387,11 @@
       "editor": "Space Cowboys",
       "year": 2023,
       "types": [
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Puzzle",
-        "Communication limits",
-        "Cooperative"
+        "Murder / Mystery",
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -4102,8 +4399,8 @@
         6
       ],
       "time": 90,
-      "complexity": 2.14,
-      "rate": 7.8,
+      "complexity": 1.84,
+      "rate": 7.6,
       "image": "perspectives",
       "isPlayed": true,
       "age": 12,
@@ -4116,9 +4413,9 @@
       "year": 2022,
       "types": [
         "Abstract Strategy",
-        "Card Game",
         "Action Retrieval",
         "Area Majority / Influence",
+        "Card Game",
         "Connections",
         "Contracts",
         "End Game Bonuses",
@@ -4149,8 +4446,8 @@
       "year": 2022,
       "types": [
         "Card Game",
-        "Educational",
         "Deck, Bag, and Pool Building",
+        "Educational",
         "Simulation",
         "Solo / Solitaire Game"
       ],
@@ -4175,10 +4472,9 @@
       "types": [
         "Deduction",
         "Math",
-        "Spies / Secret Agents",
-        "Deduction",
         "Paper-and-Pencil",
-        "Solo / Solitaire Game"
+        "Solo / Solitaire Game",
+        "Spies / Secret Agents"
       ],
       "language": "en",
       "players": [
@@ -4199,12 +4495,12 @@
       "editor": "Maldito Games",
       "year": 2022,
       "types": [
-        "Expansion for Base-game",
         "Abstract Strategy",
-        "Card Game",
         "Area Majority / Influence",
         "Auction / Bidding",
+        "Card Game",
         "End Game Bonuses",
+        "Expansion for Base-game",
         "Paper-and-Pencil",
         "Set Collection"
       ],
@@ -4228,12 +4524,12 @@
       "year": 2023,
       "types": [
         "City Building",
-        "Trains",
         "Connections",
         "End Game Bonuses",
         "Line Drawing",
         "Network and Route Building",
-        "Paper-and-Pencil"
+        "Paper-and-Pencil",
+        "Trains"
       ],
       "language": "es",
       "players": [
@@ -4255,9 +4551,9 @@
       "year": 2018,
       "types": [
         "Abstract Strategy",
-        "Puzzle",
         "Action Points",
         "Pattern Building",
+        "Puzzle",
         "Solo / Solitaire Game"
       ],
       "language": "es",
@@ -4279,12 +4575,12 @@
       "editor": "Repos production",
       "year": 2013,
       "types": [
+        "Communication Limits",
         "Deduction",
         "Party Game",
-        "Word Game",
-        "Communication Limits",
         "Race",
-        "Team-Based Game"
+        "Team-Based Game",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -4305,8 +4601,8 @@
       "editor": "Hot Macacos",
       "year": 2023,
       "types": [
-        "Real-time",
-        "Pattern Recognition"
+        "Pattern Recognition",
+        "Real-time"
       ],
       "language": "x",
       "players": [
@@ -4327,10 +4623,10 @@
       "editor": "Mebo",
       "year": 2019,
       "types": [
+        "Cooperative Game",
         "Deduction",
         "Expansion for Base-game",
         "Murder / Mystery",
-        "Cooperative Game",
         "Solo / Solitaire Game",
         "Storytelling"
       ],
@@ -4353,12 +4649,10 @@
       "editor": "Devir",
       "year": 2018,
       "types": [
+        "Cooperative Game",
         "Deduction",
         "Horror",
-        "Puzzle",
-        "Cooperative",
-        "Escape room",
-        "Solitaire"
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -4366,7 +4660,7 @@
         4
       ],
       "time": 240,
-      "complexity": 2.62,
+      "complexity": 2.73,
       "rate": 7.3,
       "image": "exit-9-las-catacumbas-del-terror",
       "isPlayed": false,
@@ -4380,8 +4674,8 @@
       "year": 2016,
       "types": [
         "Card Game",
-        "Horror",
         "Hand Management",
+        "Horror",
         "Player Elimination",
         "Single Loser Game"
       ],
@@ -4428,9 +4722,9 @@
       "year": 2020,
       "types": [
         "Card Game",
-        "Number",
         "Cooperative Game",
-        "Hand Management"
+        "Hand Management",
+        "Number"
       ],
       "language": "x",
       "players": [
@@ -4452,11 +4746,11 @@
       "year": 2020,
       "types": [
         "Fantasy",
-        "Puzzle",
-        "Territory Building",
         "Map Addition",
         "Network and Route Building",
+        "Puzzle",
         "Race",
+        "Territory Building",
         "Tile Placement"
       ],
       "language": "x",
@@ -4478,8 +4772,8 @@
       "editor": "GAME4U2",
       "year": 2022,
       "types": [
-        "Card Game",
         "Action Queue",
+        "Card Game",
         "Matching"
       ],
       "language": "x",
@@ -4502,9 +4796,9 @@
       "year": 2018,
       "types": [
         "City Building",
+        "Modular Board",
         "Puzzle",
         "Science Fiction",
-        "Modular Board",
         "Tile Placement"
       ],
       "language": "es",
@@ -4526,7 +4820,7 @@
       "editor": "Matagot",
       "year": 2020,
       "types": [
-        "Children's Game"
+        "Children&#039;s Game"
       ],
       "language": "es",
       "players": [
@@ -4572,19 +4866,19 @@
       "editor": "Space Cowboys",
       "year": 2020,
       "types": [
-        "Cards",
-        "End game bonuses",
-        "Deck, bag and pool building",
-        "Take that",
-        "Two players"
+        "Card Game",
+        "Deck, Bag, and Pool Building",
+        "End Game Bonuses",
+        "Fantasy",
+        "Take That"
       ],
       "language": "es",
       "players": [
         2
       ],
       "time": 30,
-      "complexity": 1.48,
-      "rate": 6.6,
+      "complexity": 1.5,
+      "rate": 6.5,
       "image": "tea-for-2",
       "isPlayed": false,
       "age": 10,
@@ -4594,11 +4888,11 @@
     {
       "name": "¡A sacar la basura!",
       "editor": "The right to lose",
-      "year": 2023,
+      "year": 2020,
       "types": [
         "Humor",
-        "Party",
-        "Open drafting",
+        "Open Drafting",
+        "Party Game",
         "Voting"
       ],
       "language": "es",
@@ -4606,12 +4900,12 @@
         3,
         8
       ],
-      "time": 15,
+      "time": 0,
       "complexity": 0,
       "rate": 5.6,
       "image": "a-sacar-la-basura",
       "isPlayed": true,
-      "age": 10,
+      "age": 12,
       "bggReference": 308768,
       "size": "s"
     },
@@ -4620,12 +4914,16 @@
       "editor": "Devir",
       "year": 2012,
       "types": [
-        "Cards",
-        "End game bonuses",
-        "Modular board",
-        "Open drafting",
-        "Set collection",
-        "Two players"
+        "Arabian",
+        "Card Game",
+        "End Game Bonuses",
+        "Modular Board",
+        "Open Drafting",
+        "Pattern Building",
+        "Set Collection",
+        "Square Grid",
+        "Turn Order: Progressive",
+        "Worker Placement"
       ],
       "language": "es",
       "players": [
@@ -4645,13 +4943,22 @@
       "editor": "Asmodee",
       "year": 2019,
       "types": [
-        "City building",
-        "Dice rolling",
+        "City Building",
+        "Civilization",
+        "Dice",
+        "Dice Rolling",
+        "Enclosure",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Income",
         "Medieval",
-        "Grid coverage",
-        "End game bonuses",
-        "Strategy",
-        "Solitaire"
+        "Push Your Luck",
+        "Re-rolling and Locking",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Take That",
+        "Tech Trees / Tech Tracks"
       ],
       "language": "es",
       "players": [
@@ -4659,7 +4966,7 @@
         4
       ],
       "time": 60,
-      "complexity": 2.25,
+      "complexity": 2.26,
       "rate": 7.2,
       "image": "era-edad-media",
       "isPlayed": true,
@@ -4672,12 +4979,11 @@
       "editor": "The United States Playing Card Company",
       "year": 1996,
       "types": [
-        "Cards",
-        "Collectible components",
+        "Action Points",
+        "Card Game",
+        "Collectible Components",
         "Deduction",
-        "Action points",
-        "TV series",
-        "Two players"
+        "Movies / TV / Radio theme"
       ],
       "language": "en",
       "players": [
@@ -4697,10 +5003,8 @@
       "editor": "Jeux Opla",
       "year": 2021,
       "types": [
-        "Puzzle",
-        "Cooperative",
-        "Solitaire",
-        "Two players"
+        "Cooperative Game",
+        "Puzzle"
       ],
       "language": "x",
       "players": [
@@ -4709,7 +5013,7 @@
       ],
       "time": 45,
       "complexity": 1,
-      "rate": 6,
+      "rate": 5.8,
       "image": "cartzzle-exploracion-extrema",
       "isPlayed": true,
       "age": 8,
@@ -4723,12 +5027,12 @@
       "types": [
         "Card Game",
         "Educational",
+        "Matching",
         "Party Game",
         "Real-time",
-        "Word Game",
-        "Matching",
         "Real-Time",
-        "Speed Matching"
+        "Speed Matching",
+        "Word Game"
       ],
       "language": "x",
       "players": [
@@ -4749,12 +5053,11 @@
       "editor": "Devir",
       "year": 2021,
       "types": [
-        "City building",
-        "Science fiction",
-        "Open drafting",
-        "Set collection",
-        "Tile placement",
-        "Family"
+        "City Building",
+        "Open Drafting",
+        "Science Fiction",
+        "Set Collection",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
@@ -4762,7 +5065,7 @@
         4
       ],
       "time": 45,
-      "complexity": 2.25,
+      "complexity": 2.24,
       "rate": 7.1,
       "image": "luna-capital",
       "isPlayed": false,
@@ -4775,12 +5078,12 @@
       "editor": "Maldito Games",
       "year": 2023,
       "types": [
-        "Cards",
-        "Deck, bag and pool building",
+        "Card Game",
+        "Deck, Bag, and Pool Building",
         "Hand Management",
-        "Open drafting",
-        "Set collection",
-        "Solitaire"
+        "Open Drafting",
+        "Set Collection",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
@@ -4788,8 +5091,8 @@
         4
       ],
       "time": 60,
-      "complexity": 2.58,
-      "rate": 7.2,
+      "complexity": 2.61,
+      "rate": 7.1,
       "image": "libros-del-tiempo",
       "isPlayed": true,
       "age": 14,
@@ -4801,9 +5104,9 @@
       "editor": "Mebo",
       "year": 2019,
       "types": [
-        "Action/Event",
-        "Children's game",
-        "Stacking and balancing"
+        "Action / Dexterity",
+        "Children&#039;s Game",
+        "Stacking and Balancing"
       ],
       "language": "x",
       "players": [
@@ -4824,9 +5127,9 @@
       "editor": "Portal Games",
       "year": 2018,
       "types": [
+        "Cooperative Game",
         "Deduction",
         "Murder / Mystery",
-        "Cooperative Game",
         "Narrative Choice / Paragraph",
         "Scenario / Mission / Campaign Game",
         "Solo / Solitaire Game",
@@ -4852,11 +5155,11 @@
       "editor": "Mercurio",
       "year": 2019,
       "types": [
+        "Cooperative Game",
         "Deduction",
         "Horror",
         "Medical",
-        "Puzzle",
-        "Cooperative Game"
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -4879,10 +5182,10 @@
       "types": [
         "Card Game",
         "Music",
+        "Ordering",
         "Party Game",
         "Print & Play",
-        "Trivia",
-        "Ordering"
+        "Trivia"
       ],
       "language": "es",
       "players": [
@@ -4904,10 +5207,10 @@
       "year": 2022,
       "types": [
         "Card Game",
+        "Cooperative Game",
         "Humor",
         "Music",
         "Party Game",
-        "Cooperative Game",
         "Voting"
       ],
       "language": "es",
@@ -4931,9 +5234,9 @@
       "types": [
         "Bluffing",
         "Deduction",
-        "Party Game",
         "Hidden Roles",
         "Line Drawing",
+        "Party Game",
         "Targeted Clues"
       ],
       "language": "x",
@@ -4956,7 +5259,7 @@
       "year": 2018,
       "types": [
         "Action / Dexterity",
-        "Children's Game",
+        "Children&#039;s Game",
         "Pattern Recognition"
       ],
       "language": "x",
@@ -5005,9 +5308,9 @@
         "Abstract Strategy",
         "Card Game",
         "Farming",
-        "Print & Play",
         "Melding and Splaying",
         "Pattern Building",
+        "Print & Play",
         "Solo / Solitaire Game",
         "Tile Placement"
       ],
@@ -5030,9 +5333,9 @@
       "year": 2018,
       "types": [
         "Card Game",
+        "Hand Management",
         "Humor",
         "Party Game",
-        "Hand Management",
         "Player Elimination"
       ],
       "language": "en",
@@ -5078,9 +5381,9 @@
       "types": [
         "Animals",
         "Dice",
-        "Territory Building",
         "Dice Rolling",
-        "Paper-and-Pencil"
+        "Paper-and-Pencil",
+        "Territory Building"
       ],
       "language": "x",
       "players": [
@@ -5172,8 +5475,8 @@
       "year": 1988,
       "types": [
         "Card Game",
-        "Puzzle",
         "Pattern Recognition",
+        "Puzzle",
         "Real-Time",
         "Speed Matching"
       ],
@@ -5198,8 +5501,7 @@
       "types": [
         "Card Game",
         "Memory",
-        "Party Game",
-        "Memory"
+        "Party Game"
       ],
       "language": "x",
       "players": [
@@ -5220,15 +5522,14 @@
       "editor": "TCG Factory",
       "year": 2017,
       "types": [
+        "Betting and Bluffing",
         "Card Game",
         "Deduction",
+        "Hand Management",
         "Medical",
         "Memory",
         "Mythology",
         "Puzzle",
-        "Betting and Bluffing",
-        "Hand Management",
-        "Memory",
         "Trading"
       ],
       "language": "es",
@@ -5275,11 +5576,11 @@
       "editor": "TCG Factory",
       "year": 2019,
       "types": [
-        "City building",
-        "Children's game",
+        "Children&#039;s Game",
+        "City Building",
         "Educational",
-        "Pattern building",
-        "Pattern recognition"
+        "Pattern Building",
+        "Pattern Recognition"
       ],
       "language": "es",
       "players": [
@@ -5288,7 +5589,7 @@
       ],
       "time": 20,
       "complexity": 1,
-      "rate": 5.6,
+      "rate": 5.5,
       "image": "city-blox",
       "isPlayed": true,
       "age": 6,
@@ -5302,9 +5603,9 @@
       "types": [
         "Adventure",
         "Exploration",
-        "Travel",
         "Open Drafting",
-        "Set Collection"
+        "Set Collection",
+        "Travel"
       ],
       "language": "x",
       "players": [
@@ -5326,8 +5627,8 @@
       "year": 2022,
       "types": [
         "Abstract Strategy",
-        "Card Game",
         "Area Majority / Influence",
+        "Card Game",
         "Modular Board",
         "Pattern Building",
         "Tile Placement"
@@ -5350,9 +5651,9 @@
       "editor": "Mebo",
       "year": 2012,
       "types": [
+        "Deck, Bag, and Pool Building",
         "Fantasy",
         "Mythology",
-        "Deck, Bag, and Pool Building",
         "Open Drafting",
         "Point to Point Movement",
         "Worker Placement"
@@ -5377,20 +5678,20 @@
       "year": 2024,
       "types": [
         "Animals",
-        "Fantasy",
-        "Puzzle",
-        "Territory Building",
         "Area Majority / Influence",
         "Auction / Bidding",
         "Contracts",
         "End Game Bonuses",
+        "Fantasy",
         "Grid Coverage",
         "Market",
         "Modular Board",
         "Pattern Building",
+        "Puzzle",
         "Set Collection",
         "Solo / Solitaire Game",
         "Square Grid",
+        "Territory Building",
         "Variable Set-up"
       ],
       "language": "en",
@@ -5412,11 +5713,11 @@
       "editor": "Aurora",
       "year": 2020,
       "types": [
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Narrative choice/paragraph",
+        "Murder / Mystery",
+        "Narrative Choice / Paragraph",
         "Storytelling"
       ],
       "language": "es",
@@ -5425,8 +5726,8 @@
         6
       ],
       "time": 60,
-      "complexity": 1.14,
-      "rate": 6.7,
+      "complexity": 1.18,
+      "rate": 6.6,
       "image": "crime-zoom-1",
       "isPlayed": true,
       "age": 14,
@@ -5438,8 +5739,9 @@
       "editor": "Jyde",
       "year": 2020,
       "types": [
-        "Dice rolling",
-        "Industry",
+        "Dice",
+        "Dice Rolling",
+        "Industry / Manufacturing",
         "Paper-and-Pencil"
       ],
       "language": "es",
@@ -5449,7 +5751,7 @@
       ],
       "time": 20,
       "complexity": 1,
-      "rate": 7.3,
+      "rate": 7,
       "image": "draw-bot",
       "isPlayed": false,
       "age": 8,
@@ -5461,18 +5763,17 @@
       "editor": "Devir",
       "year": 2023,
       "types": [
-        "Cards",
+        "Card Game",
         "Mythology",
-        "Set collection",
-        "Two players"
+        "Set Collection"
       ],
       "language": "es",
       "players": [
         2
       ],
       "time": 20,
-      "complexity": 1.33,
-      "rate": 6.9,
+      "complexity": 1.21,
+      "rate": 6.8,
       "image": "yokai-sketch",
       "isPlayed": false,
       "age": 12,
@@ -5484,9 +5785,9 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
+        "Music",
         "Party",
-        "Player judge",
-        "Music"
+        "Player judge"
       ],
       "language": "en",
       "players": [
@@ -5507,10 +5808,10 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
-        "Party",
-        "Player judge",
+        "Expansion",
         "Music",
-        "Expansion"
+        "Party",
+        "Player judge"
       ],
       "language": "en",
       "players": [
@@ -5531,10 +5832,10 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
-        "Party",
-        "Player judge",
+        "Expansion",
         "Music",
-        "Expansion"
+        "Party",
+        "Player judge"
       ],
       "language": "en",
       "players": [
@@ -5555,10 +5856,10 @@
       "editor": "AEG",
       "year": 2023,
       "types": [
-        "Party",
-        "Player judge",
+        "Expansion",
         "Music",
-        "Expansion"
+        "Party",
+        "Player judge"
       ],
       "language": "en",
       "players": [
@@ -5579,14 +5880,15 @@
       "editor": "Maldito Games",
       "year": 2020,
       "types": [
-        "Strategy",
+        "Action Points",
         "Deduction",
-        "Puzzle",
-        "Space exploration",
-        "Action points",
-        "End game bonuses",
+        "End Game Bonuses",
         "Paper-and-Pencil",
-        "Solitaire"
+        "Puzzle",
+        "Rondel",
+        "Solo / Solitaire Game",
+        "Space Exploration",
+        "Turn Order: Time Track"
       ],
       "language": "es",
       "players": [
@@ -5594,7 +5896,7 @@
         4
       ],
       "time": 75,
-      "complexity": 2.42,
+      "complexity": 2.44,
       "rate": 7.9,
       "image": "busqueda-planeta-x",
       "isPlayed": true,
@@ -5607,11 +5909,20 @@
       "editor": "2 tomatoes games",
       "year": 2020,
       "types": [
+        "Animals",
+        "Card Game",
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Cooperative",
-        "Communication limits",
-        "Grid movement",
-        "Two players"
+        "Grid Movement",
+        "Map Deformation",
+        "Memory",
+        "Modular Board",
+        "Pattern Movement",
+        "Puzzle",
+        "Scenario / Mission / Campaign Game",
+        "Square Grid",
+        "Variable Set-up"
       ],
       "language": "es",
       "players": [
@@ -5619,7 +5930,7 @@
       ],
       "time": 15,
       "complexity": 1.58,
-      "rate": 6.7,
+      "rate": 6.6,
       "image": "marcha-del-cangrejo",
       "isPlayed": false,
       "age": 8,
@@ -5631,9 +5942,13 @@
       "editor": "Oink Games",
       "year": 2018,
       "types": [
-        "Cards",
+        "Card Game",
+        "Children&#039;s Game",
+        "Matching",
+        "Number",
+        "Pattern Building",
         "Real-time",
-        "Pattern building"
+        "Real-Time"
       ],
       "language": "x",
       "players": [
@@ -5642,7 +5957,7 @@
       ],
       "time": 20,
       "complexity": 1.67,
-      "rate": 5.6,
+      "rate": 5.7,
       "image": "zogen",
       "isPlayed": false,
       "age": 6,
@@ -5654,20 +5969,24 @@
       "editor": "GenX Games",
       "year": 2021,
       "types": [
-        "Solitaire",
-        "Horror",
-        "Dice rolling",
+        "Card Game",
+        "Dice Rolling",
+        "Fantasy",
         "Hand Management",
+        "Horror",
         "Pick-up and Deliver",
-        "Variable player powers"
+        "Push Your Luck",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 60,
-      "complexity": 2.69,
-      "rate": 8.3,
+      "complexity": 2.75,
+      "rate": 8.2,
       "image": "final-girl",
       "isPlayed": false,
       "age": 14,
@@ -5679,16 +5998,16 @@
       "editor": "GenX Games",
       "year": 2023,
       "types": [
-        "Expansion",
-        "Solitaire",
-        "Horror"
+        "Expansion for Base-game",
+        "Horror",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 60,
-      "complexity": 2.92,
+      "complexity": 2.96,
       "rate": 8.5,
       "image": "final-girl-into-the-void",
       "isPlayed": false,
@@ -5701,16 +6020,16 @@
       "editor": "GenX Games",
       "year": 2021,
       "types": [
-        "Expansion",
-        "Solitaire",
-        "Horror"
+        "Expansion for Base-game",
+        "Horror",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 60,
-      "complexity": 2.8,
+      "complexity": 2.82,
       "rate": 7.9,
       "image": "final-girl-terror-from-above",
       "isPlayed": false,
@@ -5723,16 +6042,16 @@
       "editor": "GenX Games",
       "year": 2023,
       "types": [
-        "Expansion",
-        "Solitaire",
-        "Horror"
+        "Expansion for Base-game",
+        "Horror",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 60,
-      "complexity": 2.88,
+      "complexity": 2.95,
       "rate": 8.4,
       "image": "final-girl-panic-station-2891",
       "isPlayed": false,
@@ -5745,17 +6064,17 @@
       "editor": "GenX Games",
       "year": 2023,
       "types": [
-        "Expansion",
-        "Solitaire",
-        "Horror"
+        "Expansion for Base-game",
+        "Horror",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 60,
-      "complexity": 2.5,
-      "rate": 8.2,
+      "complexity": 2.69,
+      "rate": 8.1,
       "image": "final-girl-once-upon-a-full-moon",
       "isPlayed": false,
       "age": 14,
@@ -5765,24 +6084,22 @@
     {
       "name": "Key Enigma: Hack Forward",
       "editor": "Key Enigma",
-      "year": 2021,
+      "year": 2019,
       "types": [
-        "Murder/Mystery",
-        "Puzzle",
-        "Science fiction",
-        "Cooperative",
-        "Deduction",
-        "Solitaire",
-        "Storytelling"
+        "Card Game",
+        "Music",
+        "Party Game",
+        "Player Judge",
+        "Simultaneous Action Selection"
       ],
       "language": "es",
       "players": [
-        1,
+        3,
         6
       ],
-      "time": 480,
-      "complexity": 3,
-      "rate": 8,
+      "time": 90,
+      "complexity": 0,
+      "rate": 6.6,
       "image": "hack-forward",
       "isPlayed": false,
       "age": 14,
@@ -5794,11 +6111,11 @@
       "editor": "DMZ Games",
       "year": 2022,
       "types": [
-        "Words",
-        "Auction",
-        "Bidding",
-        "Communication limits",
-        "Deduction"
+        "Auction / Bidding",
+        "Closed Economy Auction",
+        "Communication Limits",
+        "Deduction",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -5807,7 +6124,7 @@
       ],
       "time": 60,
       "complexity": 2,
-      "rate": 6.7,
+      "rate": 6.6,
       "image": "hunch",
       "isPlayed": false,
       "age": 14,
@@ -5819,10 +6136,11 @@
       "editor": "TCG Factory",
       "year": 2020,
       "types": [
-        "Cards",
-        "Humor",
+        "Animals",
+        "Card Game",
         "Hand Management",
-        "Take that"
+        "Humor",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -5830,8 +6148,8 @@
         6
       ],
       "time": 30,
-      "complexity": 1.44,
-      "rate": 6.9,
+      "complexity": 1.36,
+      "rate": 6.8,
       "image": "peca-tu",
       "isPlayed": false,
       "age": 10,
@@ -5843,9 +6161,9 @@
       "editor": "TCG Factory",
       "year": 2023,
       "types": [
-        "Abstract strategy",
-        "Area majority",
-        "Tile placement"
+        "Abstract Strategy",
+        "Area Majority / Influence",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
@@ -5854,7 +6172,7 @@
       ],
       "time": 30,
       "complexity": 2,
-      "rate": 7.6,
+      "rate": 6.7,
       "image": "medang",
       "isPlayed": false,
       "age": 10,
@@ -5866,9 +6184,7 @@
       "editor": "Jumping turtle Games",
       "year": 2018,
       "types": [
-        "Dexterity",
-        "Finger flicking",
-        "Two players"
+        "Action / Dexterity"
       ],
       "language": "en",
       "players": [
@@ -5888,9 +6204,9 @@
       "editor": "Ludonova",
       "year": 2016,
       "types": [
-        "Words",
         "Paper-and-Pencil",
-        "Set collection"
+        "Set Collection",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -5912,10 +6228,10 @@
       "year": 2022,
       "types": [
         "Animals",
-        "Travel",
         "Matching",
-        "Set collection",
-        "Tile placement"
+        "Set Collection",
+        "Tile Placement",
+        "Travel"
       ],
       "language": "es",
       "players": [
@@ -5924,7 +6240,7 @@
       ],
       "time": 30,
       "complexity": 1.33,
-      "rate": 6.4,
+      "rate": 6.3,
       "image": "foto-perfecta",
       "isPlayed": true,
       "age": 8,
@@ -5936,13 +6252,13 @@
       "editor": "Meridiano 6",
       "year": 2015,
       "types": [
-        "Abstract strategy",
+        "Abstract Strategy",
+        "Auction / Bidding",
         "Educational",
-        "Medical",
+        "Medieval",
+        "Pattern Building",
         "Puzzle",
-        "Renaissance",
-        "Pattern building",
-        "Auction"
+        "Renaissance"
       ],
       "language": "es",
       "players": [
@@ -5951,7 +6267,7 @@
       ],
       "time": 45,
       "complexity": 2.23,
-      "rate": 7.1,
+      "rate": 7,
       "image": "ars-universalis",
       "isPlayed": false,
       "age": 10,
@@ -5963,24 +6279,27 @@
       "editor": "Scorpion Masqué",
       "year": 2023,
       "types": [
-        "Aviation",
-        "Communication limits",
-        "Cooperative",
-        "Dice rolling",
-        "Campaign game",
-        "Worker placement",
-        "Two players"
+        "Aviation / Flight",
+        "Communication Limits",
+        "Cooperative Game",
+        "Dice",
+        "Dice Rolling",
+        "Scenario / Mission / Campaign Game",
+        "Turn Order: Progressive",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Worker Placement with Dice Workers"
       ],
       "language": "es",
       "players": [
         2
       ],
-      "time": 15,
-      "complexity": 2.03,
-      "rate": 8.2,
+      "time": 20,
+      "complexity": 2.04,
+      "rate": 8.1,
       "image": "sky-team",
       "isPlayed": true,
-      "age": 12,
+      "age": 10,
       "bggReference": 373106,
       "size": "m"
     },
@@ -5989,12 +6308,12 @@
       "editor": "Oink Games",
       "year": 2023,
       "types": [
-        "Puzzle",
         "Hand Management",
-        "Pattern building",
-        "Solitaire",
-        "Square grid",
-        "Tile placement"
+        "Pattern Building",
+        "Puzzle",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Tile Placement"
       ],
       "language": "en",
       "players": [
@@ -6002,7 +6321,7 @@
         5
       ],
       "time": 15,
-      "complexity": 1.83,
+      "complexity": 1.82,
       "rate": 6.7,
       "image": "town-77",
       "isPlayed": true,
@@ -6015,14 +6334,15 @@
       "editor": "Oink Games",
       "year": 2017,
       "types": [
-        "Party",
-        "Cards",
+        "Area Majority / Influence",
+        "Card Game",
         "Economic",
-        "Area majority",
-        "Hot potato",
-        "Increase value of unchosen resources",
+        "Hot Potato",
+        "Increase Value of Unchosen Resources",
         "Investment",
-        "Score-and-reset-game"
+        "Score-and-Reset Game",
+        "Set Collection",
+        "Stock Holding"
       ],
       "language": "en",
       "players": [
@@ -6030,7 +6350,7 @@
         7
       ],
       "time": 20,
-      "complexity": 1.56,
+      "complexity": 1.58,
       "rate": 7.2,
       "image": "startups",
       "isPlayed": true,
@@ -6043,13 +6363,13 @@
       "editor": "AEG",
       "year": 2010,
       "types": [
-        "Party",
-        "Family",
-        "Dexterity",
         "Cards",
         "Children's game",
-        "Real-time",
+        "Dexterity",
+        "Family",
+        "Party",
         "Pattern recognition",
+        "Real-time",
         "Speed matching"
       ],
       "language": "en",
@@ -6071,8 +6391,7 @@
       "editor": "Oink Games",
       "year": 2019,
       "types": [
-        "Auction",
-        "Bidding"
+        "Auction / Bidding"
       ],
       "language": "en",
       "players": [
@@ -6080,7 +6399,7 @@
         4
       ],
       "time": 20,
-      "complexity": 1.71,
+      "complexity": 1.7,
       "rate": 6.3,
       "image": "fafnir",
       "isPlayed": false,
@@ -6093,11 +6412,10 @@
       "editor": "Oink Games",
       "year": 2010,
       "types": [
-        "Party",
         "Bluffing",
         "Deduction",
-        "Murder/Mystery",
-        "Memory"
+        "Memory",
+        "Murder / Mystery"
       ],
       "language": "en",
       "players": [
@@ -6105,7 +6423,7 @@
         5
       ],
       "time": 20,
-      "complexity": 1.47,
+      "complexity": 1.44,
       "rate": 6.3,
       "image": "in-a-grove",
       "isPlayed": true,
@@ -6118,9 +6436,10 @@
       "editor": "Oink Games",
       "year": 2019,
       "types": [
+        "Pattern Building",
         "Real-time",
-        "Pattern building",
-        "Tile placement"
+        "Real-Time",
+        "Tile Placement"
       ],
       "language": "en",
       "players": [
@@ -6141,10 +6460,10 @@
       "editor": "Oink Games",
       "year": 2014,
       "types": [
-        "Family",
-        "Cards",
-        "Sports",
-        "Ladder climbing"
+        "Card Game",
+        "Ladder Climbing",
+        "Score-and-Reset Game",
+        "Sports"
       ],
       "language": "en",
       "players": [
@@ -6152,8 +6471,8 @@
         6
       ],
       "time": 20,
-      "complexity": 1.67,
-      "rate": 6.9,
+      "complexity": 1.78,
+      "rate": 7,
       "image": "maskmen",
       "isPlayed": true,
       "age": 9,
@@ -6165,13 +6484,13 @@
       "editor": "Oink Games",
       "year": 2024,
       "types": [
-        "Cards",
         "Animals",
-        "Closed drafting",
+        "Card Game",
+        "Closed Drafting",
         "Hand Management",
         "Melding and Splaying",
-        "Set collection",
-        "Solitaire"
+        "Set Collection",
+        "Solo / Solitaire Game"
       ],
       "language": "en",
       "players": [
@@ -6179,8 +6498,8 @@
         6
       ],
       "time": 30,
-      "complexity": 1.67,
-      "rate": 7,
+      "complexity": 2.04,
+      "rate": 6.9,
       "image": "moving-wild",
       "isPlayed": true,
       "age": 8,
@@ -6192,7 +6511,9 @@
       "editor": "999 Games",
       "year": 2020,
       "types": [
-        "Party"
+        "Cooperative Game",
+        "Memory",
+        "Party Game"
       ],
       "language": "en",
       "players": [
@@ -6200,7 +6521,7 @@
         8
       ],
       "time": 20,
-      "complexity": 1.25,
+      "complexity": 1.19,
       "rate": 6.9,
       "image": "biss-20",
       "isPlayed": false,
@@ -6213,13 +6534,17 @@
       "editor": "Catch up Games",
       "year": 2023,
       "types": [
-        "Family",
-        "Adventure",
-        "Cards",
-        "Contracts",
-        "Open drafting",
-        "Set collection",
-        "Simultaneous Action Selection"
+        "Card Game",
+        "Constrained Bidding",
+        "End Game Bonuses",
+        "Fantasy",
+        "Hand Management",
+        "Open Drafting",
+        "Puzzle",
+        "Selection Order Bid",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Tags"
       ],
       "language": "en",
       "players": [
@@ -6227,8 +6552,8 @@
         6
       ],
       "time": 30,
-      "complexity": 1.87,
-      "rate": 7.6,
+      "complexity": 1.93,
+      "rate": 7.5,
       "image": "faraway",
       "isPlayed": false,
       "age": 10,
@@ -6240,12 +6565,13 @@
       "editor": "Spin master",
       "year": 2023,
       "types": [
-        "Cards",
-        "Humor",
+        "Card Game",
         "Hand Management",
-        "Player elimination",
-        "Push your luck",
-        "Take that"
+        "Humor",
+        "Player Elimination",
+        "Push Your Luck",
+        "Take That",
+        "Video Game Theme"
       ],
       "language": "en",
       "players": [
@@ -6253,8 +6579,8 @@
         5
       ],
       "time": 30,
-      "complexity": 1.25,
-      "rate": 6,
+      "complexity": 1.13,
+      "rate": 5.8,
       "image": "dumb-ways-to-die",
       "isPlayed": false,
       "age": 12,
@@ -6266,12 +6592,13 @@
       "editor": "Oink Games",
       "year": 2021,
       "types": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
         "Exploration",
-        "Action points",
-        "Cooperative",
-        "Dice rolling",
         "Pick-up and Deliver",
-        "Push your luck"
+        "Push Your Luck",
+        "Space Exploration"
       ],
       "language": "en",
       "players": [
@@ -6279,7 +6606,7 @@
         5
       ],
       "time": 40,
-      "complexity": 2.16,
+      "complexity": 2.24,
       "rate": 6.7,
       "image": "moon-adventure",
       "isPlayed": false,
@@ -6292,12 +6619,10 @@
       "editor": "Devir",
       "year": 2018,
       "types": [
-        "Party",
-        "Cards",
-        "Deduction",
-        "Communication limits",
-        "Cooperative",
-        "Give a clue/Get a clue"
+        "Card Game",
+        "Communication Limits",
+        "Cooperative Game",
+        "Deduction"
       ],
       "language": "es",
       "players": [
@@ -6305,8 +6630,8 @@
         7
       ],
       "time": 25,
-      "complexity": 1.07,
-      "rate": 7.1,
+      "complexity": 1.09,
+      "rate": 7,
       "image": "belratti",
       "isPlayed": true,
       "age": 8,
@@ -6318,15 +6643,15 @@
       "editor": "Fantasy Flight Games",
       "year": 2012,
       "types": [
-        "Cards",
+        "Card Game",
+        "Dice Rolling",
         "Exploration",
-        "Science fiction",
-        "Spies",
-        "Dice rolling",
         "Hand Management",
-        "Modular board",
-        "Push your luck",
-        "Simultaneous Action Selection"
+        "Modular Board",
+        "Push Your Luck",
+        "Science Fiction",
+        "Simultaneous Action Selection",
+        "Spies / Secret Agents"
       ],
       "language": "es",
       "players": [
@@ -6347,11 +6672,11 @@
       "editor": "Fantasy Flight Games",
       "year": 2016,
       "types": [
-        "Abstract strategy",
+        "Abstract Strategy",
         "Enclosure",
-        "Open drafting",
-        "Take that",
-        "Variable player powers"
+        "Open Drafting",
+        "Take That",
+        "Variable Player Powers"
       ],
       "language": "es",
       "players": [
@@ -6360,10 +6685,10 @@
       ],
       "time": 30,
       "complexity": 1.84,
-      "rate": 6.6,
+      "rate": 6.5,
       "image": "android-mainframe",
       "isPlayed": false,
-      "age": 14,
+      "age": 12,
       "bggReference": 193557,
       "size": "m"
     },
@@ -6372,24 +6697,23 @@
       "editor": "Fantasy Flight Games",
       "year": 2017,
       "types": [
-        "Cards",
-        "Collectible components",
+        "Action Points",
+        "Card Game",
+        "Collectible Components",
+        "Deck Construction",
         "Fantasy",
-        "Action points",
-        "Deck construction",
         "Hand Management",
         "Secret Unit Deployment",
         "Simultaneous Action Selection",
-        "Variable player powers",
-        "Two players"
+        "Variable Player Powers"
       ],
       "language": "es",
       "players": [
         2
       ],
       "time": 90,
-      "complexity": 4,
-      "rate": 7.4,
+      "complexity": 4.01,
+      "rate": 7.3,
       "image": "la-leyenda-de-los-cinco-anillos",
       "isPlayed": false,
       "age": 14,
@@ -6401,12 +6725,13 @@
       "editor": "Ludonaute",
       "year": 2019,
       "types": [
-        "Strategy",
-        "Science fiction",
-        "Space exploration",
-        "Tile placement",
-        "Network and route building",
-        "Follow"
+        "Action Points",
+        "Follow",
+        "Network and Route Building",
+        "Science Fiction",
+        "Space Exploration",
+        "Tile Placement",
+        "Worker Placement"
       ],
       "language": "es",
       "players": [
@@ -6414,7 +6739,7 @@
         4
       ],
       "time": 90,
-      "complexity": 2.75,
+      "complexity": 2.77,
       "rate": 6.9,
       "image": "space-gate-odyssey",
       "isPlayed": false,
@@ -6427,18 +6752,18 @@
       "editor": "Helvetiq",
       "year": 2019,
       "types": [
-        "Cards",
-        "Closed drafting",
-        "Set collection"
+        "Card Game",
+        "Closed Drafting",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
         2,
         5
       ],
-      "time": 15,
-      "complexity": 1.07,
-      "rate": 6.3,
+      "time": 0,
+      "complexity": 1.12,
+      "rate": 6.1,
       "image": "misty",
       "isPlayed": false,
       "age": 6,
@@ -6451,8 +6776,8 @@
       "year": 2021,
       "types": [
         "Puzzle",
-        "Trains",
-        "Solitaire"
+        "Solitaire",
+        "Trains"
       ],
       "language": "es",
       "players": [
@@ -6472,11 +6797,11 @@
       "editor": "Days of Wonder",
       "year": 2019,
       "types": [
-        "Trains",
-        "Network and route building",
         "Hand Management",
-        "Open drafting",
-        "Set collection"
+        "Network and Route Building",
+        "Open Drafting",
+        "Set Collection",
+        "Trains"
       ],
       "language": "es",
       "players": [
@@ -6484,8 +6809,8 @@
         4
       ],
       "time": 15,
-      "complexity": 1.34,
-      "rate": 7.1,
+      "complexity": 1.35,
+      "rate": 7,
       "image": "aventureros-al-tren-londres",
       "isPlayed": true,
       "age": 8,
@@ -6497,16 +6822,16 @@
       "editor": "Devir",
       "year": 2023,
       "types": [
-        "Auction",
-        "Auction: sealed bid",
-        "Auction: Once around",
-        "End game bonuses",
-        "Grid coverage",
-        "Open drafting",
-        "Market",
-        "Pattern building",
-        "Tile placement",
-        "Increase value of unchosen resources"
+        "Auction / Bidding",
+        "Auction: Sealed Bid",
+        "Constrained Bidding",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Open Drafting",
+        "Pattern Building",
+        "Puzzle",
+        "Selection Order Bid",
+        "Tile Placement"
       ],
       "language": "es",
       "players": [
@@ -6514,8 +6839,8 @@
         4
       ],
       "time": 60,
-      "complexity": 1.8,
-      "rate": 7.6,
+      "complexity": 1.86,
+      "rate": 7.5,
       "image": "art-society",
       "isPlayed": false,
       "age": 10,
@@ -6527,10 +6852,10 @@
       "editor": "Helvetiq",
       "year": 2018,
       "types": [
-        "Party",
-        "Push your luck",
-        "Roll / spin and move",
-        "Set collection"
+        "Party Game",
+        "Push Your Luck",
+        "Roll / Spin and Move",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
@@ -6538,8 +6863,8 @@
         6
       ],
       "time": 15,
-      "complexity": 1.29,
-      "rate": 6.2,
+      "complexity": 1.22,
+      "rate": 6.1,
       "image": "kartel",
       "isPlayed": false,
       "age": 6,
@@ -6551,22 +6876,18 @@
       "editor": "Devir",
       "year": 2020,
       "types": [
-        "Crime",
-        "Mystery",
-        "Detective/Noir",
-        "Description based"
+        "Uncategorized"
       ],
       "language": "es",
       "players": [
-        3,
-        5
+        1
       ],
       "time": 0,
-      "complexity": 0,
-      "rate": 8,
+      "complexity": 1.96,
+      "rate": 7.6,
       "image": "alice-ha-desaparecido",
       "isPlayed": false,
-      "age": 16,
+      "age": 0,
       "bggReference": 311654,
       "size": "s"
     },
@@ -6575,12 +6896,13 @@
       "editor": "Oink Games",
       "year": 2020,
       "types": [
-        "Party",
+        "Animals",
         "Bluffing",
-        "Cards",
+        "Card Game",
         "Deduction",
         "Hand Management",
-        "Push your luck"
+        "Party Game",
+        "Push Your Luck"
       ],
       "language": "en",
       "players": [
@@ -6588,7 +6910,7 @@
         7
       ],
       "time": 20,
-      "complexity": 1.13,
+      "complexity": 1.11,
       "rate": 6.9,
       "image": "durian",
       "isPlayed": true,
@@ -6599,28 +6921,20 @@
     {
       "name": "Something is wrong here",
       "editor": "The hill press",
-      "year": 2020,
+      "year": 2019,
       "types": [
-        "Rol",
-        "Adult",
-        "Horror",
-        "Modern",
-        "Social",
-        "Weird",
-        "Cards",
-        "Improvisation"
+        "Uncategorized"
       ],
       "language": "es",
       "players": [
-        6,
-        7
+        1
       ],
-      "time": 240,
+      "time": 0,
       "complexity": 0,
       "rate": 0,
       "image": "something-is-wrong-here",
       "isPlayed": false,
-      "age": 18,
+      "age": 0,
       "bggReference": 277462,
       "size": "xs"
     },
@@ -6629,10 +6943,10 @@
       "editor": "Mixlore",
       "year": 2019,
       "types": [
-        "Family",
+        "Card Game",
         "Hand Management",
-        "Set collection",
-        "Take that"
+        "Set Collection",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -6640,7 +6954,7 @@
         5
       ],
       "time": 30,
-      "complexity": 1.21,
+      "complexity": 1.2,
       "rate": 6.2,
       "image": "ramen-fury",
       "isPlayed": false,
@@ -6653,16 +6967,16 @@
       "editor": "EDGE",
       "year": 2015,
       "types": [
-        "Strategy",
+        "Action Points",
+        "Area Movement",
+        "Dice Rolling",
+        "Exploration",
+        "Hand Management",
         "Miniatures",
         "Negotiation",
-        "Action points",
-        "Area majority",
-        "Dice rolling",
-        "Hand Management",
+        "Science Fiction",
         "Trading",
-        "Variable player powers",
-        "Exploration"
+        "Variable Player Powers"
       ],
       "language": "es",
       "players": [
@@ -6683,11 +6997,13 @@
       "editor": "Ludonova",
       "year": 2022,
       "types": [
-        "Aviation",
+        "Action Points",
+        "Aviation / Flight",
         "Connections",
-        "Network and route building",
+        "Industry / Manufacturing",
+        "Network and Route Building",
         "Pick-up and Deliver",
-        "Action points"
+        "Transportation"
       ],
       "language": "es",
       "players": [
@@ -6695,7 +7011,7 @@
         5
       ],
       "time": 75,
-      "complexity": 2.43,
+      "complexity": 2.36,
       "rate": 6.9,
       "image": "air-mail",
       "isPlayed": false,
@@ -6708,10 +7024,11 @@
       "editor": "EDGE",
       "year": 2018,
       "types": [
-        "Aviation",
-        "Worker placement",
-        "Set collection",
-        "Grid movement"
+        "Aviation / Flight",
+        "Grid Movement",
+        "Science Fiction",
+        "Set Collection",
+        "Worker Placement"
       ],
       "language": "es",
       "players": [
@@ -6719,7 +7036,7 @@
         4
       ],
       "time": 120,
-      "complexity": 3.11,
+      "complexity": 3.18,
       "rate": 6.9,
       "image": "airship-city",
       "isPlayed": false,
@@ -6732,11 +7049,11 @@
       "editor": "TCG Factory",
       "year": 2019,
       "types": [
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
+        "Deduction",
         "Puzzle",
-        "Cooperative",
-        "Solitaire",
-        "Deduction"
+        "Science Fiction"
       ],
       "language": "es",
       "players": [
@@ -6744,8 +7061,8 @@
         4
       ],
       "time": 540,
-      "complexity": 2.52,
-      "rate": 6.7,
+      "complexity": 2.5,
+      "rate": 6.6,
       "image": "escape-tales-sin-memoria",
       "isPlayed": false,
       "age": 16,
@@ -6757,21 +7074,20 @@
       "editor": "Oink Games",
       "year": 2023,
       "types": [
-        "Action",
-        "Dexterity",
+        "Action / Dexterity",
         "Layering",
-        "Player elimination",
-        "Single loser game",
-        "Stacking and balancing"
+        "Player Elimination",
+        "Single Loser Game",
+        "Stacking and Balancing"
       ],
       "language": "en",
       "players": [
         1,
-        4
+        6
       ],
       "time": 20,
-      "complexity": 1,
-      "rate": 6.8,
+      "complexity": 1.06,
+      "rate": 6.7,
       "image": "rafter-five",
       "isPlayed": true,
       "age": 7,
@@ -6784,13 +7100,13 @@
       "year": 2024,
       "types": [
         "Adventure",
-        "Cards",
+        "Card Game",
         "Exploration",
-        "Solitaire",
+        "Narrative Choice / Paragraph",
+        "Solo / Solitaire Game",
         "Storytelling",
-        "Track movement",
-        "Variable player powers",
-        "Narrative choice/paragraph"
+        "Track Movement",
+        "Variable Player Powers"
       ],
       "language": "es",
       "players": [
@@ -6798,8 +7114,8 @@
         99
       ],
       "time": 35,
-      "complexity": 1.17,
-      "rate": 6.8,
+      "complexity": 1.3,
+      "rate": 7.1,
       "image": "naufrago",
       "isPlayed": true,
       "age": 10,
@@ -6811,6 +7127,7 @@
       "editor": "SD Games",
       "year": 2017,
       "types": [
+        "Animals",
         "Bluffing",
         "Hand Management",
         "Simultaneous Action Selection"
@@ -6821,7 +7138,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.13,
+      "complexity": 1.22,
       "rate": 6.4,
       "image": "chawai",
       "isPlayed": false,
@@ -6832,12 +7149,12 @@
     {
       "name": "Deductio",
       "editor": "SD Games",
-      "year": 2023,
+      "year": 2024,
       "types": [
-        "Cards",
+        "Card Game",
         "Deduction",
-        "Numbers",
-        "Open drafting"
+        "Number",
+        "Open Drafting"
       ],
       "language": "es",
       "players": [
@@ -6846,7 +7163,7 @@
       ],
       "time": 20,
       "complexity": 1,
-      "rate": 7,
+      "rate": 6.7,
       "image": "deductio",
       "isPlayed": true,
       "age": 8,
@@ -6858,8 +7175,13 @@
       "editor": "SD Games",
       "year": 2019,
       "types": [
-        "Party",
-        "Solitaire"
+        "Adventure",
+        "Book",
+        "Cooperative Game",
+        "Deduction",
+        "Horror",
+        "Puzzle",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
@@ -6867,7 +7189,7 @@
       ],
       "time": 180,
       "complexity": 0,
-      "rate": 6.7,
+      "rate": 6.4,
       "image": "sola-en-salem",
       "isPlayed": true,
       "age": 12,
@@ -6877,12 +7199,14 @@
     {
       "name": "Profiler: desaparición en el Caribe",
       "editor": "Platonia Games",
-      "year": 2024,
+      "year": 2022,
       "types": [
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Targeted clues"
+        "Murder / Mystery",
+        "Puzzle",
+        "Solo / Solitaire Game",
+        "Targeted Clues"
       ],
       "language": "es",
       "players": [
@@ -6890,8 +7214,8 @@
         6
       ],
       "time": 150,
-      "complexity": 0,
-      "rate": 8.1,
+      "complexity": 1.67,
+      "rate": 7.6,
       "image": "profiler-caribe",
       "isPlayed": true,
       "age": 14,
@@ -6903,18 +7227,18 @@
       "editor": "SD Games",
       "year": 2017,
       "types": [
-        "Party",
-        "Trivia",
-        "Push your luck"
+        "Party Game",
+        "Push Your Luck",
+        "Trivia"
       ],
       "language": "es",
       "players": [
         2,
         8
       ],
-      "time": 45,
-      "complexity": 1.14,
-      "rate": 7.5,
+      "time": 120,
+      "complexity": 1.17,
+      "rate": 7.4,
       "image": "smart-10",
       "isPlayed": true,
       "age": 10,
@@ -6926,10 +7250,10 @@
       "editor": "Key Enigma",
       "year": 2020,
       "types": [
+        "Cooperative Game",
+        "Deduction",
         "Exploration",
         "Puzzle",
-        "Cooperative",
-        "Deduction",
         "Storytelling"
       ],
       "language": "es",
@@ -6939,10 +7263,10 @@
       ],
       "time": 120,
       "complexity": 2,
-      "rate": 7.2,
+      "rate": 6.9,
       "image": "butterfly-curse",
       "isPlayed": true,
-      "age": 13,
+      "age": 16,
       "bggReference": 332495,
       "size": "s"
     },
@@ -6951,9 +7275,8 @@
       "editor": "Drei Magier Spiele",
       "year": 2011,
       "types": [
-        "Party",
-        "Action/Dexterity",
-        "Cards",
+        "Action / Dexterity",
+        "Card Game",
         "Hand Management"
       ],
       "language": "x",
@@ -6962,7 +7285,7 @@
         5
       ],
       "time": 30,
-      "complexity": 1.15,
+      "complexity": 1.16,
       "rate": 6.4,
       "image": "polilla-tramposa",
       "isPlayed": false,
@@ -6975,7 +7298,12 @@
       "editor": "Drei Magier Spiele",
       "year": 2004,
       "types": [
-        "Party"
+        "Bluffing",
+        "Card Game",
+        "Hand Management",
+        "Party Game",
+        "Set Collection",
+        "Single Loser Game"
       ],
       "language": "x",
       "players": [
@@ -6996,18 +7324,25 @@
       "editor": "Salt & Pepper Games",
       "year": 2022,
       "types": [
-        "Wargame",
-        "Cards",
-        "Spies",
-        "Solitaire"
+        "Card Game",
+        "Card Play Conflict Resolution",
+        "Civil War",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Open Drafting",
+        "Push Your Luck",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Spies / Secret Agents",
+        "Wargame"
       ],
       "language": "es",
       "players": [
         1
       ],
       "time": 40,
-      "complexity": 2.24,
-      "rate": 7.5,
+      "complexity": 2.28,
+      "rate": 7.4,
       "image": "resistid",
       "isPlayed": true,
       "age": 10,
@@ -7017,11 +7352,13 @@
     {
       "name": "Justice: Conan Doyle",
       "editor": "AEG",
-      "year": 2024,
+      "year": 2023,
       "types": [
         "Deduction",
-        "Murder/Mystery",
-        "Semi-Cooperative",
+        "Murder / Mystery",
+        "Novel-based",
+        "Scenario / Mission / Campaign Game",
+        "Semi-Cooperative Game",
         "Storytelling",
         "Voting"
       ],
@@ -7031,7 +7368,7 @@
         10
       ],
       "time": 60,
-      "complexity": 0,
+      "complexity": 2,
       "rate": 6,
       "image": "justice-conan-doyle",
       "isPlayed": true,
@@ -7044,10 +7381,8 @@
       "editor": "Popcorn games",
       "year": 2019,
       "types": [
-        "Family",
-        "Cards",
-        "Area majority",
-        "Influence",
+        "Area Majority / Influence",
+        "Card Game",
         "Hand Management"
       ],
       "language": "x",
@@ -7055,8 +7390,8 @@
         2,
         4
       ],
-      "time": 20,
-      "complexity": 1.42,
+      "time": 40,
+      "complexity": 1.37,
       "rate": 7,
       "image": "in-front-of-the-elevators",
       "isPlayed": true,
@@ -7069,17 +7404,16 @@
       "editor": "Drei Magier Spiele",
       "year": 2017,
       "types": [
-        "Party",
-        "Cards"
+        "Card Game"
       ],
       "language": "x",
       "players": [
         3,
         5
       ],
-      "time": 20,
-      "complexity": 1.26,
-      "rate": 6.6,
+      "time": 25,
+      "complexity": 1.24,
+      "rate": 6.5,
       "image": "schummel-hummel",
       "isPlayed": false,
       "age": 7,
@@ -7091,8 +7425,8 @@
       "editor": "Exploding kittens",
       "year": 2024,
       "types": [
-        "Cards",
-        "Player elimination"
+        "Card Game",
+        "Player Elimination"
       ],
       "language": "en",
       "players": [
@@ -7100,7 +7434,7 @@
         6
       ],
       "time": 15,
-      "complexity": 1.17,
+      "complexity": 1.15,
       "rate": 7,
       "image": "power-hungry-pets",
       "isPlayed": true,
@@ -7113,11 +7447,11 @@
       "editor": "Exploding kittens",
       "year": 2024,
       "types": [
+        "Card Game",
         "Humor",
-        "Mature",
-        "Party",
-        "Cards",
-        "Player judge",
+        "Mature / Adult",
+        "Party Game",
+        "Player Judge",
         "Simultaneous Action Selection"
       ],
       "language": "en",
@@ -7125,9 +7459,9 @@
         3,
         8
       ],
-      "time": 15,
+      "time": 60,
       "complexity": 1,
-      "rate": 5,
+      "rate": 5.1,
       "image": "horrible-therapist",
       "isPlayed": true,
       "age": 17,
@@ -7139,21 +7473,23 @@
       "editor": "Pandasaurus",
       "year": 2022,
       "types": [
-        "Family",
-        "Cards",
+        "Animals",
+        "Card Game",
         "Hand Management",
-        "Set collection",
-        "Push your luck",
-        "Open drafting",
-        "Score-and-reset-game",
-        "Sudden death ending"
+        "Melding and Splaying",
+        "Open Drafting",
+        "Push Your Luck",
+        "Score-and-Reset Game",
+        "Set Collection",
+        "Sudden Death Ending",
+        "Take That"
       ],
       "language": "x",
       "players": [
         2,
         4
       ],
-      "time": 30,
+      "time": 45,
       "complexity": 1.47,
       "rate": 7.5,
       "image": "sea-salt-and-paper",
@@ -7167,10 +7503,9 @@
       "editor": "Helvetiq",
       "year": 2021,
       "types": [
-        "Family",
-        "Cards",
+        "Card Game",
         "Hand Management",
-        "Take that"
+        "Take That"
       ],
       "language": "x",
       "players": [
@@ -7178,8 +7513,8 @@
         5
       ],
       "time": 20,
-      "complexity": 1.14,
-      "rate": 6.9,
+      "complexity": 1.21,
+      "rate": 6.8,
       "image": "art-robbery",
       "isPlayed": false,
       "age": 8,
@@ -7193,7 +7528,7 @@
       "types": [
         "Bluffing",
         "Memory",
-        "Party"
+        "Party Game"
       ],
       "language": "x",
       "players": [
@@ -7201,8 +7536,8 @@
         8
       ],
       "time": 15,
-      "complexity": 1.25,
-      "rate": 7.3,
+      "complexity": 1.27,
+      "rate": 7.2,
       "image": "thats-not-a-hat-pop-culture",
       "isPlayed": true,
       "age": 8,
@@ -7215,9 +7550,9 @@
       "year": 2024,
       "types": [
         "Animals",
-        "Cards",
+        "Card Game",
+        "Deck, Bag, and Pool Building",
         "Nautical",
-        "Deck, bag and pool building",
         "Trick-taking"
       ],
       "language": "x",
@@ -7226,8 +7561,8 @@
         5
       ],
       "time": 60,
-      "complexity": 1.86,
-      "rate": 7.3,
+      "complexity": 1.89,
+      "rate": 7.2,
       "image": "fishing",
       "isPlayed": false,
       "age": 8,
@@ -7239,12 +7574,13 @@
       "editor": "Drei Magier Spiele",
       "year": 2016,
       "types": [
-        "Party",
-        "Action",
+        "Action / Dexterity",
+        "Animals",
+        "Card Game",
+        "Children&#039;s Game",
+        "Pattern Recognition",
         "Real-time",
-        "Cards",
-        "Pattern recognition",
-        "Speed matching"
+        "Speed Matching"
       ],
       "language": "x",
       "players": [
@@ -7252,7 +7588,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.1,
+      "complexity": 1.09,
       "rate": 6.5,
       "image": "do-de-li-do",
       "isPlayed": false,
@@ -7265,10 +7601,10 @@
       "editor": "Caravan Games",
       "year": 2024,
       "types": [
+        "Cooperative Game",
         "Deduction",
         "Humor",
-        "Puzzle",
-        "Cooperative"
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -7276,30 +7612,33 @@
         6
       ],
       "time": 240,
-      "complexity": 1,
-      "rate": 8.7,
+      "complexity": 1.5,
+      "rate": 7.2,
       "image": "butter_crime",
       "isPlayed": true,
-      "age": 14,
+      "age": 12,
       "bggReference": 429374,
       "size": "s"
     },
     {
       "name": "Potato pirates (2nd edition)",
       "editor": "ThinkFun",
-      "year": 2023,
+      "year": 2017,
       "types": [
+        "Action Queue",
         "Adventure",
-        "Party",
-        "Action queue",
-        "Player elimination"
+        "Children&#039;s Game",
+        "Nautical",
+        "Party Game",
+        "Pirates",
+        "Player Elimination"
       ],
       "language": "es",
       "players": [
         3,
         6
       ],
-      "time": 60,
+      "time": 45,
       "complexity": 1.63,
       "rate": 5.5,
       "image": "potato-pirates",
@@ -7313,11 +7652,11 @@
       "editor": "Helvetiq",
       "year": 2020,
       "types": [
-        "Cooperative",
-        "Cards",
-        "Network and route building",
-        "Solitaire",
-        "Tile placement"
+        "Card Game",
+        "Cooperative Game",
+        "Network and Route Building",
+        "Solo / Solitaire Game",
+        "Tile Placement"
       ],
       "language": "x",
       "players": [
@@ -7325,7 +7664,7 @@
         4
       ],
       "time": 15,
-      "complexity": 1.4,
+      "complexity": 1.46,
       "rate": 6.5,
       "image": "bandida",
       "isPlayed": false,
@@ -7338,11 +7677,12 @@
       "editor": "Z-Man Games",
       "year": 2025,
       "types": [
-        "Cards",
+        "Card Game",
         "Hand Management",
-        "Player elimination",
-        "Score-and-reset-game",
-        "Take that"
+        "Horror",
+        "Player Elimination",
+        "Score-and-Reset Game",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -7350,7 +7690,7 @@
         6
       ],
       "time": 20,
-      "complexity": 1.38,
+      "complexity": 1.37,
       "rate": 7.5,
       "image": "lovecraft-letter",
       "isPlayed": false,
@@ -7363,22 +7703,21 @@
       "editor": "Scorpion Masqué",
       "year": 2024,
       "types": [
-        "Expansion",
-        "Aviation",
-        "Communication limits",
-        "Cooperative",
-        "Dice rolling",
-        "Campaign game",
-        "Worker placement",
-        "Two players"
+        "Aviation / Flight",
+        "Communication Limits",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Expansion for Base-game",
+        "Scenario / Mission / Campaign Game",
+        "Worker Placement with Dice Workers"
       ],
       "language": "en",
       "players": [
         2
       ],
       "time": 15,
-      "complexity": 2.14,
-      "rate": 8.6,
+      "complexity": 2.29,
+      "rate": 8.5,
       "image": "sky-team-turbulence",
       "isPlayed": true,
       "age": 12,
@@ -7390,20 +7729,23 @@
       "editor": "Greater Than Games",
       "year": 2024,
       "types": [
-        "Customizable",
-        "Strategy",
-        "Cards",
-        "Area majority",
-        "Influence",
-        "Two players"
+        "Area Majority / Influence",
+        "Card Game",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Race",
+        "Science Fiction"
       ],
       "language": "en",
       "players": [
         2
       ],
       "time": 30,
-      "complexity": 2.29,
-      "rate": 8.1,
+      "complexity": 2.36,
+      "rate": 7.8,
       "image": "compile-main",
       "isPlayed": true,
       "age": 14,
@@ -7415,21 +7757,23 @@
       "editor": "Greater than games",
       "year": 2024,
       "types": [
-        "Customizable",
-        "Strategy",
-        "Cards",
-        "Area majority",
-        "Influence",
-        "Expansion",
-        "Two players"
+        "Area Majority / Influence",
+        "Card Game",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Expansion for Base-game",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Race"
       ],
       "language": "en",
       "players": [
         2
       ],
       "time": 30,
-      "complexity": 2.29,
-      "rate": 8.4,
+      "complexity": 2,
+      "rate": 8.1,
       "image": "compile-aux",
       "isPlayed": true,
       "age": 14,
@@ -7441,19 +7785,19 @@
       "editor": "Mayday Games",
       "year": 2018,
       "types": [
-        "Party",
-        "Words",
         "Paper-and-Pencil",
-        "Voting"
+        "Party Game",
+        "Voting",
+        "Word Game"
       ],
       "language": "es",
       "players": [
         3,
         10
       ],
-      "time": 25,
+      "time": 45,
       "complexity": 1.5,
-      "rate": 6.3,
+      "rate": 6.2,
       "image": "poetry-slam",
       "isPlayed": false,
       "age": 10,
@@ -7465,20 +7809,20 @@
       "editor": "Mebo",
       "year": 2016,
       "types": [
-        "Cards",
-        "Family",
+        "Bluffing",
+        "Card Game",
         "Hand Management",
-        "Open drafting",
-        "Push your luck",
-        "Set collection",
-        "Two players"
+        "Open Drafting",
+        "Push Your Luck",
+        "Set Collection",
+        "Sudden Death Ending"
       ],
       "language": "es",
       "players": [
         2
       ],
       "time": 20,
-      "complexity": 1.28,
+      "complexity": 1.33,
       "rate": 7,
       "image": "district-noir",
       "isPlayed": false,
@@ -7491,8 +7835,8 @@
       "editor": "The Op Games",
       "year": 2022,
       "types": [
-        "Party",
-        "Team-based"
+        "Party Game",
+        "Team-Based Game"
       ],
       "language": "es",
       "players": [
@@ -7500,7 +7844,7 @@
         99
       ],
       "time": 30,
-      "complexity": 1.2,
+      "complexity": 1.17,
       "rate": 6,
       "image": "venn",
       "isPlayed": false,
@@ -7513,7 +7857,7 @@
       "editor": "Lucky egg",
       "year": 2024,
       "types": [
-        "Party",
+        "Party Game",
         "Singing"
       ],
       "language": "en",
@@ -7521,9 +7865,9 @@
         2,
         8
       ],
-      "time": 20,
+      "time": 120,
       "complexity": 1,
-      "rate": 6.4,
+      "rate": 6.2,
       "image": "grab-the-mic",
       "isPlayed": true,
       "age": 8,
@@ -7535,8 +7879,8 @@
       "editor": "Oink Games",
       "year": 2024,
       "types": [
-        "Dice rolling",
-        "Set collection"
+        "Dice Rolling",
+        "Set Collection"
       ],
       "language": "en",
       "players": [
@@ -7544,7 +7888,7 @@
         5
       ],
       "time": 30,
-      "complexity": 0,
+      "complexity": 1.11,
       "rate": 6.2,
       "image": "souvenirs-from-venice",
       "isPlayed": false,
@@ -7557,9 +7901,9 @@
       "editor": "Crime Scene",
       "year": 2024,
       "types": [
-        "Role playing",
         "Horror",
-        "Murder/Mystery"
+        "Murder/Mystery",
+        "Role playing"
       ],
       "language": "en",
       "players": [
@@ -7580,8 +7924,9 @@
       "editor": "Game Factory",
       "year": 2023,
       "types": [
-        "Pattern building",
-        "Tile placement"
+        "Abstract Strategy",
+        "Pattern Building",
+        "Tile Placement"
       ],
       "language": "x",
       "players": [
@@ -7590,7 +7935,7 @@
       ],
       "time": 30,
       "complexity": 1.44,
-      "rate": 6.7,
+      "rate": 6.6,
       "image": "piazza",
       "isPlayed": false,
       "age": 8,
@@ -7602,12 +7947,12 @@
       "editor": "The Op Games",
       "year": 2020,
       "types": [
-        "Party",
+        "Communication Limits",
         "Deduction",
-        "Score-and-reset-game",
-        "Targeted clues",
-        "Turn order: progressive",
-        "Give a clue/Get a clue"
+        "Party Game",
+        "Score-and-Reset Game",
+        "Targeted Clues",
+        "Turn Order: Progressive"
       ],
       "language": "x",
       "players": [
@@ -7615,8 +7960,8 @@
         10
       ],
       "time": 30,
-      "complexity": 1.07,
-      "rate": 6.5,
+      "complexity": 1.06,
+      "rate": 6.4,
       "image": "hues-end-cues",
       "isPlayed": true,
       "age": 8,
@@ -7628,8 +7973,8 @@
       "editor": "Jugame Studio",
       "year": 2023,
       "types": [
-        "Solitaire",
-        "Science fiction"
+        "Science Fiction",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
@@ -7637,7 +7982,7 @@
       ],
       "time": 20,
       "complexity": 2,
-      "rate": 7.2,
+      "rate": 7,
       "image": "escape-from-the-moon",
       "isPlayed": true,
       "age": 9,
@@ -7649,12 +7994,12 @@
       "editor": "Funko Games",
       "year": 2022,
       "types": [
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Variable player powers",
-        "Cooperative",
-        "Communication limits",
-        "Movies"
+        "Movies / TV / Radio theme",
+        "Murder / Mystery",
+        "Variable Player Powers"
       ],
       "language": "en",
       "players": [
@@ -7662,7 +8007,7 @@
         5
       ],
       "time": 40,
-      "complexity": 1.69,
+      "complexity": 1.73,
       "rate": 7.4,
       "image": "rear-window",
       "isPlayed": false,
@@ -7675,14 +8020,14 @@
       "editor": "Maldito Games",
       "year": 2020,
       "types": [
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
         "Deduction",
-        "Party",
+        "Elapsed Real Time Ending",
+        "Party Game",
         "Real-time",
-        "Words",
-        "Cooperative",
-        "Elapsed real time ending",
-        "Give a clue/Get a clue"
+        "Real-Time",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -7690,7 +8035,7 @@
         6
       ],
       "time": 10,
-      "complexity": 1.07,
+      "complexity": 1.09,
       "rate": 7.2,
       "image": "pistas-cruzadas",
       "isPlayed": true,
@@ -7703,8 +8048,8 @@
       "editor": "ThinkFun",
       "year": 2024,
       "types": [
-        "Logic",
         "Deduction",
+        "Logic",
         "Solitaire"
       ],
       "language": "es",
@@ -7725,9 +8070,10 @@
       "editor": "Invaders",
       "year": 2023,
       "types": [
-        "Horror",
         "Animals",
-        "Set collection"
+        "Horror",
+        "Movies / TV / Radio theme",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
@@ -7736,7 +8082,7 @@
       ],
       "time": 30,
       "complexity": 1,
-      "rate": 6.6,
+      "rate": 6.5,
       "image": "cat-horror-festival",
       "isPlayed": false,
       "age": 8,
@@ -7748,12 +8094,15 @@
       "editor": "Horrible Games",
       "year": 2019,
       "types": [
-        "Cards",
+        "Animals",
+        "Card Game",
+        "Children&#039;s Game",
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
         "Fantasy",
-        "Communication limits",
-        "Cooperative",
-        "Score-and-reset-game",
+        "Mythology",
+        "Score-and-Reset Game",
         "Voting"
       ],
       "language": "x",
@@ -7762,7 +8111,7 @@
         8
       ],
       "time": 15,
-      "complexity": 1.06,
+      "complexity": 1.05,
       "rate": 6.8,
       "image": "similo-fantastic-beasts",
       "isPlayed": false,
@@ -7775,9 +8124,12 @@
       "editor": "AEG",
       "year": 2018,
       "types": [
-        "Cards",
+        "Card Game",
+        "Deck, Bag, and Pool Building",
         "Dice",
-        "Deck, bag and pool building"
+        "Dice Rolling",
+        "Fantasy",
+        "Medieval"
       ],
       "language": "x",
       "players": [
@@ -7785,8 +8137,8 @@
         6
       ],
       "time": 50,
-      "complexity": 1.43,
-      "rate": 6.3,
+      "complexity": 1.44,
+      "rate": 6.2,
       "image": "rising-for-the-throne",
       "isPlayed": false,
       "age": 8,
@@ -7798,14 +8150,14 @@
       "editor": "Mercurio",
       "year": 2019,
       "types": [
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Puzzle",
-        "Real-time",
-        "Cooperative",
         "Hand Management",
         "Memory",
+        "Murder / Mystery",
+        "Puzzle",
+        "Real-time",
         "Storytelling"
       ],
       "language": "es",
@@ -7814,7 +8166,7 @@
         6
       ],
       "time": 60,
-      "complexity": 1.14,
+      "complexity": 1.13,
       "rate": 6.5,
       "image": "decktective-rosas",
       "isPlayed": true,
@@ -7827,14 +8179,14 @@
       "editor": "Mercurio",
       "year": 2020,
       "types": [
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Puzzle",
-        "Real-time",
-        "Cooperative",
         "Hand Management",
         "Memory",
+        "Murder / Mystery",
+        "Puzzle",
+        "Real-time",
         "Storytelling"
       ],
       "language": "es",
@@ -7856,12 +8208,11 @@
       "editor": "SD Games",
       "year": 2016,
       "types": [
-        "Family",
-        "Cards",
-        "Numbers",
+        "Card Game",
         "Hand Management",
-        "Open drafting",
-        "Set collection"
+        "Number",
+        "Open Drafting",
+        "Set Collection"
       ],
       "language": "es",
       "players": [
@@ -7869,7 +8220,7 @@
         4
       ],
       "time": 20,
-      "complexity": 2.05,
+      "complexity": 2.09,
       "rate": 7.4,
       "image": "photograph",
       "isPlayed": false,
@@ -7880,14 +8231,15 @@
     {
       "name": "Dulces Sueños",
       "editor": "Devir",
-      "year": 2024,
+      "year": 2021,
       "types": [
-        "Cards",
-        "Area movement",
-        "Open drafting",
-        "Push your luck",
+        "Animals",
+        "Area Movement",
+        "Card Game",
+        "Open Drafting",
+        "Push Your Luck",
         "Race",
-        "Solitaire",
+        "Solo / Solitaire Game",
         "Variable Set-up"
       ],
       "language": "es",
@@ -7896,8 +8248,8 @@
         4
       ],
       "time": 45,
-      "complexity": 1.78,
-      "rate": 7,
+      "complexity": 1.79,
+      "rate": 6.9,
       "image": "dulces-sueños",
       "isPlayed": false,
       "age": 10,
@@ -7909,10 +8261,11 @@
       "editor": "EDGE",
       "year": 2007,
       "types": [
-        "Political",
+        "Auction / Bidding",
+        "Game System",
         "Medieval",
-        "Science fiction",
-        "Auction/Biding"
+        "Political",
+        "Science Fiction"
       ],
       "language": "es",
       "players": [
@@ -7921,7 +8274,7 @@
       ],
       "time": 60,
       "complexity": 2.19,
-      "rate": 5.4,
+      "rate": 5.3,
       "image": "stonehenge",
       "isPlayed": false,
       "age": 10,
@@ -7933,10 +8286,10 @@
       "editor": "SD Games",
       "year": 2016,
       "types": [
-        "Abstract strategy",
+        "Abstract Strategy",
         "Dice",
-        "Grid movement",
-        "Roll / spin and move"
+        "Grid Movement",
+        "Roll / Spin and Move"
       ],
       "language": "es",
       "players": [
@@ -7957,11 +8310,11 @@
       "editor": "SD Games",
       "year": 2019,
       "types": [
-        "Abstract strategy",
+        "Abstract Strategy",
         "Dice",
-        "Grid movement",
-        "Roll / spin and move",
-        "Expansion"
+        "Dice Rolling",
+        "Expansion for Base-game",
+        "Grid Movement"
       ],
       "language": "es",
       "players": [
@@ -7969,8 +8322,8 @@
         4
       ],
       "time": 20,
-      "complexity": 2.11,
-      "rate": 7.7,
+      "complexity": 0,
+      "rate": 7.5,
       "image": "pocket-invaders-desafíos",
       "isPlayed": false,
       "age": 8,
@@ -7982,8 +8335,9 @@
       "editor": "SD Games",
       "year": 2021,
       "types": [
-        "Trivia",
-        "Expansion"
+        "Expansion for Base-game",
+        "Push Your Luck",
+        "Trivia"
       ],
       "language": "es",
       "players": [
@@ -7992,7 +8346,7 @@
       ],
       "time": 30,
       "complexity": 1.33,
-      "rate": 7.8,
+      "rate": 7.7,
       "image": "smart-10-viajes",
       "isPlayed": true,
       "age": 14,
@@ -8004,17 +8358,18 @@
       "editor": "SD Games",
       "year": 2022,
       "types": [
-        "Trivia",
-        "Expansion"
+        "Expansion for Base-game",
+        "Push Your Luck",
+        "Trivia"
       ],
       "language": "es",
       "players": [
         2,
         8
       ],
-      "time": 30,
+      "time": 20,
       "complexity": 1,
-      "rate": 7.8,
+      "rate": 7.7,
       "image": "smart-10-entretenimiento",
       "isPlayed": true,
       "age": 14,
@@ -8026,17 +8381,18 @@
       "editor": "SD Games",
       "year": 2018,
       "types": [
-        "Trivia",
-        "Expansion"
+        "Expansion for Base-game",
+        "Push Your Luck",
+        "Trivia"
       ],
       "language": "es",
       "players": [
         2,
         8
       ],
-      "time": 30,
+      "time": 0,
       "complexity": 1,
-      "rate": 7.6,
+      "rate": 7.8,
       "image": "smart-10-musica",
       "isPlayed": true,
       "age": 14,
@@ -8050,8 +8406,7 @@
       "types": [
         "Deduction",
         "Puzzle",
-        "Solitaire",
-        "Two players"
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
@@ -8060,7 +8415,7 @@
       ],
       "time": 30,
       "complexity": 2,
-      "rate": 7.4,
+      "rate": 7.2,
       "image": "kryptex",
       "isPlayed": false,
       "age": 8,
@@ -8072,14 +8427,12 @@
       "editor": "AEG",
       "year": 2018,
       "types": [
-        "Party",
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Words",
-        "Communication limits",
-        "Cooperative",
-        "Score-and-reset-game",
-        "Give a clue/Get a clue",
-        "Words"
+        "Party Game",
+        "Score-and-Reset Game",
+        "Word Game"
       ],
       "language": "es",
       "players": [
@@ -8087,7 +8440,7 @@
         7
       ],
       "time": 60,
-      "complexity": 1.04,
+      "complexity": 1.03,
       "rate": 7.6,
       "image": "just-one",
       "isPlayed": true,
@@ -8100,19 +8453,20 @@
       "editor": "Falomir Juegos",
       "year": 2020,
       "types": [
-        "Party",
-        "Action timer",
-        "Communication limits",
-        "Pattern recognition",
-        "Team-based"
+        "Action Timer",
+        "Communication Limits",
+        "Move Through Deck",
+        "Party Game",
+        "Pattern Recognition",
+        "Team-Based Game"
       ],
       "language": "es",
       "players": [
         4
       ],
       "time": 30,
-      "complexity": 1,
-      "rate": 7,
+      "complexity": 0,
+      "rate": 6.8,
       "image": "pana-poo",
       "isPlayed": false,
       "age": 12,
@@ -8125,11 +8479,12 @@
       "year": 2024,
       "types": [
         "Adventure",
-        "Cards",
+        "Card Game",
+        "Cooperative Game",
         "Exploration",
+        "Move Through Deck",
+        "Narrative Choice / Paragraph",
         "Puzzle",
-        "Cooperative",
-        "Narrative choice/paragraph",
         "Storytelling"
       ],
       "language": "es",
@@ -8137,9 +8492,9 @@
         1,
         6
       ],
-      "time": 60,
-      "complexity": 1.23,
-      "rate": 7.1,
+      "time": 70,
+      "complexity": 1.21,
+      "rate": 7,
       "image": "back-stories-hielo",
       "isPlayed": true,
       "age": 10,
@@ -8151,6 +8506,13 @@
       "editor": "Draco Ideas",
       "year": 2023,
       "types": [
+        "Action / Event",
+        "Book",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Napoleonic",
+        "Re-rolling and Locking",
+        "Solo / Solitaire Game",
         "Wargame"
       ],
       "language": "es",
@@ -8158,8 +8520,8 @@
         1
       ],
       "time": 50,
-      "complexity": 2.25,
-      "rate": 8.4,
+      "complexity": 2.14,
+      "rate": 8.2,
       "image": "batallas-napoleonicas",
       "isPlayed": true,
       "age": 12,
@@ -8171,11 +8533,14 @@
       "editor": "Space Cowboys",
       "year": 2024,
       "types": [
+        "American West",
+        "Ancient",
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Puzzle",
-        "Communication limits",
-        "Cooperative"
+        "Medieval",
+        "Murder / Mystery",
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -8196,13 +8561,13 @@
       "editor": "Libellud",
       "year": 2020,
       "types": [
+        "Communication Limits",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Party",
-        "Communication limits",
-        "Cooperative",
-        "Pattern recognition",
-        "Roles with Asymmetric information",
+        "Murder / Mystery",
+        "Party Game",
+        "Pattern Recognition",
+        "Roles with Asymmetric Information",
         "Storytelling"
       ],
       "language": "es",
@@ -8211,7 +8576,7 @@
         6
       ],
       "time": 45,
-      "complexity": 1.44,
+      "complexity": 1.43,
       "rate": 7,
       "image": "mysterium-park",
       "isPlayed": true,
@@ -8222,9 +8587,9 @@
     {
       "name": "Loops",
       "editor": "Zacatrús",
-      "year": 2024,
+      "year": 2025,
       "types": [
-        "Narrative choice/paragraph"
+        "Narrative Choice / Paragraph"
       ],
       "language": "es",
       "players": [
@@ -8232,8 +8597,8 @@
         2
       ],
       "time": 120,
-      "complexity": 0,
-      "rate": 8.1,
+      "complexity": 1,
+      "rate": 7.9,
       "image": "loops",
       "isPlayed": true,
       "age": 10,
@@ -8246,10 +8611,11 @@
       "year": 2019,
       "types": [
         "Hand Management",
-        "Open drafting",
-        "Pattern building",
-        "Point to point movement",
-        "Set collection"
+        "Open Drafting",
+        "Pattern Building",
+        "Point to Point Movement",
+        "Set Collection",
+        "Travel"
       ],
       "language": "es",
       "players": [
@@ -8270,11 +8636,14 @@
       "editor": "SD Games",
       "year": 2021,
       "types": [
-        "Action/Dexterity",
-        "Party",
-        "Dice rolling",
-        "Push your luck",
-        "Flicking"
+        "Action / Dexterity",
+        "Animals",
+        "Dice Rolling",
+        "Fantasy",
+        "Flicking",
+        "Nautical",
+        "Party Game",
+        "Push Your Luck"
       ],
       "language": "es",
       "players": [
@@ -8295,13 +8664,13 @@
       "editor": "Creaciones Lúdicas Sinoespañolas S.L.",
       "year": 2017,
       "types": [
-        "Cards",
+        "Card Game",
         "Economic",
-        "Negotiation",
-        "Political",
         "Hand Management",
-        "Open drafting",
-        "Player elimination"
+        "Negotiation",
+        "Open Drafting",
+        "Player Elimination",
+        "Political"
       ],
       "language": "es",
       "players": [
@@ -8323,11 +8692,11 @@
       "year": 2025,
       "types": [
         "Deduction",
-        "Murder/Mystery",
-        "Hidden movement",
-        "Point to point movement",
-        "Questions and answers",
-        "Team-based"
+        "Hidden Movement",
+        "Murder / Mystery",
+        "Point to Point Movement",
+        "Questions and Answers",
+        "Team-Based Game"
       ],
       "language": "es",
       "players": [
@@ -8335,7 +8704,7 @@
         3
       ],
       "time": 15,
-      "complexity": 2.75,
+      "complexity": 2.5,
       "rate": 7.5,
       "image": "cereal-killer",
       "isPlayed": false,
@@ -8348,13 +8717,13 @@
       "editor": "Tranjis",
       "year": 2017,
       "types": [
+        "Auction / Bidding",
         "Bluffing",
-        "Cards",
+        "Card Game",
         "Deduction",
-        "Horror",
-        "Auction/Biding",
         "Hand Management",
-        "Set collection",
+        "Horror",
+        "Set Collection",
         "Simultaneous Action Selection"
       ],
       "language": "es",
@@ -8363,7 +8732,7 @@
         5
       ],
       "time": 30,
-      "complexity": 1.53,
+      "complexity": 1.57,
       "rate": 7,
       "image": "criaturas-de-serie-b",
       "isPlayed": false,
@@ -8376,9 +8745,11 @@
       "editor": "Joking hazard",
       "year": 2024,
       "types": [
+        "American West",
+        "Betting and Bluffing",
         "Bluffing",
-        "Deduction",
-        "Betting and bluffing"
+        "Comic Book / Strip",
+        "Deduction"
       ],
       "language": "es",
       "players": [
@@ -8399,8 +8770,10 @@
       "editor": "SD Games",
       "year": 2025,
       "types": [
-        "Trivia",
-        "Expansion"
+        "Expansion for Base-game",
+        "Party Game",
+        "Push Your Luck",
+        "Trivia"
       ],
       "language": "es",
       "players": [
@@ -8408,8 +8781,8 @@
         8
       ],
       "time": 20,
-      "complexity": 1,
-      "rate": 8.5,
+      "complexity": 0,
+      "rate": 8.1,
       "image": "smart10-videojuegos",
       "isPlayed": true,
       "age": 14,
@@ -8421,10 +8794,10 @@
       "editor": "TCG Factory",
       "year": 2023,
       "types": [
-        "Party",
-        "Cards",
-        "Player judge",
-        "Questions and answers"
+        "Card Game",
+        "Party Game",
+        "Player Judge",
+        "Questions and Answers"
       ],
       "language": "es",
       "players": [
@@ -8432,8 +8805,8 @@
         6
       ],
       "time": 45,
-      "complexity": 1,
-      "rate": 7.7,
+      "complexity": 0,
+      "rate": 7.6,
       "image": "imperfect-job",
       "isPlayed": false,
       "age": 12,
@@ -8445,10 +8818,9 @@
       "editor": "Jumbo",
       "year": 2023,
       "types": [
-        "Cards",
-        "Party",
+        "Card Game",
         "Music",
-        "Trivia"
+        "Party Game"
       ],
       "language": "es",
       "players": [
@@ -8456,7 +8828,7 @@
         10
       ],
       "time": 30,
-      "complexity": 1.06,
+      "complexity": 1.05,
       "rate": 7.5,
       "image": "hitster-temazos",
       "isPlayed": true,
@@ -8469,9 +8841,9 @@
       "editor": "Jumbo",
       "year": 2025,
       "types": [
-        "Cards",
-        "Party",
+        "Card Game",
         "Music",
+        "Party Game",
         "Trivia"
       ],
       "language": "es",
@@ -8480,8 +8852,8 @@
         10
       ],
       "time": 30,
-      "complexity": 1.06,
-      "rate": 8.1,
+      "complexity": 1,
+      "rate": 8,
       "image": "hitster-rock-bob",
       "isPlayed": true,
       "age": 16,
@@ -8491,46 +8863,48 @@
     {
       "name": "Terraria: The board game",
       "editor": "Paper Fort Games",
-      "year": 2025,
+      "year": 2026,
       "types": [
+        "Action Points",
         "Adventure",
-        "City building",
+        "City Building",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
         "Exploration",
         "Fighting",
-        "Territory building",
-        "Action points",
-        "Cooperative",
-        "Grid movement",
-        "Deck, bag and pool building",
-        "Dice rolling",
-        "Modular board",
-        "Tile placement",
-        "Variable Set-up"
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Territory Building",
+        "Tile Placement",
+        "Variable Set-up",
+        "Video Game Theme"
       ],
       "language": "es",
       "players": [
         1,
         4
       ],
-      "time": 120,
-      "complexity": 3.53,
+      "time": 180,
+      "complexity": 3.59,
       "rate": 8.1,
       "image": "terraria",
       "isPlayed": true,
       "age": 0,
       "bggReference": 391286,
-      "size": "l"
+      "size": "xl"
     },
     {
       "name": "Unsolved Case Files: Wallet Case – Tara Noble",
       "editor": "Unsolved Case Files",
       "year": 2025,
       "types": [
-        "Party",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Digital hybrid"
+        "Murder / Mystery",
+        "Party Game",
+        "Trains"
       ],
       "language": "en",
       "players": [
@@ -8538,7 +8912,7 @@
         8
       ],
       "time": 180,
-      "complexity": 2,
+      "complexity": 0,
       "rate": 8,
       "image": "wallet-case",
       "isPlayed": true,
@@ -8551,11 +8925,11 @@
       "editor": "Unsolved Case Files",
       "year": 2021,
       "types": [
-        "Party",
-        "Deduction",
-        "Murder/Mystery",
         "Cooperative",
-        "Digital hybrid"
+        "Deduction",
+        "Digital hybrid",
+        "Murder/Mystery",
+        "Party"
       ],
       "language": "en",
       "players": [
@@ -8576,11 +8950,11 @@
       "editor": "Unsolved Case Files",
       "year": 2024,
       "types": [
-        "Party",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Digital hybrid"
+        "Murder / Mystery",
+        "Party Game",
+        "Solo / Solitaire Game"
       ],
       "language": "en",
       "players": [
@@ -8588,7 +8962,7 @@
         4
       ],
       "time": 60,
-      "complexity": 1.7,
+      "complexity": 0,
       "rate": 6.7,
       "image": "luna-knight",
       "isPlayed": false,
@@ -8601,11 +8975,10 @@
       "editor": "Cryptic Killers",
       "year": 2021,
       "types": [
-        "Party",
+        "Cooperative Game",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Digital hybrid"
+        "Murder / Mystery",
+        "Party Game"
       ],
       "language": "en",
       "players": [
@@ -8626,11 +8999,8 @@
       "editor": "Cryptic Killers",
       "year": 2021,
       "types": [
-        "Party",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Digital hybrid"
+        "Murder / Mystery"
       ],
       "language": "en",
       "players": [
@@ -8651,10 +9021,10 @@
       "editor": "Key Enigma",
       "year": 2026,
       "types": [
-        "Party",
+        "Cooperative",
         "Deduction",
         "Murder/Mystery",
-        "Cooperative",
+        "Party",
         "Terror"
       ],
       "language": "es",
@@ -8674,13 +9044,11 @@
     {
       "name": "Sleddy The Last Episode",
       "editor": "Key Enigma",
-      "year": 2021,
+      "year": 2026,
       "types": [
-        "Party",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative",
-        "Digital hybrid"
+        "Murder / Mystery",
+        "Puzzle"
       ],
       "language": "es",
       "players": [
@@ -8689,7 +9057,7 @@
       ],
       "time": 120,
       "complexity": 0,
-      "rate": 0,
+      "rate": 9,
       "image": "sleddy-the-last-episode",
       "isPlayed": false,
       "age": 14,
@@ -8703,8 +9071,7 @@
       "types": [
         "Book",
         "Deduction",
-        "Murder/Mystery",
-        "Cooperative"
+        "Murder / Mystery"
       ],
       "language": "es",
       "players": [
@@ -8713,7 +9080,7 @@
       ],
       "time": 90,
       "complexity": 3,
-      "rate": 6.2,
+      "rate": 6.1,
       "image": "crime-unfolds",
       "isPlayed": false,
       "age": 14,
@@ -8726,11 +9093,11 @@
       "year": 2014,
       "types": [
         "Card Game",
+        "Cooperative Game",
         "Movies / TV / Radio theme",
+        "Open Drafting",
         "Party Game",
         "Real-time",
-        "Cooperative Game",
-        "Open Drafting",
         "Storytelling"
       ],
       "language": "es",
@@ -8753,8 +9120,8 @@
       "year": 2017,
       "types": [
         "Card Game",
-        "Music",
         "Dice Rolling",
+        "Music",
         "Worker Placement"
       ],
       "language": "es",
@@ -8777,11 +9144,11 @@
       "year": 2021,
       "types": [
         "Card Game",
-        "Print & Play",
-        "Sports",
         "Chaining",
         "Network and Route Building",
-        "Solo / Solitaire Game"
+        "Print & Play",
+        "Solo / Solitaire Game",
+        "Sports"
       ],
       "language": "es",
       "players": [
@@ -8826,10 +9193,10 @@
       "editor": "IELLO",
       "year": 2022,
       "types": [
-        "Space Exploration",
         "Grid Coverage",
         "Map Addition",
-        "Paper-and-Pencil"
+        "Paper-and-Pencil",
+        "Space Exploration"
       ],
       "language": "es",
       "players": [
@@ -8850,15 +9217,15 @@
       "editor": "Salt & Pepper Games",
       "year": 2023,
       "types": [
+        "Action / Event",
         "Bluffing",
+        "Campaign / Battle Card Driven",
         "Deduction",
+        "Hexagon Grid",
+        "Hidden Movement",
         "Nautical",
         "Wargame",
-        "World War II",
-        "Action / Event",
-        "Campaign / Battle Card Driven",
-        "Hexagon Grid",
-        "Hidden Movement"
+        "World War II"
       ],
       "language": "es",
       "players": [
@@ -8879,8 +9246,8 @@
       "year": 2024,
       "types": [
         "City Building",
-        "Fantasy",
         "Closed Drafting",
+        "Fantasy",
         "Modular Board"
       ],
       "language": "es",
@@ -8902,16 +9269,16 @@
       "editor": "Maldito Games",
       "year": 2021,
       "types": [
+        "Cooperative Game",
         "Deduction",
         "Murder / Mystery",
-        "Spies / Secret Agents",
-        "Travel",
-        "Cooperative Game",
         "Narrative Choice / Paragraph",
         "Point to Point Movement",
         "Scenario / Mission / Campaign Game",
         "Solo / Solitaire Game",
-        "Storytelling"
+        "Spies / Secret Agents",
+        "Storytelling",
+        "Travel"
       ],
       "language": "es",
       "players": [
@@ -8933,12 +9300,12 @@
       "year": 2021,
       "types": [
         "Card Game",
-        "Print & Play",
-        "Travel",
         "Pattern Building",
+        "Print & Play",
         "Push Your Luck",
         "Solo / Solitaire Game",
-        "Take That"
+        "Take That",
+        "Travel"
       ],
       "language": "es",
       "players": [
@@ -8959,9 +9326,9 @@
       "editor": "Randolph",
       "year": 2018,
       "types": [
+        "Cooperative Game",
         "Educational",
-        "Trivia",
-        "Cooperative Game"
+        "Trivia"
       ],
       "language": "es",
       "players": [
@@ -8982,14 +9349,12 @@
       "editor": "Salt & Pepper Games",
       "year": 2024,
       "types": [
-        "Deduction",
-        "Memory",
-        "Murder / Mystery",
-        "Puzzle",
         "Communication Limits",
         "Cooperative Game",
         "Deduction",
         "Memory",
+        "Murder / Mystery",
+        "Puzzle",
         "Roles with Asymmetric Information",
         "Scenario / Mission / Campaign Game",
         "Storytelling"
