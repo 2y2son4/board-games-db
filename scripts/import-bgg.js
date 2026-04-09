@@ -180,7 +180,9 @@ function mapBggItem(item, language, size) {
     year: parseInt(attrValue(item.yearpublished)) || 0,
     types:
       [...new Set([...categories, ...mechanisms])].length > 0
-        ? [...new Set([...categories, ...mechanisms])].sort((a, b) => a.localeCompare(b))
+        ? [...new Set([...categories, ...mechanisms])].sort((a, b) =>
+            a.localeCompare(b),
+          )
         : ["Uncategorized"],
     language,
     players,
