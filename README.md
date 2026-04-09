@@ -180,10 +180,10 @@ npm run admin
 
 Then open **http://localhost:3000**. Pick an action from the dropdown, enter BGG IDs when needed, and click **Go**. Output streams in real time.
 
-| Action   | Description                                   | Requires IDs |
-| -------- | --------------------------------------------- | ------------ |
-| Import   | Add new games (with language & size selectors) | Yes          |
-| Update   | Refresh existing games from BGG                | Yes          |
+| Action   | Description                                    | Requires IDs |
+| -------- | ---------------------------------------------- | ------------ |
+| Import   | Add new games (with language & size selectors) | Yes (max.20) |
+| Update   | Refresh existing games from BGG                | Yes (max.20) |
 | Validate | Run schema validation                          | No           |
 | Build    | Rebuild the `dist/` API                        | No           |
 
