@@ -11,7 +11,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "serve": "npx serve dist -l 3000 --cors",
-    "import": "node scripts/import-bgg.js"
+    "import": "node scripts/import-bgg.js",
+    "admin": "node scripts/server.js"
   },
   "devDependencies": {
     "ajv": "^8.17.1",

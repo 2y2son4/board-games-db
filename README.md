@@ -170,6 +170,23 @@ After importing, validate and build:
 npm run validate && npm run build
 ```
 
+### Admin panel
+
+A local web UI that wraps all the commands above (import, update, validate, build) in a single page:
+
+```bash
+npm run admin
+```
+
+Then open **http://localhost:3000**. Pick an action from the dropdown, enter BGG IDs when needed, and click **Go**. Output streams in real time.
+
+| Action   | Description                                   | Requires IDs |
+| -------- | --------------------------------------------- | ------------ |
+| Import   | Add new games (with language & size selectors) | Yes          |
+| Update   | Refresh existing games from BGG                | Yes          |
+| Validate | Run schema validation                          | No           |
+| Build    | Rebuild the `dist/` API                        | No           |
+
 ### Adding a new game manually
 
 1. **Add the entry** to `data/games.json` inside the `"games"` array:

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Board Games DB — Admin</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <main>
+    <h1>🎲 Board Games DB</h1>
+
+    <div class="controls">
+      <div class="field">
+        <label for="action">Action</label>
+        <select id="action">
+          <option value="import">Import (add new)</option>
+          <option value="update">Update (refresh existing)</option>
+          <option value="validate">Validate</option>
+          <option value="build">Build</option>
+        </select>
+      </div>
+
+      <div class="field" id="ids-field">
+        <label for="ids">BGG IDs</label>
+        <input type="text" id="ids" placeholder="174430, 224517, 342942">
+      </div>
+
+      <div class="field" id="language-field">
+        <label for="language">Language</label>
+        <select id="language">
+          <option value="en" selected>en</option>
+          <option value="es">es</option>
+          <option value="de">de</option>
+          <option value="x">x</option>
+        </select>
+      </div>
+
+      <div class="field" id="size-field">
+        <label for="size">Size</label>
+        <select id="size">
+          <option value="xs">xs</option>
+          <option value="s">s</option>
+          <option value="m" selected>m</option>
+          <option value="l">l</option>
+        </select>
+      </div>
+
+      <button id="go" type="button">Go</button>
+    </div>
+
+    <pre id="output">Ready.\n</pre>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
