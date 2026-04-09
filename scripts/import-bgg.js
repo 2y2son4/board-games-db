@@ -32,6 +32,7 @@ function parseArgs(argv) {
   let language = "en";
   let size = "m";
   let token = process.env.BGG_API_TOKEN || "";
+  let update = false;
 
   for (const arg of argv.slice(2)) {
     if (arg.startsWith("--language=")) {
@@ -40,6 +41,8 @@ function parseArgs(argv) {
       size = arg.split("=")[1];
     } else if (arg.startsWith("--token=")) {
       token = arg.split("=")[1];
+    } else if (arg === "--update") {
+      update = true;
     } else if (/^\d+$/.test(arg)) {
       ids.push(parseInt(arg, 10));
     }
@@ -47,7 +50,7 @@ function parseArgs(argv) {
 
   if (ids.length === 0) {
     console.error(
-      "Usage: node scripts/import-bgg.js <bggId1> [bggId2 ...] [--token=TOKEN] [--language=en] [--size=m]",
+      "Usage: node scripts/import-bgg.js <bggId1> [bggId2 ...] [--token=TOKEN] [--language=en] [--size=m] [--update]",
     );
     console.error("\nOptions:");
     console.error(
@@ -58,6 +61,9 @@ function parseArgs(argv) {
     );
     console.error(
       `  --size=SIZE      Box size (${VALID_SIZES.join(", ")}) [default: m]`,
+    );
+    console.error(
+      "  --update         Update existing games instead of skipping them",
     );
     console.error(
       "\nGet your token at: https://boardgamegeek.com/applications",
@@ -89,7 +95,7 @@ function parseArgs(argv) {
     process.exit(1);
   }
 
-  return { ids, language, size, token };
+  return { ids, language, size, token, update };
 }
 
 // ── BGG API ─────────────────────────────────────────────────────────────
@@ -153,6 +159,9 @@ function mapBggItem(item, language, size) {
   const categories = links
     .filter((l) => l["@_type"] === "boardgamecategory")
     .map((l) => l["@_value"]);
+  const mechanisms = links
+    .filter((l) => l["@_type"] === "boardgamemechanic")
+    .map((l) => l["@_value"]);
   const publishers = links
     .filter((l) => l["@_type"] === "boardgamepublisher")
     .map((l) => l["@_value"]);
@@ -169,7 +178,10 @@ function mapBggItem(item, language, size) {
     name,
     editor: publishers[0] || "Unknown",
     year: parseInt(attrValue(item.yearpublished)) || 0,
-    types: categories.length > 0 ? categories : ["Uncategorized"],
+    types:
+      [...categories, ...mechanisms].length > 0
+        ? [...categories, ...mechanisms]
+        : ["Uncategorized"],
     language,
     players,
     time: parseInt(attrValue(item.playingtime)) || 0,
@@ -206,25 +218,29 @@ async function downloadImage(imageUrl, slug) {
 // ── Main ────────────────────────────────────────────────────────────────
 
 async function main() {
-  const { ids, language, size, token } = parseArgs(process.argv);
+  const { ids, language, size, token, update } = parseArgs(process.argv);
 
   const gamesFile = JSON.parse(readFileSync(gamesJsonPath, "utf-8"));
-  const existingBggIds = new Set(gamesFile.games.map((g) => g.bggReference));
+  const existingBggMap = new Map(
+    gamesFile.games.map((g, i) => [g.bggReference, i]),
+  );
 
-  const newIds = ids.filter((id) => {
-    if (existingBggIds.has(id)) {
-      console.log(`⏭️  BGG #${id} already in database, skipping`);
+  const idsToFetch = ids.filter((id) => {
+    if (existingBggMap.has(id) && !update) {
+      console.log(
+        `⏭️  BGG #${id} already in database, skipping (use --update to refresh)`,
+      );
       return false;
     }
     return true;
   });
 
-  if (newIds.length === 0) {
-    console.log("No new games to import.");
+  if (idsToFetch.length === 0) {
+    console.log("No games to import or update.");
     return;
   }
 
-  const xml = await fetchBggData(newIds, token);
+  const xml = await fetchBggData(idsToFetch, token);
   const items = parseBggXml(xml);
 
   if (items.length === 0) {
@@ -234,29 +250,45 @@ async function main() {
 
   console.log(`\n📦 Processing ${items.length} game(s)...\n`);
 
-  const newGames = [];
+  let added = 0;
+  let updated = 0;
   const usedSlugs = new Set(gamesFile.games.map((g) => g.image));
 
   for (const item of items) {
-    const game = mapBggItem(item, language, size);
+    const bggId = parseInt(item["@_id"]) || 0;
+    const existingIndex = existingBggMap.get(bggId);
 
-    if (usedSlugs.has(game.image)) {
-      game.image = `${game.image}-${game.bggReference}`;
+    if (existingIndex !== undefined) {
+      // Update: merge BGG data but preserve manually set fields
+      const existing = gamesFile.games[existingIndex];
+      const fresh = mapBggItem(item, existing.language, existing.size);
+      fresh.name = existing.name;
+      fresh.editor = existing.editor;
+      fresh.image = existing.image;
+      fresh.isPlayed = existing.isPlayed;
+      gamesFile.games[existingIndex] = fresh;
+      console.log(`  🔄 ${fresh.name} (${fresh.year}) → updated`);
+      updated++;
+    } else {
+      // New game
+      const game = mapBggItem(item, language, size);
+      if (usedSlugs.has(game.image)) {
+        game.image = `${game.image}-${game.bggReference}`;
+      }
+      usedSlugs.add(game.image);
+      console.log(`  ✅ ${game.name} (${game.year}) → ${game.image}`);
+      await downloadImage(item.image || null, game.image);
+      gamesFile.games.push(game);
+      added++;
     }
-    usedSlugs.add(game.image);
-
-    console.log(`  ✅ ${game.name} (${game.year}) → ${game.image}`);
-    await downloadImage(item.image || null, game.image);
-
-    newGames.push(game);
   }
 
-  gamesFile.games.push(...newGames);
   writeFileSync(gamesJsonPath, JSON.stringify(gamesFile, null, 2) + "\n");
 
-  console.log(
-    `\n🎉 Imported ${newGames.length} game(s). Total: ${gamesFile.games.length}`,
-  );
+  const parts = [];
+  if (added) parts.push(`${added} added`);
+  if (updated) parts.push(`${updated} updated`);
+  console.log(`\n🎉 ${parts.join(", ")}. Total: ${gamesFile.games.length}`);
   console.log(
     "   Run 'npm run validate' to check, then 'npm run build' to rebuild.\n",
   );
