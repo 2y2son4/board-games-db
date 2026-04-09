@@ -88,13 +88,13 @@ All responses are plain JSON. No authentication, query parameters, or headers re
 ## Development
 
 ```bash
-npm install               # Install dependencies
-npm run build             # Full pipeline: validate → generate → copy images → dist/
-npm run validate          # Validate source data against JSON schemas
-npm run generate          # Generate API files only (no validation/image copy)
-npm test                  # Run all tests
-npm run test:watch        # Run tests in watch mode
-npm run serve             # Serve dist/ locally on http://localhost:3000
+npm install                # Install dependencies
+npm run build              # Full pipeline: validate → generate → copy images → dist/
+npm run validate           # Validate source data against JSON schemas
+npm run generate           # Generate API files only (no validation/image copy)
+npm test                   # Run all tests
+npm run test:watch         # Run tests in watch mode
+npm run serve              # Serve dist/ locally on http://localhost:3000
 npm run import -- <ids>    # Batch import games from BoardGameGeek
 ```
 
@@ -138,6 +138,9 @@ npm run import -- 174430 224517 --language=es --size=l
 
 # Or pass the token inline
 npm run import -- 174430 --token=your-token-here
+
+# Update existing games (refresh BGG data without overwriting manual fields)
+npm run import -- 174430 224517 --update
 ```
 
 | Option       | Values                | Default                  |
@@ -145,6 +148,7 @@ npm run import -- 174430 --token=your-token-here
 | `--token`    | BGG API Bearer token  | `$BGG_API_TOKEN` env var |
 | `--language` | `en`, `es`, `de`, `x` | `en`                     |
 | `--size`     | `xs`, `s`, `m`, `l`   | `m`                      |
+| `--update`   | _(flag, no value)_    | off                      |
 
 The script will:
 
@@ -154,6 +158,11 @@ The script will:
 - Set `isPlayed` to `false` by default.
 - Skip games already in the database (matched by `bggReference`).
 - Append new entries to `data/games.json`.
+
+With `--update`, existing games are refreshed from BGG instead of skipped:
+
+- **Updated from BGG:** year, types, players, time, complexity, rate, age.
+- **Preserved (not overwritten):** name, editor, language, image, size, isPlayed.
 
 After importing, validate and build:
 
