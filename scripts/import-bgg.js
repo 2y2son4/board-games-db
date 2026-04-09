@@ -179,8 +179,8 @@ function mapBggItem(item, language, size) {
     editor: publishers[0] || "Unknown",
     year: parseInt(attrValue(item.yearpublished)) || 0,
     types:
-      [...categories, ...mechanisms].length > 0
-        ? [...categories, ...mechanisms]
+      [...new Set([...categories, ...mechanisms])].length > 0
+        ? [...new Set([...categories, ...mechanisms])].sort((a, b) => a.localeCompare(b))
         : ["Uncategorized"],
     language,
     players,
