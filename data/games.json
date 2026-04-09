@@ -8626,7 +8626,10 @@
         "Card Game",
         "Movies / TV / Radio theme",
         "Party Game",
-        "Real-time"
+        "Real-time",
+        "Cooperative Game",
+        "Open Drafting",
+        "Storytelling"
       ],
       "language": "es",
       "players": [
@@ -8643,12 +8646,14 @@
       "size": "m"
     },
     {
-      "name": "Metal Mania",
+      "name": "Metal Mania. Vol. 2",
       "editor": "GDM Games",
       "year": 2017,
       "types": [
         "Card Game",
-        "Music"
+        "Music",
+        "Dice Rolling",
+        "Worker Placement"
       ],
       "language": "es",
       "players": [
@@ -8665,13 +8670,16 @@
       "size": "m"
     },
     {
-      "name": "Unsurmountable",
-      "editor": "Button Shy",
+      "name": "Infranqueable",
+      "editor": "Salt & Pepper Games",
       "year": 2021,
       "types": [
         "Card Game",
         "Print & Play",
-        "Sports"
+        "Sports",
+        "Chaining",
+        "Network and Route Building",
+        "Solo / Solitaire Game"
       ],
       "language": "es",
       "players": [
@@ -8681,7 +8689,7 @@
       "complexity": 1.46,
       "rate": 6.7,
       "image": "unsurmountable",
-      "isPlayed": false,
+      "isPlayed": true,
       "age": 8,
       "bggReference": 331328,
       "size": "m"
@@ -8692,7 +8700,10 @@
       "year": 2022,
       "types": [
         "Card Game",
-        "Movies / TV / Radio theme"
+        "Movies / TV / Radio theme",
+        "Open Drafting",
+        "Set Collection",
+        "Simultaneous Action Selection"
       ],
       "language": "es",
       "players": [
@@ -8706,14 +8717,17 @@
       "isPlayed": false,
       "age": 8,
       "bggReference": 353548,
-      "size": "m"
+      "size": "xs"
     },
     {
       "name": "Distant Suns",
       "editor": "IELLO",
       "year": 2022,
       "types": [
-        "Space Exploration"
+        "Space Exploration",
+        "Grid Coverage",
+        "Map Addition",
+        "Paper-and-Pencil"
       ],
       "language": "es",
       "players": [
@@ -8730,7 +8744,7 @@
       "size": "m"
     },
     {
-      "name": "The Hunt",
+      "name": "La Caza",
       "editor": "Salt & Pepper Games",
       "year": 2023,
       "types": [
@@ -8738,7 +8752,11 @@
         "Deduction",
         "Nautical",
         "Wargame",
-        "World War II"
+        "World War II",
+        "Action / Event",
+        "Campaign / Battle Card Driven",
+        "Hexagon Grid",
+        "Hidden Movement"
       ],
       "language": "es",
       "players": [
@@ -8751,7 +8769,7 @@
       "isPlayed": false,
       "age": 14,
       "bggReference": 376223,
-      "size": "m"
+      "size": "s"
     },
     {
       "name": "Fairy Ring",
@@ -8759,7 +8777,9 @@
       "year": 2024,
       "types": [
         "City Building",
-        "Fantasy"
+        "Fantasy",
+        "Closed Drafting",
+        "Modular Board"
       ],
       "language": "es",
       "players": [
@@ -8776,29 +8796,6 @@
       "size": "m"
     },
     {
-      "name": "Witness: The Sigma Club",
-      "editor": "Deep Print Games",
-      "year": 2024,
-      "types": [
-        "Deduction",
-        "Memory",
-        "Murder / Mystery",
-        "Puzzle"
-      ],
-      "language": "es",
-      "players": [
-        4
-      ],
-      "time": 25,
-      "complexity": 2,
-      "rate": 6.7,
-      "image": "witness-the-sigma-club",
-      "isPlayed": false,
-      "age": 10,
-      "bggReference": 422123,
-      "size": "m"
-    },
-    {
       "name": "Vienna Connection",
       "editor": "Portal Games",
       "year": 2021,
@@ -8806,7 +8803,13 @@
         "Deduction",
         "Murder / Mystery",
         "Spies / Secret Agents",
-        "Travel"
+        "Travel",
+        "Cooperative Game",
+        "Narrative Choice / Paragraph",
+        "Point to Point Movement",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Storytelling"
       ],
       "language": "es",
       "players": [
@@ -8817,19 +8820,23 @@
       "complexity": 2.18,
       "rate": 7.1,
       "image": "vienna-connection",
-      "isPlayed": false,
+      "isPlayed": true,
       "age": 16,
       "bggReference": 299255,
-      "size": "m"
+      "size": "l"
     },
     {
-      "name": "Death Valley",
-      "editor": "Button Shy",
+      "name": "Valle de la muerte",
+      "editor": "Salt & Pepper Games",
       "year": 2021,
       "types": [
         "Card Game",
         "Print & Play",
-        "Travel"
+        "Travel",
+        "Pattern Building",
+        "Push Your Luck",
+        "Solo / Solitaire Game",
+        "Take That"
       ],
       "language": "es",
       "players": [
@@ -8843,7 +8850,7 @@
       "isPlayed": false,
       "age": 8,
       "bggReference": 322703,
-      "size": "m"
+      "size": "xs"
     },
     {
       "name": "Linkto Travel",
@@ -8851,7 +8858,8 @@
       "year": 2018,
       "types": [
         "Educational",
-        "Trivia"
+        "Trivia",
+        "Cooperative Game"
       ],
       "language": "es",
       "players": [
@@ -8865,6 +8873,36 @@
       "isPlayed": false,
       "age": 10,
       "bggReference": 274557,
+      "size": "s"
+    },
+    {
+      "name": "Witness: On the Trail of the Chameleon",
+      "editor": "Deep Print Games",
+      "year": 2024,
+      "types": [
+        "Deduction",
+        "Memory",
+        "Murder / Mystery",
+        "Puzzle",
+        "Communication Limits",
+        "Cooperative Game",
+        "Deduction",
+        "Memory",
+        "Roles with Asymmetric Information",
+        "Scenario / Mission / Campaign Game",
+        "Storytelling"
+      ],
+      "language": "en",
+      "players": [
+        4
+      ],
+      "time": 25,
+      "complexity": 0,
+      "rate": 6.8,
+      "image": "witness-on-the-trail-of-the-chameleon",
+      "isPlayed": false,
+      "age": 10,
+      "bggReference": 422120,
       "size": "m"
     }
   ]
