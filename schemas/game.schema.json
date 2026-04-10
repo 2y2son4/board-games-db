@@ -67,7 +67,7 @@
     },
     "size": {
       "type": "string",
-      "enum": ["xs", "s", "m", "l"]
+      "enum": ["xs", "s", "m", "l", "xl"]
     }
   },
   "additionalProperties": false
