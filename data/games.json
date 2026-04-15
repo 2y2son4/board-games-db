@@ -7064,7 +7064,7 @@
       "complexity": 2.5,
       "rate": 6.6,
       "image": "escape-tales-sin-memoria",
-      "isPlayed": false,
+      "isPlayed": true,
       "age": 16,
       "bggReference": 282291,
       "size": "m"
