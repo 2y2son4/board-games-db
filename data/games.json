@@ -1131,7 +1131,7 @@
       "year": 2016,
       "types": [
         "Animals",
-        "Children&#039;s Game",
+        "Children's Game",
         "Party Game",
         "Real-time",
         "Real-Time"
@@ -1638,7 +1638,7 @@
       "types": [
         "Betting and Bluffing",
         "Bluffing",
-        "Children&#039;s Game",
+        "Children's Game",
         "Deduction",
         "Humor",
         "Negotiation",
@@ -1874,7 +1874,7 @@
       "year": 2014,
       "types": [
         "Action / Dexterity",
-        "Children&#039;s Game",
+        "Children's Game",
         "Pattern Building",
         "Real-time"
       ],
@@ -2841,7 +2841,7 @@
       "types": [
         "Action / Dexterity",
         "Card Game",
-        "Children&#039;s Game",
+        "Children's Game",
         "Interrupts",
         "Party Game",
         "Pattern Recognition",
@@ -3323,7 +3323,7 @@
       "year": 2015,
       "types": [
         "Card Game",
-        "Children&#039;s Game",
+        "Children's Game",
         "Puzzle"
       ],
       "language": "es",
@@ -3763,7 +3763,7 @@
       "year": 2018,
       "types": [
         "Animals",
-        "Children&#039;s Game",
+        "Children's Game",
         "Party Game",
         "Real-time",
         "Simultaneous Action Selection"
@@ -4191,7 +4191,7 @@
       "types": [
         "Animals",
         "Card Game",
-        "Children&#039;s Game",
+        "Children's Game",
         "Set Collection"
       ],
       "language": "x",
@@ -4820,7 +4820,7 @@
       "editor": "Matagot",
       "year": 2020,
       "types": [
-        "Children&#039;s Game"
+        "Children's Game"
       ],
       "language": "es",
       "players": [
@@ -5105,7 +5105,7 @@
       "year": 2019,
       "types": [
         "Action / Dexterity",
-        "Children&#039;s Game",
+        "Children's Game",
         "Stacking and Balancing"
       ],
       "language": "x",
@@ -5259,7 +5259,7 @@
       "year": 2018,
       "types": [
         "Action / Dexterity",
-        "Children&#039;s Game",
+        "Children's Game",
         "Pattern Recognition"
       ],
       "language": "x",
@@ -5576,7 +5576,7 @@
       "editor": "TCG Factory",
       "year": 2019,
       "types": [
-        "Children&#039;s Game",
+        "Children's Game",
         "City Building",
         "Educational",
         "Pattern Building",
@@ -5943,7 +5943,7 @@
       "year": 2018,
       "types": [
         "Card Game",
-        "Children&#039;s Game",
+        "Children's Game",
         "Matching",
         "Number",
         "Pattern Building",
@@ -7577,7 +7577,7 @@
         "Action / Dexterity",
         "Animals",
         "Card Game",
-        "Children&#039;s Game",
+        "Children's Game",
         "Pattern Recognition",
         "Real-time",
         "Speed Matching"
@@ -7627,7 +7627,7 @@
       "types": [
         "Action Queue",
         "Adventure",
-        "Children&#039;s Game",
+        "Children's Game",
         "Nautical",
         "Party Game",
         "Pirates",
@@ -8096,7 +8096,7 @@
       "types": [
         "Animals",
         "Card Game",
-        "Children&#039;s Game",
+        "Children's Game",
         "Communication Limits",
         "Cooperative Game",
         "Deduction",
@@ -8890,7 +8890,7 @@
       "complexity": 3.59,
       "rate": 8.1,
       "image": "terraria",
-      "isPlayed": true,
+      "isPlayed": false,
       "age": 0,
       "bggReference": 391286,
       "size": "xl"
@@ -9036,7 +9036,7 @@
       "complexity": 0,
       "rate": 0,
       "image": "sleddy-lost-tapes",
-      "isPlayed": false,
+      "isPlayed": true,
       "age": 14,
       "bggReference": 9483464,
       "size": "m"
