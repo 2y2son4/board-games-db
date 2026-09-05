@@ -65,7 +65,7 @@
         3,
         6
       ],
-      "time": 0,
+      "time": 60,
       "complexity": 1,
       "rate": 6.6,
       "image": "master-dater-big-love",
@@ -1859,7 +1859,7 @@
         2,
         6
       ],
-      "time": 0,
+      "time": 30,
       "complexity": 1,
       "rate": 6.4,
       "image": "speed-cups-6",
@@ -2409,7 +2409,7 @@
         3,
         7
       ],
-      "time": 0,
+      "time": 30,
       "complexity": 1,
       "rate": 6.4,
       "image": "kontour",
@@ -2925,7 +2925,7 @@
         2,
         99
       ],
-      "time": 0,
+      "time": 30,
       "complexity": 1,
       "rate": 6,
       "image": "shot-in-yhe-dark",
@@ -4199,7 +4199,7 @@
         2,
         5
       ],
-      "time": 0,
+      "time": 30,
       "complexity": 1,
       "rate": 6.4,
       "image": "papageno",
@@ -4272,7 +4272,7 @@
         1,
         24
       ],
-      "time": 0,
+      "time": 180,
       "complexity": 1,
       "rate": 7,
       "image": "diaspora-zero",
@@ -4609,7 +4609,7 @@
         2,
         6
       ],
-      "time": 0,
+      "time": 30,
       "complexity": 0,
       "rate": 4.9,
       "image": "inicio",
@@ -4900,7 +4900,7 @@
         3,
         8
       ],
-      "time": 0,
+      "time": 15,
       "complexity": 0,
       "rate": 5.6,
       "image": "a-sacar-la-basura",
@@ -5267,7 +5267,7 @@
         2,
         4
       ],
-      "time": 0,
+      "time": 15,
       "complexity": 1,
       "rate": 6,
       "image": "cubeez",
@@ -6761,7 +6761,7 @@
         2,
         5
       ],
-      "time": 0,
+      "time": 15,
       "complexity": 1.12,
       "rate": 6.1,
       "image": "misty",
@@ -6882,7 +6882,7 @@
       "players": [
         1
       ],
-      "time": 0,
+      "time": 240,
       "complexity": 1.96,
       "rate": 7.6,
       "image": "alice-ha-desaparecido",
@@ -6929,7 +6929,7 @@
       "players": [
         1
       ],
-      "time": 0,
+      "time": 240,
       "complexity": 0,
       "rate": 0,
       "image": "something-is-wrong-here",
@@ -8056,7 +8056,7 @@
       "players": [
         1
       ],
-      "time": 0,
+      "time": 15,
       "complexity": 0,
       "rate": 0,
       "image": "cat-crimes",
@@ -8390,7 +8390,7 @@
         2,
         8
       ],
-      "time": 0,
+      "time": 30,
       "complexity": 1,
       "rate": 7.8,
       "image": "smart-10-musica",
