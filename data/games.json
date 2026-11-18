@@ -637,7 +637,8 @@
         "Hand Management",
         "Party Game",
         "Set Collection",
-        "Take That"
+        "Take That",
+        "Expansion"
       ],
       "language": "en",
       "players": [
@@ -658,7 +659,14 @@
       "editor": "Unstable Games",
       "year": 2021,
       "types": [
-        "Uncategorized"
+        "Card Game",
+        "Hand Management",
+        "Humor",
+        "Mature / Adult",
+        "Party Game",
+        "Set Collection",
+        "Take That",
+        "Expansion"
       ],
       "language": "en",
       "players": [
@@ -6876,7 +6884,12 @@
       "editor": "Devir",
       "year": 2020,
       "types": [
-        "Uncategorized"
+        "Childhood",
+        "Crime",
+        "Mystery",
+        "Detective",
+        "Noir",
+        "Social"
       ],
       "language": "es",
       "players": [
@@ -6923,7 +6936,13 @@
       "editor": "The hill press",
       "year": 2019,
       "types": [
-        "Uncategorized"
+        "Adult",
+        "Mature",
+        "Horror",
+        "Modern",
+        "Social",
+        "Weird",
+        "Surreal"
       ],
       "language": "es",
       "players": [
@@ -6931,7 +6950,7 @@
       ],
       "time": 240,
       "complexity": 0,
-      "rate": 0,
+      "rate": 9,
       "image": "something-is-wrong-here",
       "isPlayed": false,
       "age": 0,
